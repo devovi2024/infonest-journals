@@ -1,0 +1,326 @@
+{
+   
+
+  "posts": [
+    {
+      "id": 1,
+      "title": "The Future of Renewable Energy",
+      "author": "Mow",
+      "category": "Environment",
+      "views": 180,
+      "content": "Renewable energy is key to a sustainable future...",
+      "date": "2025-04-20",
+      "thumbnail": "https://i.ibb.co/tMypL71X/react-icon-svg.webp",
+      "videoUrl": "https://files.catbox.moe/aupwi9.mp4",
+      "imageUrl": "https://i.ibb.co/DfGD1rXr/AI-Drone.jpg",
+      "slug": "the-future-of-renewable-energy",
+      "level": "headline"
+    },
+    {
+      "id": 2,
+      "title": "The Role of Solar Power in the Future",
+      "author": "Mow",
+      "category": "Environment",
+      "views": 120,
+      "content": "Solar power will play a major role in the future of energy...",
+      "date": "2025-04-21",
+      "thumbnail": "https://i.ibb.co/tMypL71X/react-icon-svg.webp",
+      "videoUrl": "https://files.catbox.moe/aupwi9.mp4",
+      "imageUrl": "https://i.ibb.co/DfGD1rXr/AI-Drone.jpg",
+      "slug": "the-role-of-solar-power-in-the-future",
+      "level": "feature"
+    },
+    {
+      "id": 3,
+      "title": "Wind Energy: A Sustainable Solution",
+      "author": "Mow",
+      "category": "Environment",
+      "views": 150,
+      "content": "Wind energy is one of the fastest-growing renewable energy sources...",
+      "date": "2025-04-22",
+      "thumbnail": "https://i.ibb.co/tMypL71X/react-icon-svg.webp",
+      "videoUrl": "https://files.catbox.moe/aupwi9.mp4",
+      "imageUrl": "https://i.ibb.co/DfGD1rXr/AI-Drone.jpg",
+      "slug": "wind-energy-a-sustainable-solution",
+      "level": "breaking news"
+    },
+    {
+      "id": 4,
+      "title": "The Impact of Electric Vehicles on Energy Consumption",
+      "author": "Mow",
+      "category": "Environment",
+      "views": 220,
+      "content": "Electric vehicles are transforming the transportation sector and energy consumption...",
+      "date": "2025-04-23",
+      "thumbnail": "https://i.ibb.co/tMypL71X/react-icon-svg.webp",
+      "videoUrl": "https://files.catbox.moe/aupwi9.mp4",
+      "imageUrl": "https://i.ibb.co/DfGD1rXr/AI-Drone.jpg",
+      "slug": "the-impact-of-electric-vehicles-on-energy-consumption",
+      "level": "feature"
+    },
+    {
+      "id": 5,
+      "title": "Sustainability in the Building Industry",
+      "author": "Mow",
+      "category": "Environment",
+      "views": 250,
+      "content": "The construction industry is increasingly adopting sustainable practices...",
+      "date": "2025-04-24",
+      "thumbnail": "https://i.ibb.co/tMypL71X/react-icon-svg.webp",
+      "videoUrl": "https://files.catbox.moe/aupwi9.mp4",
+      "imageUrl": "https://i.ibb.co/DfGD1rXr/AI-Drone.jpg",
+      "slug": "sustainability-in-the-building-industry",
+      "level": "headline"
+    },
+    {
+      "id": 6,
+      "title": "Exploring Artificial Intelligence in 2025",
+      "author": "Mow",
+      "category": "Technology",
+      "views": 320,
+      "content": "Artificial Intelligence is evolving faster than ever...",
+      "date": "2025-04-22",
+      "thumbnail": "https://i.ibb.co/tMypL71X/react-icon-svg.webp",
+      "videoUrl": "https://files.catbox.moe/aupwi9.mp4",
+      "imageUrl": "https://i.ibb.co/DfGD1rXr/AI-Drone.jpg",
+      "slug": "exploring-artificial-intelligence-in-2025",
+      "level": "feature"
+    },
+    {
+      "id": 7,
+      "title": "Quantum Computing: The Next Frontier",
+      "author": "Mow",
+      "category": "Technology",
+      "views": 400,
+      "content": "Quantum computing is set to revolutionize computing power...",
+      "date": "2025-04-23",
+      "thumbnail": "https://i.ibb.co/tMypL71X/react-icon-svg.webp",
+      "videoUrl": "https://files.catbox.moe/aupwi9.mp4",
+      "imageUrl": "https://i.ibb.co/DfGD1rXr/AI-Drone.jpg",
+      "slug": "quantum-computing-the-next-frontier",
+      "level": "headline"
+    },
+    {
+      "id": 8,
+      "title": "5G Networks and Their Impact on Communication",
+      "author": "Mow",
+      "category": "Technology",
+      "views": 290,
+      "content": "5G technology will significantly improve communication systems...",
+      "date": "2025-04-24",
+      "thumbnail": "https://i.ibb.co/tMypL71X/react-icon-svg.webp",
+      "videoUrl": "https://files.catbox.moe/aupwi9.mp4",
+      "imageUrl": "https://i.ibb.co/DfGD1rXr/AI-Drone.jpg",
+      "slug": "5g-networks-and-their-impact-on-communication",
+      "level": "breaking news"
+    },
+    {
+      "id": 9,
+      "title": "The Rise of Edge Computing",
+      "author": "Mow",
+      "category": "Technology",
+      "views": 500,
+      "content": "Edge computing is changing how data is processed...",
+      "date": "2025-04-25",
+      "thumbnail": "https://i.ibb.co/tMypL71X/react-icon-svg.webp",
+      "videoUrl": "https://files.catbox.moe/aupwi9.mp4",
+      "imageUrl": "https://i.ibb.co/DfGD1rXr/AI-Drone.jpg",
+      "slug": "the-rise-of-edge-computing",
+      "level": "feature"
+    },
+    {
+      "id": 10,
+      "title": "Blockchain Beyond Cryptocurrency",
+      "author": "Mow",
+      "category": "Technology",
+      "views": 350,
+      "content": "Blockchain technology has far-reaching applications beyond crypto...",
+      "date": "2025-04-26",
+      "thumbnail": "https://i.ibb.co/tMypL71X/react-icon-svg.webp",
+      "videoUrl": "https://files.catbox.moe/aupwi9.mp4",
+      "imageUrl": "https://i.ibb.co/DfGD1rXr/AI-Drone.jpg",
+      "slug": "blockchain-beyond-cryptocurrency",
+      "level": "breaking news"
+    },
+    {
+      "id": 11,
+      "title": "The Importance of Cybersecurity in 2025",
+      "author": "Mow",
+      "category": "Technology",
+      "views": 275,
+      "content": "Cybersecurity continues to be a crucial aspect of technology in 2025...",
+      "date": "2025-04-27",
+      "thumbnail": "https://i.ibb.co/tMypL71X/react-icon-svg.webp",
+      "videoUrl": "https://files.catbox.moe/aupwi9.mp4",
+      "imageUrl": "https://i.ibb.co/DfGD1rXr/AI-Drone.jpg",
+      "slug": "the-importance-of-cybersecurity-in-2025",
+      "level": "feature"
+    },
+    {
+      "id": 12,
+      "title": "The Evolution of Wearable Technology",
+      "author": "Mow",
+      "category": "Technology",
+      "views": 390,
+      "content": "Wearable tech is evolving rapidly and impacting the way we live...",
+      "date": "2025-04-28",
+      "thumbnail": "https://i.ibb.co/tMypL71X/react-icon-svg.webp",
+      "videoUrl": "https://files.catbox.moe/aupwi9.mp4",
+      "imageUrl": "https://i.ibb.co/DfGD1rXr/AI-Drone.jpg",
+      "slug": "the-evolution-of-wearable-technology",
+      "level": "headline"
+    },
+    {
+      "id": 13,
+      "title": "The Future of Cloud Computing",
+      "author": "Mow",
+      "category": "Technology",
+      "views": 430,
+      "content": "Cloud computing continues to grow and evolve into a key infrastructure...",
+      "date": "2025-04-29",
+      "thumbnail": "https://i.ibb.co/tMypL71X/react-icon-svg.webp",
+      "videoUrl": "https://files.catbox.moe/aupwi9.mp4",
+      "imageUrl": "https://i.ibb.co/DfGD1rXr/AI-Drone.jpg",
+      "slug": "the-future-of-cloud-computing",
+      "level": "breaking news"
+    },
+    {
+      "id": 14,
+      "title": "AI and the Future of Healthcare",
+      "author": "Mow",
+      "category": "Technology",
+      "views": 220,
+      "content": "AI is revolutionizing healthcare by improving diagnosis and treatment...",
+      "date": "2025-04-30",
+      "thumbnail": "https://i.ibb.co/tMypL71X/react-icon-svg.webp",
+      "videoUrl": "https://files.catbox.moe/aupwi9.mp4",
+      "imageUrl": "https://i.ibb.co/DfGD1rXr/AI-Drone.jpg",
+      "slug": "ai-and-the-future-of-healthcare",
+      "level": "feature"
+    },
+    {
+      "id": 15,
+      "title": "Augmented Reality: The Future of Gaming",
+      "author": "Mow",
+      "category": "Technology",
+      "views": 340,
+      "content": "Augmented reality is changing the landscape of the gaming industry...",
+      "date": "2025-05-01",
+      "thumbnail": "https://i.ibb.co/tMypL71X/react-icon-svg.webp",
+      "videoUrl": "https://files.catbox.moe/aupwi9.mp4",
+      "imageUrl": "https://i.ibb.co/DfGD1rXr/AI-Drone.jpg",
+      "slug": "augmented-reality-the-future-of-gaming",
+      "level": "headline"
+    },
+    {
+      "id": 16,
+      "title": "The Rise of Smart Cities",
+      "author": "Mow",
+      "category": "Technology",
+      "views": 500,
+      "content": "Smart cities are becoming more integrated with technology to improve urban living...",
+      "date": "2025-05-02",
+      "thumbnail": "https://i.ibb.co/tMypL71X/react-icon-svg.webp",
+      "videoUrl": "https://files.catbox.moe/aupwi9.mp4",
+      "imageUrl": "https://i.ibb.co/DfGD1rXr/AI-Drone.jpg",
+      "slug": "the-rise-of-smart-cities",
+      "level": "breaking news"
+    },
+    {
+      "id": 17,
+      "title": "Automation in Manufacturing",
+      "author": "Mow",
+      "category": "Technology",
+      "views": 600,
+      "content": "Automation is transforming the manufacturing sector with robotics and AI...",
+      "date": "2025-05-03",
+      "thumbnail": "https://i.ibb.co/tMypL71X/react-icon-svg.webp",
+      "videoUrl": "https://files.catbox.moe/aupwi9.mp4",
+      "imageUrl": "https://i.ibb.co/DfGD1rXr/AI-Drone.jpg",
+      "slug": "automation-in-manufacturing",
+      "level": "feature"
+    },
+    {
+      "id": 18,
+      "title": "Digital Transformation in Education",
+      "author": "Mow",
+      "category": "Technology",
+      "views": 490,
+      "content": "Education is undergoing a digital transformation with online learning and AI tools...",
+      "date": "2025-05-04",
+      "thumbnail": "https://i.ibb.co/tMypL71X/react-icon-svg.webp",
+      "videoUrl": "https://files.catbox.moe/aupwi9.mp4",
+      "imageUrl": "https://i.ibb.co/DfGD1rXr/AI-Drone.jpg",
+      "slug": "digital-transformation-in-education",
+      "level": "breaking news"
+    },
+    {
+      "id": 19,
+      "title": "The Ethics of AI",
+      "author": "Mow",
+      "category": "Technology",
+      "views": 450,
+      "content": "The ethical considerations surrounding the rise of AI technology are crucial...",
+      "date": "2025-05-05",
+      "thumbnail": "https://i.ibb.co/tMypL71X/react-icon-svg.webp",
+      "videoUrl": "https://files.catbox.moe/aupwi9.mp4",
+      "imageUrl": "https://i.ibb.co/DfGD1rXr/AI-Drone.jpg",
+      "slug": "the-ethics-of-ai",
+      "level": "feature"
+    },
+    {
+      "id": 20,
+      "title": "Smart Home Technologies: A Glimpse Into the Future",
+      "author": "Mow",
+      "category": "Technology",
+      "views": 650,
+      "content": "Smart home technologies are making everyday living more efficient and convenient...",
+      "date": "2025-05-06",
+      "thumbnail": "https://i.ibb.co/tMypL71X/react-icon-svg.webp",
+      "videoUrl": "https://files.catbox.moe/aupwi9.mp4",
+      "imageUrl": "https://i.ibb.co/DfGD1rXr/AI-Drone.jpg",
+      "slug": "smart-home-technologies-a-glimpse-into-the-future",
+      "level": "feature"
+    }
+      ],
+
+"categories": [
+    {
+      "name": "Environment",
+      "slug": "environment",
+      "image": "../public/thumbnails/thumbnail1.jpg"
+    },
+    {
+      "name": "Technology",
+      "slug": "technology",
+      "image": "../public/thumbnails/thumbnail1.jpg"
+    },
+    {
+      "name": "Design",
+      "slug": "design",
+      "image": "../public/thumbnails/thumbnail1.jpg"
+    },
+    {
+      "name": "Business",
+      "slug": "business",
+      "image": "../public/thumbnails/thumbnail1.jpg"
+    },
+    {
+      "name": "Sports",
+      "slug": "sports",
+      "image": "../public/thumbnails/thumbnail1.jpg"
+    },
+    {
+      "name": "Entertainment",
+      "slug": "entertainment",
+      "image": "../public/thumbnails/thumbnail1.jpg"
+    },
+    {
+      "name": "Health",
+      "slug": "health",
+      "image": "../public/thumbnails/thumbnail1.jpg"
+    }
+  ]
+  
+  }
+  

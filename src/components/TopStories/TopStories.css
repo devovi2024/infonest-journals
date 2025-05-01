@@ -1,0 +1,48 @@
+/* Hide scrollbar on slider */
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  
+  
+  
+  /* Article Hover Effects */
+  .article-container:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .article-container .overlay {
+    opacity: 1;
+    transition: opacity 0.3s ease-in-out;
+  }
+  
+  /* Animated Article Titles */
+  @keyframes slideIn {
+    from {
+      transform: translateY(10px);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  
+  .article-title {
+    animation: slideIn 0.3s ease-out;
+  }
+  
+  /* Dark Mode Styles */
+  body.dark {
+    background-color: #1a1a1a;
+    color: white;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  
