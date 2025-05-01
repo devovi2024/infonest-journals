@@ -9,6 +9,7 @@ import EnvironmentSection from "../components/EnvironmentSection";
 import CategoryList from "../components/CategoryList";
 import BusinessPosts from "../components/BusinessPosts/BusinessPosts";
 import TopStories from "../components/TopStories/TopStories";
+import Opinion from "../components/Opinion/Opinion";
 // import FeaturedSection from "../components/FeaturedSection";
 
 
@@ -18,6 +19,22 @@ const Home = ({ posts, categories }) => {
 
       <section>
         <TopStories posts={posts}/>
+
+
+
+
+
+                {/* Opinion and  */}
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+          <div className="lg:col-span-2">
+             <div className="bg-white rounded-xl shadow-md p-6 transition-transform hover:scale-[1.01] duration-300">
+              <Opinion posts={posts} />
+            </div>
+          </div>
+          <div>
+              {/* <News /> */}
+          </div>
+        </div>
       </section>
 
     <section>
