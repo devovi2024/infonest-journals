@@ -15,6 +15,11 @@ import NewsTabs from "../components/NewsTabs/NewsTabs";
 import FeaturedNews from "../components/FeaturedNews/FeaturedNews";
 import TechnologyPosts from "../components/TechnologyPosts/TechnologyPosts"
 import RecentTechnologyPosts from "../components/RecentTechnologyPosts/RecentTechnologyPosts";
+import SocialMediaWidget from "../components/SocialMediaWidget/SocialMediaWidget";
+import MostSharePosts from '../components/MostSharedPosts/MostSharedPosts'
+import Carousel from "../components/Carousel/Carousel";
+
+
 const Home = ({ posts, categories }) => {
   return (
     <div className="container mx-auto px-4 font-sans">
@@ -60,12 +65,17 @@ const Home = ({ posts, categories }) => {
 
           <div className="space-y-6">
             {/* <SocialMediaWidget /> */}
+            <SocialMediaWidget/>
             <div className="hidden lg:block">
-              {/* <MostSharedList /> */}
+              <MostSharePosts posts={posts}/>
             </div>
           </div>
         </div>
 
+
+       <div>
+       <Carousel posts={posts}/>
+       </div>
 
       </section>
 

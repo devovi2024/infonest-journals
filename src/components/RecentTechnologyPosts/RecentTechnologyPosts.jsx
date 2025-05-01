@@ -8,10 +8,8 @@ const RecentTechnologyPosts = ({ posts }) => {
 
   return (
     <div className="mt-12 px-4 font-serif bg-[#f5f2eb]">
-      <h2 className="text-3xl text-[#2f2f2f] font-bold mb-8 border-b border-[#ccc] pb-2 tracking-wide">
-        Recent Technology Stories
-      </h2>
-      <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8">
+      
+      <div className="grid  p-4 sm:grid-cols-2 lg:grid-cols-3 gap-8">
         {recentTechnology.map((item, index) => (
           <div
             key={index}
