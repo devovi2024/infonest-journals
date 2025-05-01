@@ -11,7 +11,7 @@ import BusinessPosts from "../components/BusinessPosts/BusinessPosts";
 import TopStories from "../components/TopStories/TopStories";
 import Opinion from "../components/Opinion/Opinion";
 // import FeaturedSection from "../components/FeaturedSection";
-
+import NewsTabs from "../components/NewsTabs/NewsTabs";
 
 const Home = ({ posts, categories }) => {
   return (
@@ -33,6 +33,8 @@ const Home = ({ posts, categories }) => {
           </div>
           <div>
               {/* <News /> */}
+              <NewsTabs posts={posts}/>
+              
           </div>
         </div>
       </section>
