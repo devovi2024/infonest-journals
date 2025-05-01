@@ -1,5 +1,6 @@
 import React from 'react';
 import { FaCalendarAlt } from 'react-icons/fa';
+import { Link } from 'react-router-dom';
 
 const RelatedPosts = ({ posts, currentCategory }) => {
   const relatedPosts = posts.filter((article) => article.category === currentCategory);
@@ -23,9 +24,12 @@ const RelatedPosts = ({ posts, currentCategory }) => {
               <FaCalendarAlt className="mr-1 text-[#a34d2d]" />
               <span>{article.date}</span>
             </div>
-            <h3 className="text-base font-bold text-[#2f1c11] hover:text-[#a34d2d] cursor-pointer">
-              {article.title}
-            </h3>
+         
+            <Link to={`/post/${article.slug}`} className="text-blue-500 hover:underline">
+              <h3 className="text-base font-bold text-[#2f1c11] hover:text-[#a34d2d] cursor-pointer">
+                {article.title}
+              </h3>
+            </Link>
           </div>
         </div>
       ))}

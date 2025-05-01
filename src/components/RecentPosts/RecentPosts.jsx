@@ -1,5 +1,6 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { FaCalendarAlt } from 'react-icons/fa';
+import { Link } from 'react-router-dom';
 
 const posts = [
   {
@@ -7,24 +8,28 @@ const posts = [
     category: "Development",
     image: "https://i.ibb.co/9mxRkrrN/pexels-pixabay-262508.jpg",
     date: "2025-04-25",
+    slug: "how-to-build-a-react-app"
   },
   {
     title: "Exploring the World of JavaScript",
     category: "Programming",
     image: "https://i.ibb.co/9mxRkrrN/pexels-pixabay-262508.jpg",
     date: "2025-05-01",
+    slug: "exploring-the-world-of-javascript"
   },
   {
     title: "Top 10 React Libraries",
     category: "Development",
     image: "https://i.ibb.co/9mxRkrrN/pexels-pixabay-262508.jpg",
     date: "2025-04-28",
+    slug: "top-10-react-libraries"
   },
   {
     title: "Why You Should Learn Vue.js",
     category: "Frameworks",
     image: "https://i.ibb.co/9mxRkrrN/pexels-pixabay-262508.jpg",
     date: "2025-05-02",
+    slug: "why-you-should-learn-vue-js"
   },
 ];
 
@@ -51,9 +56,11 @@ const RecentPosts = ({ posts }) => {
               <FaCalendarAlt className="mr-1 text-[#a34d2d]" />
               <span>{new Date(article.date).toLocaleDateString()}</span>
             </div>
-            <h3 className="text-base font-bold text-[#2f1c11] hover:text-[#a34d2d] cursor-pointer">
-              {article.title}
-            </h3>
+            <Link to={`/post/${article.slug}`} className="text-blue-500 hover:underline">
+              <h3 className="text-base font-bold text-[#2f1c11] hover:text-[#a34d2d] cursor-pointer">
+                {article.title}
+              </h3>
+            </Link>
           </div>
         </div>
       ))}

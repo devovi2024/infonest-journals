@@ -1,5 +1,6 @@
 import React from 'react';
 import { FaCalendarAlt } from 'react-icons/fa';
+import { Link } from 'react-router-dom';
 
 const PopularPosts = ({ posts }) => {
   const popularPosts = [...posts].sort((a, b) => b.views - a.views);
@@ -21,11 +22,13 @@ const PopularPosts = ({ posts }) => {
               <span className="uppercase font-semibold tracking-widest">{article.category}</span>
               <span className="mx-2">/</span>
               <FaCalendarAlt className="mr-1 text-[#a34d2d]" />
-              <span>{article.date}</span>
+              <span>{new Date(article.date).toLocaleDateString()}</span>
             </div>
-            <h3 className="text-base font-bold text-[#2f1c11] hover:text-[#a34d2d] cursor-pointer">
-              {article.title}
-            </h3>
+            <Link to={`/post/${article.slug}`} className="text-blue-500 hover:underline">
+              <h3 className="text-base font-bold text-[#2f1c11] hover:text-[#a34d2d] cursor-pointer">
+                {article.title}
+              </h3>
+            </Link>
           </div>
         </div>
       ))}
