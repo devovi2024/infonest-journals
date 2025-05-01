@@ -13,7 +13,8 @@ import Opinion from "../components/Opinion/Opinion";
 // import FeaturedSection from "../components/FeaturedSection";
 import NewsTabs from "../components/NewsTabs/NewsTabs";
 import FeaturedNews from "../components/FeaturedNews/FeaturedNews";
-
+import TechnologyPosts from "../components/TechnologyPosts/TechnologyPosts"
+import RecentTechnologyPosts from "../components/RecentTechnologyPosts/RecentTechnologyPosts";
 const Home = ({ posts, categories }) => {
   return (
     <div className="container mx-auto px-4 font-sans">
@@ -41,6 +42,31 @@ const Home = ({ posts, categories }) => {
         <div>
           <FeaturedNews posts={posts} />
         </div>
+
+
+
+      
+        {/* Featured Section & Sidebar */}
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+          <div className="lg:col-span-2 space-y-6">
+            <div className="bg-white rounded-xl shadow p-6">
+              <TechnologyPosts posts={posts} />
+            </div>
+            <hr className="border-t border-gray-300 dark:border-gray-600" />
+            <div>
+              <RecentTechnologyPosts posts={posts}/>
+            </div>
+          </div>
+
+          <div className="space-y-6">
+            {/* <SocialMediaWidget /> */}
+            <div className="hidden lg:block">
+              {/* <MostSharedList /> */}
+            </div>
+          </div>
+        </div>
+
+
       </section>
 
     <section>
