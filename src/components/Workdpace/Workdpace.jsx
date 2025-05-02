@@ -1,7 +1,15 @@
 import { useState, useRef, useEffect, Fragment } from "react";
-import { Dialog, Transition } from "@headlessui/react";
+import { Dialog, Transition } from "@headlessui/react";// You can add any React icon you like
 
-const Workspace = ({ thumb, thumbWidth, thumbHeight, thumbAlt, video, videoWidth, videoHeight }) => {
+const Workspace = ({
+  thumb,
+  thumbWidth,
+  thumbHeight,
+  thumbAlt,
+  video,
+  videoWidth,
+  videoHeight,
+}) => {
   const [modalOpen, setModalOpen] = useState(false);
   const videoRef = useRef(null);
 
@@ -12,25 +20,33 @@ const Workspace = ({ thumb, thumbWidth, thumbHeight, thumbAlt, video, videoWidth
   }, [modalOpen]);
 
   return (
-    <div className="">
+    <div className="space-y-6">
       {/* Video Thumbnail + Info Section */}
-      <div>
+      <div className="rounded-xl bg-white shadow-lg overflow-hidden hover:shadow-xl transition-all duration-300 ease-in-out transform hover:scale-105">
         {/* Video Thumbnail Area */}
-        <div className="relative w-full h-72 bg-gray-200 rounded-lg flex items-center justify-center">
+        <div className="relative w-full h-72 bg-gray-200 rounded-lg overflow-hidden">
+          <img
+            src={thumb}
+            alt={thumbAlt}
+            className="w-full h-full object-cover"
+            style={{ objectPosition: "center" }}
+          />
           <button
             onClick={() => setModalOpen(true)}
-            className="bg-blue-500 text-white px-6 py-3 rounded-full hover:bg-blue-600 transition duration-300"
+            className="absolute bottom-4 left-1/2 transform -translate-x-1/2 bg-blue-600 text-white px-6 py-3 rounded-full shadow-lg hover:bg-blue-700 transition duration-300 flex items-center space-x-2"
           >
-            ▶ Play
+            <FaPlay className="text-lg" />
+            <span>Play</span>
           </button>
         </div>
 
         {/* News Info Area */}
-        <div className="mt-[-10px] bg-gray-200 rounded-lg mx-auto p-6 shadow-md text-gray-700 text-lg leading-relaxed text-justify">
-          <hr />
-          <p className="text-gray-600 font-semibold uppercase mb-2 tracking-wider">Technology</p>
-          <p className="text-gray-500 mb-4">March 26, 2020</p>
-          <h3 className="text-2xl font-bold text-gray-800 leading-snug mb-4">
+        <div className="bg-gray-100 p-6 rounded-b-lg text-gray-700">
+          <p className="text-sm font-semibold uppercase mb-2 tracking-wider text-gray-500">
+            Technology
+          </p>
+          <p className="text-xs text-gray-400 mb-4">March 26, 2020</p>
+          <h3 className="text-xl font-bold text-gray-800 leading-snug mb-4">
             Riots Report Shows London Needs To Maintain Police Numbers, Says Mayor
           </h3>
         </div>
@@ -64,7 +80,6 @@ const Workspace = ({ thumb, thumbWidth, thumbHeight, thumbAlt, video, videoWidth
           >
             <div className="fixed inset-0 flex items-center justify-center p-4">
               <Dialog.Panel className="relative w-full max-w-5xl aspect-video bg-black rounded-2xl overflow-hidden shadow-2xl">
-                
                 {/* ❌ Close Button */}
                 <button
                   onClick={() => setModalOpen(false)}

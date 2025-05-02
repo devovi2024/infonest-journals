@@ -1,35 +1,44 @@
-import React from 'react';
+import React from 'react'; 
+import { useSpring, animated } from 'react-spring'; // React Spring for animations
 
 const SportsPosts = ({ posts }) => {
   // Filter only sports category posts
   const sportsPosts = posts.filter(post => post.category.toLowerCase() === 'sports');
 
+  // Animation for each post's hover effect
+  const hoverSpring = useSpring({
+    transform: 'scale(1)',
+    from: { transform: 'scale(0.98)' },
+    config: { tension: 300, friction: 20 },
+  });
+
   return (
-    <div className="bg-[#f7f7f7] p-6">
+    <div className="bg-white p-4 font-serif">
       {/* Header */}
-      <h2 className="text-3xl font-serif font-bold text-[#2d2d2d] mb-8 border-b-2 border-gray-300 pb-2">
+      <h2 className="text-xl font-light text-[#333] mb-6 border-b-[2px] border-gray-300 pb-2">
         Sports News
       </h2>
 
-      {/* Scrollable News Container */}
-      <div className="max-h-[500px] overflow-y-auto scrollbar-thin scrollbar-thumb-gray-400 scrollbar-track-gray-200 pr-2">
+      {/* Scrollable News Container with increased height */}
+      <div className="max-h-[500px] overflow-y-auto scrollbar-thin scrollbar-thumb-gray-300 scrollbar-track-gray-100 pr-2">
         {sportsPosts.length > 0 ? (
           sportsPosts.map((item, index) => (
-            <div
+            <animated.div
               key={index}
-              className="flex flex-col bg-white shadow-md rounded-lg overflow-hidden mb-6"
+              style={hoverSpring}
+              className="flex flex-col bg-white border border-gray-200 rounded-lg shadow-sm mb-6 hover:shadow-md transition duration-300 ease-in-out transform hover:scale-105"
             >
               {/* Image */}
               <div className="relative">
                 <img
                   src={item.image}
                   alt={item.headline}
-                  className="w-full h-40 object-cover"
+                  className="w-full h-48 object-cover transition-all duration-500 ease-in-out hover:grayscale-0"
                 />
                 {/* Red Circle with Lightning Bolt */}
-                <div className="absolute top-3 left-3 w-8 h-8 bg-red-500 rounded-full flex items-center justify-center">
+                <div className="absolute top-2 left-2 w-6 h-6 bg-red-500 rounded-full flex items-center justify-center">
                   <svg
-                    className="w-4 h-4 text-white"
+                    className="w-3 h-3 text-white"
                     fill="none"
                     stroke="currentColor"
                     viewBox="0 0 24 24"
@@ -44,25 +53,24 @@ const SportsPosts = ({ posts }) => {
                   </svg>
                 </div>
               </div>
+
               {/* Content */}
-              <div className="p-6">
-                <div className="text-sm text-[#0056b3] font-semibold">
-                  {item.category} <span className="text-gray-500">/ {item.date}</span>
+              <div className="p-4">
+                <div className="text-xs text-[#007bff] font-semibold">
+                  {item.category} <span className="text-gray-400">| {item.date}</span>
                 </div>
-                <h3 className="text-2xl font-serif font-extrabold text-[#1a1a1a] mt-2 mb-4">
-                  {item.headline}
+                <h3 className="text-xl font-semibold text-[#2f2f2f] mt-2 mb-4 hover:text-[#0056b3] cursor-pointer transition-colors duration-200">
+                  {item.title}
                 </h3>
-                <p className="text-lg font-serif text-[#4a4a4a] mb-4">
-                  {item.description}
-                </p>
-                <button className="px-5 py-2 border border-[#ccc] text-[#555] text-sm font-medium rounded hover:bg-gray-100 transition">
+                <p className="text-sm text-gray-500 mb-4">{item.description}</p>
+                <button className="px-4 py-1.5 border border-[#ddd] text-[#555] text-xs font-medium rounded hover:bg-gray-100 transition-all duration-300">
                   READ MORE
                 </button>
               </div>
-            </div>
+            </animated.div>
           ))
         ) : (
-          <p className="text-gray-500 font-serif">No sports news available.</p>
+          <p className="text-gray-400 font-serif text-sm">No sports news available.</p>
         )}
       </div>
     </div>

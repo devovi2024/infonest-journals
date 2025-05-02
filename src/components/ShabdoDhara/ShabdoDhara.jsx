@@ -19,7 +19,7 @@ const ShabdoDhara = ({ posts }) => {
   };
 
   return (
-    <div className="px-6 py-8 bg-gradient-to-br from-gray-50 to-white min-h-screen">
+    <div className="px-6 py-8 bg-gradient-to-br from-gray-50 to-white ">
       {/* Header */}
       <div className="flex justify-between items-center mb-8">
         <h2 className="text-3xl font-bold text-indigo-600 tracking-wide">Discover ShabdoDhara</h2>

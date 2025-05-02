@@ -11,6 +11,7 @@ const App = () => {
 
   useEffect(() => {
     const fetchData = async () => {
+      // Fetching from the 'public' folder where the data.json file resides
       const response = await fetch('/data.json');
       const data = await response.json();
       setPosts(data.posts);

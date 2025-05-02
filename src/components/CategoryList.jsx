@@ -1,40 +1,36 @@
 import { Link } from "react-router-dom";
-import { FaArrowRight } from 'react-icons/fa';  // Import the React icon
-// import './CategoryList.css'; // Import the custom CSS
+import { FaArrowRight } from "react-icons/fa";
 
 const CategoryList = ({ categories }) => {
   if (!categories || categories.length === 0) {
-    return <p className="no-categories">No categories available.</p>;
+    return <p className="text-center text-gray-500">No categories found.</p>;
   }
 
   return (
-    <div className="category-container py-8 px-4">
-      <h2 className="category-title text-3xl font-semibold text-center mb-6">📚 Categories</h2>
+    <div className="py-10 px-4">
+      <h2 className="text-3xl font-bold mb-8 text-amber-800 tracking-wide">
+        🌍 Explore Our Roots
+      </h2>
 
-      <div className="category-grid grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-1 gap-6">
-        {categories.map((cat, i) => (
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+        {categories.map((cat, index) => (
           <Link
-            key={i}
+            key={index}
             to={`/category/${cat.slug}`}
-            aria-label={`View ${cat.name} category`}
-            className="category-card relative rounded-lg overflow-hidden shadow-lg"
+            className="border-2 border-amber-900 rounded-xl overflow-hidden bg-white hover:bg-amber-50 transition-all duration-300"
           >
-            {/* Background Image */}
             <div
-              className="category-image bg-cover bg-center h-48" // Reduced height for a smaller image
+              className="h-48 bg-cover bg-center relative"
               style={{ backgroundImage: `url(${cat.image})` }}
             >
-              <div className="category-overlay absolute inset-0 bg-black bg-opacity-50 flex justify-center items-center">
-                {/* Category Name */}
-                <h3 className="category-name text-white text-2xl font-bold">{cat.name}</h3>
-
-                {/* View Products Button */}
-                <a
-                  href={`/category/${cat.id}`}  // Assuming you have dynamic category links
-                  className="view-products-btn text-white text-xl flex items-center mt-4"
-                >
-                  <FaArrowRight className="ml-2" /> {/* React icon for the arrow */}
-                </a>
+              <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent p-4 flex flex-col justify-end">
+                <h3 className="text-lg font-semibold text-white drop-shadow">
+                  {cat.name}
+                </h3>
+                <div className="flex items-center text-sm text-yellow-200 mt-1">
+                  <span className="mr-2">Dive In</span>
+                  <FaArrowRight />
+                </div>
               </div>
             </div>
           </Link>

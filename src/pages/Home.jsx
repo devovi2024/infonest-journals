@@ -1,20 +1,15 @@
 
-import React from "react";
-import TrendingPost from "../components/TrendingPost";
-import RecentSection from "../components/RecentSection";
-import PopularSection from "../components/PopularSection";
-import EnvironmentSection from "../components/EnvironmentSection";
 import CategoryList from "../components/CategoryList";
 import BusinessPosts from "../components/BusinessPosts/BusinessPosts";
 import TopStories from "../components/TopStories/TopStories";
 import Opinion from "../components/Opinion/Opinion";
 // import FeaturedSection from "../components/FeaturedSection";
-import NewsTabs from "../components/NewsTabs/NewsTabs";
+import NewsTabs from "../components/NewsTabs/NewsTabs"; 
 import FeaturedNews from "../components/FeaturedNews/FeaturedNews";
-import TechnologyPosts from "../components/TechnologyPosts/TechnologyPosts"
+import TechnologyPosts from "../components/TechnologyPosts/TechnologyPosts";
 import RecentTechnologyPosts from "../components/RecentTechnologyPosts/RecentTechnologyPosts";
 import SocialMediaWidget from "../components/SocialMediaWidget/SocialMediaWidget";
-import MostSharePosts from '../components/MostSharedPosts/MostSharedPosts'
+import MostSharePosts from '../components/MostSharedPosts/MostSharedPosts';
 import Carousel from "../components/Carousel/Carousel";
 import Workspace from "../components/Workdpace/Workdpace";
 import PopularPosts from "../components/PopularPosts/PopularPosts";
@@ -22,31 +17,27 @@ import MostView from "../components/MostView/MostView";
 import EntertainmentPosts from "../components/EntertainmentPosts/EntertainmentPosts";
 import SportsPosts from "../components/SportsPosts/SportsPosts";
 import SciencePosts from "../components/SciencePosts/SciencePosts";
-import NewsparkBanner from "../components/NewsparkBanner/NewsparkBanner"
+import NewsparkBanner from "../components/NewsparkBanner/NewsparkBanner";
 import BusinessNews from "../components/BusinessNews/BusinessNews";
 import ShabdoDhara from "../components/ShabdoDhara/ShabdoDhara";
+import UpcomingMatches from "../components/UpcomingMatches/UpcomingMatches";
+import NewsLetter from "../components/NewsLetter/NewsLetter";
 
 const Home = ({ posts, categories }) => {
   return (
     <div className="container mx-auto px-4 font-sans">
-
       <section>
-        <TopStories posts={posts}/>
+        <TopStories posts={posts} />
 
-
-
-
-
-        {/* Opinion and  */}
+        {/* Opinion and Sidebar */}
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
           <div className="lg:col-span-2">
-             <div className="bg-white rounded-xl shadow-md p-6 transition-transform hover:scale-[1.01] duration-300">
+            <div className="bg-white rounded-xl shadow-md p-6 transition-transform hover:scale-[1.01] duration-300">
               <Opinion posts={posts} />
             </div>
           </div>
           <div>
-              {/* <News /> */}
-              <NewsTabs posts={posts}/>
+            <NewsTabs posts={posts} />
           </div>
         </div>
 
@@ -54,9 +45,6 @@ const Home = ({ posts, categories }) => {
           <FeaturedNews posts={posts} />
         </div>
 
-
-
-      
         {/* Featured Section & Sidebar */}
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
           <div className="lg:col-span-2 space-y-6">
@@ -65,25 +53,21 @@ const Home = ({ posts, categories }) => {
             </div>
             <hr className="border-t border-gray-300 dark:border-gray-600" />
             <div>
-              <RecentTechnologyPosts posts={posts}/>
+              <RecentTechnologyPosts posts={posts} />
             </div>
           </div>
 
           <div className="space-y-6">
-            {/* <SocialMediaWidget /> */}
-            <SocialMediaWidget/>
+            <SocialMediaWidget />
             <div className="hidden lg:block">
-              <MostSharePosts posts={posts}/>
+              <MostSharePosts posts={posts} />
             </div>
           </div>
         </div>
 
-
-       <div>
-       <Carousel posts={posts}/>
-       </div>
-
-
+        <div>
+          <Carousel posts={posts} />
+        </div>
 
         {/* Workspace & Popular Posts */}
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
@@ -105,52 +89,31 @@ const Home = ({ posts, categories }) => {
           </div>
         </div>
 
-
-                {/* Entertainment, Sports, Business & Sidebar */}
-          <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-            <div className="lg:col-span-2 space-y-10">
-              <EntertainmentPosts posts={posts} />
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                <SportsPosts posts={posts}/>
-                <SciencePosts posts={posts}/>
-              </div>
-              <div>
-                <NewsparkBanner/>
-              </div>
-              <div>
-                <BusinessNews posts={posts}/>
-              </div>
+        {/* Entertainment, Sports, Business & Sidebar */}
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+          <div className="lg:col-span-2 space-y-10">
+            <EntertainmentPosts posts={posts} />
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+              <SportsPosts posts={posts} />
+              <SciencePosts posts={posts} />
             </div>
-
-            <div className="space-y-6">
-              {/* <MostSharedList /> */}
-              <ShabdoDhara posts={posts}/>
-              {/* <UpcomingMatches /> */}
-              <hr className="border-t border-gray-400 dark:border-gray-700" style={{ borderStyle: 'dotted' }} />
-              {/* <NewsLetter /> */}
-              {/* <Categories /> */}
-              {/* <NewsparkAd /> */}
+            <div>
+              <NewsparkBanner />
             </div>
+            <div>
+              <BusinessNews posts={posts} />
+            </div>
+          </div>
+
+          <div className="">
+            <ShabdoDhara posts={posts} />
+            <UpcomingMatches />
+            <hr className="border-t border-gray-400 dark:border-gray-700" style={{ borderStyle: 'dotted' }} />
+            <CategoryList categories={categories} />
+            <NewsLetter />
+          </div>
         </div>
-
       </section>
-
-    <section>
-      <div>
-        <BusinessPosts posts={posts}/>
-      </div>
-    </section>
-
-      
-
-      <RecentSection posts={posts} />
-      <PopularSection posts={posts} />
-      <div className="flex">
-      <EnvironmentSection posts={posts} />
-      <div className="w-1/3 ">
-      <CategoryList categories={categories} />
-      </div>
-      </div>
     </div>
   );
 };
