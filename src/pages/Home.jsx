@@ -1,6 +1,4 @@
 
-
-
 import React from "react";
 import TrendingPost from "../components/TrendingPost";
 import RecentSection from "../components/RecentSection";
@@ -18,6 +16,9 @@ import RecentTechnologyPosts from "../components/RecentTechnologyPosts/RecentTec
 import SocialMediaWidget from "../components/SocialMediaWidget/SocialMediaWidget";
 import MostSharePosts from '../components/MostSharedPosts/MostSharedPosts'
 import Carousel from "../components/Carousel/Carousel";
+import Workspace from "../components/Workdpace/Workdpace";
+import PopularPosts from "../components/PopularPosts/PopularPosts";
+import MostView from "../components/MostView/MostView";
 
 
 const Home = ({ posts, categories }) => {
@@ -31,7 +32,7 @@ const Home = ({ posts, categories }) => {
 
 
 
-                {/* Opinion and  */}
+        {/* Opinion and  */}
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
           <div className="lg:col-span-2">
              <div className="bg-white rounded-xl shadow-md p-6 transition-transform hover:scale-[1.01] duration-300">
@@ -76,6 +77,28 @@ const Home = ({ posts, categories }) => {
        <div>
        <Carousel posts={posts}/>
        </div>
+
+
+
+        {/* Workspace & Popular Posts */}
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+          <div className="lg:col-span-2">
+            <div className="bg-white rounded-xl shadow-md p-6">
+              <Workspace
+                thumb="/thumb.jpg"
+                thumbWidth={640}
+                thumbHeight={360}
+                thumbAlt="Demo Video"
+                video="/demo.mp4"
+                videoWidth={1280}
+                videoHeight={720}
+              />
+            </div>
+          </div>
+          <div>
+            <MostView posts={posts} />
+          </div>
+        </div>
 
       </section>
 
