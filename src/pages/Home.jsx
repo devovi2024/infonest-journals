@@ -19,7 +19,12 @@ import Carousel from "../components/Carousel/Carousel";
 import Workspace from "../components/Workdpace/Workdpace";
 import PopularPosts from "../components/PopularPosts/PopularPosts";
 import MostView from "../components/MostView/MostView";
-
+import EntertainmentPosts from "../components/EntertainmentPosts/EntertainmentPosts";
+import SportsPosts from "../components/SportsPosts/SportsPosts";
+import SciencePosts from "../components/SciencePosts/SciencePosts";
+import NewsparkBanner from "../components/NewsparkBanner/NewsparkBanner"
+import BusinessNews from "../components/BusinessNews/BusinessNews";
+import ShabdoDhara from "../components/ShabdoDhara/ShabdoDhara";
 
 const Home = ({ posts, categories }) => {
   return (
@@ -98,6 +103,34 @@ const Home = ({ posts, categories }) => {
           <div>
             <MostView posts={posts} />
           </div>
+        </div>
+
+
+                {/* Entertainment, Sports, Business & Sidebar */}
+          <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+            <div className="lg:col-span-2 space-y-10">
+              <EntertainmentPosts posts={posts} />
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <SportsPosts posts={posts}/>
+                <SciencePosts posts={posts}/>
+              </div>
+              <div>
+                <NewsparkBanner/>
+              </div>
+              <div>
+                <BusinessNews posts={posts}/>
+              </div>
+            </div>
+
+            <div className="space-y-6">
+              {/* <MostSharedList /> */}
+              <ShabdoDhara posts={posts}/>
+              {/* <UpcomingMatches /> */}
+              <hr className="border-t border-gray-400 dark:border-gray-700" style={{ borderStyle: 'dotted' }} />
+              {/* <NewsLetter /> */}
+              {/* <Categories /> */}
+              {/* <NewsparkAd /> */}
+            </div>
         </div>
 
       </section>
