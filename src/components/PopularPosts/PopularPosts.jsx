@@ -1,13 +1,15 @@
 import React from 'react';
 import { FaCalendarAlt } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
-
+import '../PopularPosts/Popular.css'
 const PopularPosts = ({ posts }) => {
   const popularPosts = [...posts].sort((a, b) => b.views - a.views);
 
   return (
     <>
-      {popularPosts.map((article, index) => (
+   <div className='  recent-posts-container
+'>
+   {popularPosts.map((article, index) => (
         <div
           key={index}
           className="flex items-center border-b border-[#d4c4b0] border-dashed py-4 last:border-b-0"
@@ -32,6 +34,7 @@ const PopularPosts = ({ posts }) => {
           </div>
         </div>
       ))}
+   </div>
     </>
   );
 };

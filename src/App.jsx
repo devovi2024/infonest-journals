@@ -4,6 +4,8 @@ import Home from "./pages/Home";
 import MainLayout from "./layouts/MainLayout";
 import CategoryPage from "./pages/CategoryPage";
 import PostDetails from "./pages/PostDetails";
+import PptToWordConverter from "./components/App/Convert";
+import BlogDetails from "./components/BlogDetails/BlogDetails";
 
 const App = () => {
   const [posts, setPosts] = useState([]);
@@ -33,10 +35,14 @@ const App = () => {
             path="/category/:slug" 
             element={<CategoryPage posts={posts} />} 
           />
-          <Route 
+          {/* <Route 
             path="/post/:slug" 
             element={<PostDetails posts={posts} categories={categories} />} 
+          /> */}
+          <Route path="/convert" element={<PptToWordConverter/>}
           />
+
+          <Route path="/post/:slug" element={<BlogDetails posts={posts}/>}/>
         </Routes>
       </MainLayout>
     </Router>

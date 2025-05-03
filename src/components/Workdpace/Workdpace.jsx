@@ -1,5 +1,6 @@
 import { useState, useRef, useEffect, Fragment } from "react";
-import { Dialog, Transition } from "@headlessui/react";// You can add any React icon you like
+import { Dialog, Transition } from "@headlessui/react";
+import { FaPlay } from "react-icons/fa"; // ✅ FIXED: Added FaPlay import
 
 const Workspace = ({
   thumb,
@@ -20,7 +21,7 @@ const Workspace = ({
   }, [modalOpen]);
 
   return (
-    <div className="space-y-6">
+    <div >
       {/* Video Thumbnail + Info Section */}
       <div className="rounded-xl bg-white shadow-lg overflow-hidden hover:shadow-xl transition-all duration-300 ease-in-out transform hover:scale-105">
         {/* Video Thumbnail Area */}
@@ -54,7 +55,11 @@ const Workspace = ({
 
       {/* Video Modal */}
       <Transition show={modalOpen} as={Fragment}>
-        <Dialog initialFocus={videoRef} onClose={() => setModalOpen(false)} className="relative z-50">
+        <Dialog
+          initialFocus={videoRef}
+          onClose={() => setModalOpen(false)}
+          className="relative z-50"
+        >
           {/* Backdrop */}
           <Transition.Child
             as={Fragment}
@@ -80,7 +85,7 @@ const Workspace = ({
           >
             <div className="fixed inset-0 flex items-center justify-center p-4">
               <Dialog.Panel className="relative w-full max-w-5xl aspect-video bg-black rounded-2xl overflow-hidden shadow-2xl">
-                {/* ❌ Close Button */}
+                {/* Close Button */}
                 <button
                   onClick={() => setModalOpen(false)}
                   className="absolute top-3 right-3 bg-white text-black rounded-full w-8 h-8 flex items-center justify-center hover:bg-red-600 hover:text-white transition"
@@ -89,7 +94,13 @@ const Workspace = ({
                   ✖
                 </button>
 
-                <video ref={videoRef} controls loop width={videoWidth} height={videoHeight}>
+                <video
+                  ref={videoRef}
+                  controls
+                  loop
+                  width={videoWidth}
+                  height={videoHeight}
+                >
                   <source src={video} type="video/mp4" />
                   Your browser does not support the video tag.
                 </video>

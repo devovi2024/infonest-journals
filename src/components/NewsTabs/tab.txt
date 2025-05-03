@@ -1,0 +1,11 @@
+function handleClick (tab) {
+    setActive(tab);
+}
+
+or--
+
+const handleTabClick = (tab) => {
+    setActive(tab);
+}
+
+

@@ -1,13 +1,14 @@
 import React from 'react';
 import { FaCalendarAlt } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
-
+import '../RelatedPosts/Related.css'
 const RelatedPosts = ({ posts, currentCategory }) => {
   const relatedPosts = posts.filter((article) => article.category === currentCategory);
-
   return (
     <>
-      {relatedPosts.map((article, index) => (
+    <div className='  recent-posts-container
+'>
+    {relatedPosts.map((article, index) => (
         <div
           key={index}
           className="flex items-center border-b border-[#d4c4b0] border-dashed py-4 last:border-b-0"
@@ -33,6 +34,7 @@ const RelatedPosts = ({ posts, currentCategory }) => {
           </div>
         </div>
       ))}
+    </div>
     </>
   );
 };

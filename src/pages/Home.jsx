@@ -11,9 +11,8 @@ import RecentTechnologyPosts from "../components/RecentTechnologyPosts/RecentTec
 import SocialMediaWidget from "../components/SocialMediaWidget/SocialMediaWidget";
 import MostSharePosts from '../components/MostSharedPosts/MostSharedPosts';
 import Carousel from "../components/Carousel/Carousel";
-import Workspace from "../components/Workdpace/Workdpace";
-import PopularPosts from "../components/PopularPosts/PopularPosts";
-import MostView from "../components/MostView/MostView";
+// import Workspace from "../components/Workdpace/Workdpace";
+// import MostView from "../components/MostView/MostView";
 import EntertainmentPosts from "../components/EntertainmentPosts/EntertainmentPosts";
 import SportsPosts from "../components/SportsPosts/SportsPosts";
 import SciencePosts from "../components/SciencePosts/SciencePosts";
@@ -22,10 +21,15 @@ import BusinessNews from "../components/BusinessNews/BusinessNews";
 import ShabdoDhara from "../components/ShabdoDhara/ShabdoDhara";
 import UpcomingMatches from "../components/UpcomingMatches/UpcomingMatches";
 import NewsLetter from "../components/NewsLetter/NewsLetter";
+import { Link } from "react-router-dom";
 
 const Home = ({ posts, categories }) => {
   return (
-    <div className="container mx-auto px-4 font-sans">
+    <div className=" lg:w-11/12 mx-auto  font-sans">
+      
+    <Link to={'/detail'}>
+    Detail
+    </Link>
       <section>
         <TopStories posts={posts} />
 
@@ -47,7 +51,7 @@ const Home = ({ posts, categories }) => {
 
         {/* Featured Section & Sidebar */}
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-          <div className="lg:col-span-2 space-y-6">
+          <div className="lg:col-span-2 ">
             <div className="bg-white rounded-xl shadow p-6">
               <TechnologyPosts posts={posts} />
             </div>
@@ -71,8 +75,8 @@ const Home = ({ posts, categories }) => {
 
         {/* Workspace & Popular Posts */}
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-          <div className="lg:col-span-2">
-            <div className="bg-white rounded-xl shadow-md p-6">
+          {/* <div className="lg:col-span-2">
+            <div className=" bg-white rounded-xl shadow-md mt-10">
               <Workspace
                 thumb="/thumb.jpg"
                 thumbWidth={640}
@@ -83,9 +87,9 @@ const Home = ({ posts, categories }) => {
                 videoHeight={720}
               />
             </div>
-          </div>
+          </div> */}
           <div>
-            <MostView posts={posts} />
+            {/* <MostView posts={posts} /> */}
           </div>
         </div>
 
@@ -105,7 +109,7 @@ const Home = ({ posts, categories }) => {
             </div>
           </div>
 
-          <div className="">
+          <div className="p-7">
             <ShabdoDhara posts={posts} />
             <UpcomingMatches />
             <hr className="border-t border-gray-400 dark:border-gray-700" style={{ borderStyle: 'dotted' }} />

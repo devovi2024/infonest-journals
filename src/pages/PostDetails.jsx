@@ -1,11 +1,11 @@
 import { useParams } from "react-router-dom";
-import RelatedPosts from "../components/RelatedPosts";
-import CommentsSection from "../components/CommentsSection";
-import CategoryList from "../components/CategoryList";
-import PostsTabSection from "../components/PostsTabSection";
-import MostView from "../components/MostView";
+// import RelatedPosts from "../components/RelatedPosts";
+// import CommentsSection from "../components/CommentsSection";
+// import CategoryList from "../components/CategoryList";
+// import PostsTabSection from "../components/PostsTabSection";
+// import MostView from "../components/MostView";
 
-const PostDetails = ({ posts, categories }) => {
+const PostDetails = ({ posts }) => {
   const { slug } = useParams();
   const post = posts.find((p) => p.slug === slug);
 
@@ -43,26 +43,22 @@ const PostDetails = ({ posts, categories }) => {
           </div>
         </div>
 
-        {/* Related Posts Section */}
+        {/* Related Posts Section
         <RelatedPosts
           posts={posts}
           currentPostId={post.id}
           currentPostCategory={post.category}
         />
 
-        {/* Comments Section */}
         <CommentsSection comments={initialComments} postId={post.id} />
       </div>
 
       <div>
-        {/* Posts Tab Section */}
         <PostsTabSection posts={posts} category={post.category} />
         
-        {/* Category List */}
         <CategoryList categories={categories} />
         
-        {/* Most View Section */}
-        <MostView posts={posts} />
+        <MostView posts={posts} /> */}
       </div>
     </section>
   );
