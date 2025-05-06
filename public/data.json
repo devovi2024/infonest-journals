@@ -2,6 +2,8 @@
 
 
   "posts":[
+
+
     {
       "id": 1,
       "title1": "The Future of Renewable Energy",
@@ -19,9 +21,9 @@
       "views": 180,
       "content": "Renewable energy is key to a sustainable future...",
       "date": "2025-04-20",
-      "thumbnail": "https://i.ibb.co.com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "videoUrl": "https://files.catbox.moe/aupwi9.mp4",
-      "image": "https://i.ibb.co.com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
+      "thumbnail": "https://i.postimg.cc/2ScrN9mK/premium-photo-1684581214880-2043e5bc8b8b.avif",
+      "videoUrl": "https://streamable.com/zehmd7",
+      "image": "https://i.imgur.com/FhJ1pym.jpg",
       "slug": "the-future-of-renewable-energy",
       "shares": "4.8k",
       "level": "headline",
@@ -50,2595 +52,690 @@
         }
       ]
     },
+    
     {
       "id": 2,
-      "title1": "Climate Change and Its Impact on Nature",
-      "title2": "The Role of Carbon Footprint Reduction",
-      "title3": "Fighting Global Warming Through Action",
-      "title4": "What You Can Do to Help the Planet",
-      "content1": "Climate change is one of the greatest challenges of our time...",
-      "content2": "Reducing carbon emissions is critical for a sustainable future...",
-      "content3": "There are many actions we can take to lower our carbon footprint...",
-      "like": 1023,
-      "comment": 210,
+      "title1": "AI Revolutionizing Daily Life",
+      "title2": "The Rise of Smart Machines",
+      "title3": "Automation and Innovation",
+      "title4": "Tech-Driven Future",
+      "content1": "Artificial Intelligence is reshaping how we live and work...",
+      "content2": "From smart assistants to self-driving cars, AI is everywhere...",
+      "content3": "Innovation in machine learning is pushing boundaries...",
+      "like": 980,
+      "comment": 185,
       "readtime": "5 min",
       "author": "Mow",
-      "category": "Environment",
-      "views": 320,
-      "content": "It's essential to focus on reducing global warming and taking immediate steps...",
-      "date": "2025-04-22",
-      "thumbnail": "https://i.ibb.co/com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "videoUrl": "https://files.catbox.moe/b7wdz7.mp4",
-      "image": "https://i.ibb.co/com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "slug": "climate-change-and-its-impact-on-nature",
-      "shares": "3.4k",
-      "level": "headline",
-      "comments": [
-        {
-          "avatar": "https://via.placeholder.com/40",
-          "author": "Ovi",
-          "date": "2025-04-21",
-          "content": "This article gives an in-depth view of the renewable energy future. Very insightful!",
-          "likes": 120,
-          "replies": [
-            {
-              "author": "Mow",
-              "content": "Thanks for the feedback, Ovi! More content coming soon!",
-              "date": "2025-04-21",
-              "likes": 45
-            }
-          ]
-        },
-        {
-          "avatar": "https://via.placeholder.com/40",
-          "author": "John Doe",
-          "date": "2025-04-22",
-          "content": "I disagree with some points, but great read overall.",
-          "likes": 80
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "title1": "Sustainable Practices in Agriculture",
-      "title2": "The Future of Organic Farming",
-      "title3": "Agricultural Innovations for a Greener World",
-      "title4": "How Sustainable Farming Can Save the Planet",
-      "content1": "Sustainable farming is not just a trend, it's a necessity...",
-      "content2": "Innovations in agriculture are paving the way for more sustainable methods...",
-      "content3": "Organic farming techniques are becoming more popular due to their environmental benefits...",
-      "like": 920,
-      "comment": 180,
-      "readtime": "5 min",
-      "author": "Mow",
-      "category": "Environment",
-      "views": 250,
-      "content": "Sustainable agriculture is vital for maintaining a healthy ecosystem and food security...",
-      "date": "2025-04-23",
-      "thumbnail": "https://i.ibb.co/com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "videoUrl": "https://files.catbox.moe/fbhdn6.mp4",
-      "image": "https://i.ibb.co/com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "slug": "sustainable-practices-in-agriculture",
-      "shares": "2.1k",
-      "level": "headline",
-      "comments": [
-        {
-          "avatar": "https://via.placeholder.com/40",
-          "author": "Jane Smith",
-          "date": "2025-04-23",
-          "content": "Great article! Loved the focus on organic farming techniques.",
-          "likes": 45
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "title1": "Renewable Energy and Its Impact on the Economy",
-      "title2": "Green Jobs and Economic Growth",
-      "title3": "How Renewable Energy Will Shape the Future",
-      "title4": "Economic Benefits of Sustainable Energy Sources",
-      "content1": "The shift to renewable energy will have far-reaching impacts on the economy...",
-      "content2": "Renewable energy jobs are growing, offering new opportunities for economic growth...",
-      "content3": "Solar, wind, and other renewable energy sources are creating new industries...",
-      "like": 850,
-      "comment": 120,
-      "readtime": "5 min",
-      "author": "Mow",
-      "category": "Environment",
-      "views": 200,
-      "content": "Renewable energy is not only key for the environment, but it is also economically viable...",
-      "date": "2025-04-25",
-      "thumbnail": "https://i.ibb.co/com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "videoUrl": "https://files.catbox.moe/38wxyh.mp4",
-      "image": "https://i.ibb.co/com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "slug": "renewable-energy-and-its-impact-on-the-economy",
-      "shares": "1.7k",
-      "level": "headline",
-      "comments": [
-        {
-          "avatar": "https://via.placeholder.com/40",
-          "author": "Alex Johnson",
-          "date": "2025-04-26",
-          "content": "I completely agree, renewable energy is a great driver for economic development.",
-          "likes": 100
-        }
-      ]
-    },
-    {
-      "id": 1,
-      "title1": "The Future of Renewable Energy",
-      "title2": "Clean Energy Breakthroughs",
-      "title3": "Solar and Wind Integration",
-      "title4": "Policy and Innovation Ahead",
-      "content1": "Renewable energy sources are rapidly gaining ground...",
-      "content2": "Governments are pushing for cleaner alternatives...",
-      "content3": "Solar panels and wind farms are increasingly common...",
-      "like": 1250,
-      "comment": 243,
-      "readtime": "6 min",
-      "author": "Mow",
-      "category": "Environment",
-      "views": 180,
-      "content": "Renewable energy is key to a sustainable future...",
-      "date": "2025-04-20",
-      "thumbnail": "https://i.ibb.co.com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "videoUrl": "https://files.catbox.moe/aupwi9.mp4",
-      "image": "https://i.ibb.co.com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "slug": "the-future-of-renewable-energy",
-      "shares": "4.8k",
-      "level": "headline",
-      "comments": [
-        {
-          "avatar": "https://via.placeholder.com/40",
-          "author": "Ovi",
-          "date": "2025-04-21",
-          "content": "This article gives an in-depth view of the renewable energy future. Very insightful!",
-          "likes": 120,
-          "replies": [
-            {
-              "author": "Mow",
-              "content": "Thanks for the feedback, Ovi! More content coming soon!",
-              "date": "2025-04-21",
-              "likes": 45
-            }
-          ]
-        },
-        {
-          "avatar": "https://via.placeholder.com/40",
-          "author": "John Doe",
-          "date": "2025-04-22",
-          "content": "I disagree with some points, but great read overall.",
-          "likes": 80
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "title1": "Climate Change and Its Impact on Nature",
-      "title2": "The Role of Carbon Footprint Reduction",
-      "title3": "Fighting Global Warming Through Action",
-      "title4": "What You Can Do to Help the Planet",
-      "content1": "Climate change is one of the greatest challenges of our time...",
-      "content2": "Reducing carbon emissions is critical for a sustainable future...",
-      "content3": "There are many actions we can take to lower our carbon footprint...",
-      "like": 1023,
-      "comment": 210,
-      "readtime": "5 min",
-      "author": "Mow",
-      "category": "Environment",
-      "views": 320,
-      "content": "It's essential to focus on reducing global warming and taking immediate steps...",
-      "date": "2025-04-22",
-      "thumbnail": "https://i.ibb.co/com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "videoUrl": "https://files.catbox.moe/b7wdz7.mp4",
-      "image": "https://i.ibb.co/com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "slug": "climate-change-and-its-impact-on-nature",
-      "shares": "3.4k",
-      "level": "headline",
-      "comments": [
-        {
-          "avatar": "https://via.placeholder.com/40",
-          "author": "Ovi",
-          "date": "2025-04-21",
-          "content": "This article gives an in-depth view of the renewable energy future. Very insightful!",
-          "likes": 120,
-          "replies": [
-            {
-              "author": "Mow",
-              "content": "Thanks for the feedback, Ovi! More content coming soon!",
-              "date": "2025-04-21",
-              "likes": 45
-            }
-          ]
-        },
-        {
-          "avatar": "https://via.placeholder.com/40",
-          "author": "John Doe",
-          "date": "2025-04-22",
-          "content": "I disagree with some points, but great read overall.",
-          "likes": 80
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "title1": "Sustainable Practices in Agriculture",
-      "title2": "The Future of Organic Farming",
-      "title3": "Agricultural Innovations for a Greener World",
-      "title4": "How Sustainable Farming Can Save the Planet",
-      "content1": "Sustainable farming is not just a trend, it's a necessity...",
-      "content2": "Innovations in agriculture are paving the way for more sustainable methods...",
-      "content3": "Organic farming techniques are becoming more popular due to their environmental benefits...",
-      "like": 920,
-      "comment": 180,
-      "readtime": "5 min",
-      "author": "Mow",
-      "category": "Environment",
-      "views": 250,
-      "content": "Sustainable agriculture is vital for maintaining a healthy ecosystem and food security...",
-      "date": "2025-04-23",
-      "thumbnail": "https://i.ibb.co/com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "videoUrl": "https://files.catbox.moe/fbhdn6.mp4",
-      "image": "https://i.ibb.co/com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "slug": "sustainable-practices-in-agriculture",
-      "shares": "2.1k",
-      "level": "headline",
-      "comments": [
-        {
-          "avatar": "https://via.placeholder.com/40",
-          "author": "Jane Smith",
-          "date": "2025-04-23",
-          "content": "Great article! Loved the focus on organic farming techniques.",
-          "likes": 45
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "title1": "Renewable Energy and Its Impact on the Economy",
-      "title2": "Green Jobs and Economic Growth",
-      "title3": "How Renewable Energy Will Shape the Future",
-      "title4": "Economic Benefits of Sustainable Energy Sources",
-      "content1": "The shift to renewable energy will have far-reaching impacts on the economy...",
-      "content2": "Renewable energy jobs are growing, offering new opportunities for economic growth...",
-      "content3": "Solar, wind, and other renewable energy sources are creating new industries...",
-      "like": 850,
-      "comment": 120,
-      "readtime": "5 min",
-      "author": "Mow",
-      "category": "Environment",
-      "views": 200,
-      "content": "Renewable energy is not only key for the environment, but it is also economically viable...",
-      "date": "2025-04-25",
-      "thumbnail": "https://i.ibb.co/com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "videoUrl": "https://files.catbox.moe/38wxyh.mp4",
-      "image": "https://i.ibb.co/com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "slug": "renewable-energy-and-its-impact-on-the-economy",
-      "shares": "1.7k",
-      "level": "headline",
-      "comments": [
-        {
-          "avatar": "https://via.placeholder.com/40",
-          "author": "Alex Johnson",
-          "date": "2025-04-26",
-          "content": "I completely agree, renewable energy is a great driver for economic development.",
-          "likes": 100
-        }
-      ]
-    },
-  
-    {
-      "id": 11,
-      "title1": "The Evolution of Graphic Design",
-      "title2": "From Print to Digital",
-      "title3": "How Graphic Design Shapes Our World",
-      "title4": "Trends in Modern Graphic Design",
-      "content1": "Graphic design has evolved over the decades, from traditional print media to digital platforms...",
-      "content2": "Designers are now using advanced tools and technology to create stunning visuals...",
-      "content3": "With the rise of digital platforms, graphic design has become a key element of branding...",
-      "like": 1500,
-      "comment": 350,
-      "readtime": "7 min",
-      "author": "Mow",
-      "category": "Design",
-      "views": 600,
-      "content": "The field of graphic design is constantly evolving, with new tools and techniques emerging...",
-      "date": "2025-05-06",
-      "thumbnail": "https://i.ibb.co.com/graphic-design-thumbnail.jpg",
-      "videoUrl": "https://files.catbox.moe/xyz123.mp4",
-      "image": "https://i.ibb.co.com/graphic-design-thumbnail.jpg",
-      "slug": "the-evolution-of-graphic-design",
+      "category": "Technology",
+      "views": 230,
+      "content": "Technology continues to advance rapidly, with AI leading the way...",
+      "date": "2025-04-21",
+      "thumbnail": "https://i.postimg.cc/2ScrN9mK/premium-photo-1684581214880-2043e5bc8b8b.avif",
+      "videoUrl": "https://streamable.com/zehmd7",
+      "image": "https://i.imgur.com/Hh8YxJ8.jpg",
+      "slug": "ai-revolutionizing-daily-life",
       "shares": "5.2k",
       "level": "headline",
       "comments": [
         {
           "avatar": "https://via.placeholder.com/40",
-          "author": "Emily Davis",
-          "date": "2025-05-03",
-          "content": "Great insights on how education is being transformed by technology!",
-          "likes": 120
+          "author": "Alex",
+          "date": "2025-04-22",
+          "content": "Amazing read! AI is truly the future.",
+          "likes": 102,
+          "replies": [
+            {
+              "author": "Mow",
+              "content": "Absolutely! And it's just getting started.",
+              "date": "2025-04-22",
+              "likes": 38
+            }
+          ]
+        },
+        {
+          "avatar": "https://via.placeholder.com/40",
+          "author": "Sophia",
+          "date": "2025-04-23",
+          "content": "Somewhat scary but fascinating.",
+          "likes": 76
         }
       ]
     },
     {
-      "id": 12,
-      "title1": "UX Design: Enhancing User Experience",
-      "title2": "Creating Seamless Digital Interactions",
-      "title3": "The Role of UX in Modern Web Design",
-      "title4": "How to Improve User Experience Through Design",
-      "content1": "User experience design focuses on creating digital interfaces that are intuitive and user-friendly...",
-      "content2": "Good UX design ensures users can navigate websites and apps effortlessly, leading to higher engagement...",
-      "content3": "UX design is crucial for keeping users happy and ensuring a positive digital interaction...",
-      "like": 1300,
-      "comment": 275,
-      "readtime": "6 min",
+      "id": 3,
+      "title1": "Design Thinking in the Modern Era",
+      "title2": "Creativity Meets Functionality",
+      "title3": "User-Centric Innovations",
+      "title4": "Trends Shaping Aesthetics",
+      "content1": "Modern design blends creativity with problem-solving...",
+      "content2": "Design thinking encourages empathy and innovation...",
+      "content3": "Minimalism, accessibility, and interaction define today’s design...",
+      "like": 845,
+      "comment": 132,
+      "readtime": "4 min",
       "author": "Mow",
       "category": "Design",
-      "views": 470,
-      "content": "UX design is at the heart of web development, ensuring that users have a smooth and enjoyable experience...",
-      "date": "2025-05-07",
-      "thumbnail": "https://i.ibb.co.com/ux-design-thumbnail.jpg",
-      "videoUrl": "https://files.catbox.moe/abc789.mp4",
-      "image": "https://i.ibb.co.com/ux-design-thumbnail.jpg",
-      "slug": "ux-design-enhancing-user-experience",
-      "shares": "4.1k",
+      "views": 195,
+      "content": "Design is no longer just about looks—it's about impact, usability, and emotion...",
+      "date": "2025-04-22",
+      "thumbnail": "https://i.postimg.cc/2ScrN9mK/premium-photo-1684581214880-2043e5bc8b8b.avif",
+      "videoUrl": "https://streamable.com/zehmd7",
+      "image": "https://i.imgur.com/R97nQxZ.jpg",
+      "slug": "design-thinking-modern-era",
+      "shares": "3.9k",
       "level": "headline",
       "comments": [
         {
           "avatar": "https://via.placeholder.com/40",
-          "author": "John Smith",
-          "date": "2025-05-02",
-          "content": "UX design is an essential part of every modern web application.",
-          "likes": 90
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "title1": "The Art of Logo Design",
-      "title2": "Crafting Memorable Brands",
-      "title3": "Designing Logos That Stand Out",
-      "title4": "The Science Behind Effective Logo Design",
-      "content1": "A logo is often the first impression of a brand, and it needs to communicate the right message...",
-      "content2": "Logo design is not just about aesthetics; it must reflect the core values and mission of the brand...",
-      "content3": "Effective logos are simple, memorable, and versatile, making them instantly recognizable...",
-      "like": 1100,
-      "comment": 220,
-      "readtime": "6 min",
-      "author": "Mow",
-      "category": "Design",
-      "views": 390,
-      "content": "A well-designed logo is the cornerstone of a strong brand identity, representing the company’s vision...",
-      "date": "2025-05-08",
-      "thumbnail": "https://i.ibb.co.com/logo-design-thumbnail.jpg",
-      "videoUrl": "https://files.catbox.moe/def456.mp4",
-      "image": "https://i.ibb.co.com/logo-design-thumbnail.jpg",
-      "slug": "the-art-of-logo-design",
-      "shares": "3.7k",
-      "level": "headline",
-      "comments": [
+          "author": "Liam",
+          "date": "2025-04-23",
+          "content": "Design is truly the language of innovation!",
+          "likes": 90,
+          "replies": [
+            {
+              "author": "Mow",
+              "content": "Well said! It’s how we communicate ideas visually.",
+              "date": "2025-04-23",
+              "likes": 27
+            }
+          ]
+        },
         {
           "avatar": "https://via.placeholder.com/40",
-          "author": "Sarah Johnson",
-          "date": "2025-05-04",
-          "content": "I agree! A logo is so crucial for branding.",
-          "likes": 80
+          "author": "Ava",
+          "date": "2025-04-24",
+          "content": "Loved this article. Fresh insights!",
+          "likes": 60
         }
       ]
     },
     {
-      "id": 14,
-      "title1": "Typography in Web Design",
-      "title2": "Choosing the Right Fonts for Your Website",
-      "title3": "The Importance of Typography in Design",
-      "title4": "How Typography Affects User Experience",
-      "content1": "Typography plays a crucial role in web design, influencing readability and overall aesthetics...",
-      "content2": "Choosing the right font for a website can improve user engagement and ensure clear communication...",
-      "content3": "From serif to sans-serif, different fonts convey different messages and feelings to the audience...",
-      "like": 1000,
-      "comment": 180,
-      "readtime": "5 min",
-      "author": "Mow",
-      "category": "Design",
-      "views": 350,
-      "content": "Typography is more than just picking a pretty font; it’s about ensuring your message is easily readable...",
-      "date": "2025-05-09",
-      "thumbnail": "https://i.ibb.co.com/typography-thumbnail.jpg",
-      "videoUrl": "https://files.catbox.moe/ghi987.mp4",
-      "image": "https://i.ibb.co.com/typography-thumbnail.jpg",
-      "slug": "typography-in-web-design",
-      "shares": "3.4k",
-      "level": "headline",
-      "comments": [
-        {
-          "avatar": "https://via.placeholder.com/40",
-          "author": "Michael Lee",
-          "date": "2025-05-05",
-          "content": "Typography can make or break the readability of a website.",
-          "likes": 95
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "title1": "The Power of Color in Design",
-      "title2": "How Colors Influence User Perception",
-      "title3": "Color Psychology in Web and Graphic Design",
-      "title4": "Creating Effective Color Schemes",
-      "content1": "Colors evoke emotions and can influence how users perceive a brand or product...",
-      "content2": "The right color palette can enhance user experience and convey the correct brand message...",
-      "content3": "Using colors effectively is key to creating aesthetically pleasing and functional designs...",
-      "like": 1250,
+      "id": 4,
+      "title1": "Future-Proofing Your Business",
+      "title2": "Adaptation in a Changing Market",
+      "title3": "Tech and Strategy Merge",
+      "title4": "Scaling with Smart Decisions",
+      "content1": "Businesses must evolve to stay competitive in a digital world...",
+      "content2": "From automation to data analytics, modern tools drive growth...",
+      "content3": "Strategy, vision, and innovation now define success...",
+      "like": 1120,
       "comment": 210,
       "readtime": "6 min",
       "author": "Mow",
-      "category": "Design",
-      "views": 430,
-      "content": "Color plays a vital role in how users perceive a website or brand, and understanding color psychology is crucial...",
-      "date": "2025-05-10",
-      "thumbnail": "https://i.ibb.co.com/color-design-thumbnail.jpg",
-      "videoUrl": "https://files.catbox.moe/jkl456.mp4",
-      "image": "https://i.ibb.co.com/color-design-thumbnail.jpg",
-      "slug": "the-power-of-color-in-design",
-      "shares": "4.0k",
+      "category": "Business",
+      "views": 275,
+      "content": "To survive and thrive, companies are shifting to agile methods, embracing remote work, and investing in sustainability...",
+      "date": "2025-04-23",
+      "thumbnail": "https://i.postimg.cc/2ScrN9mK/premium-photo-1684581214880-2043e5bc8b8b.avif",
+      "videoUrl": "https://streamable.com/zehmd7",
+      "image": "https://i.imgur.com/ZX2yGSk.jpg",
+      "slug": "future-proofing-your-business",
+      "shares": "6.1k",
       "level": "headline",
       "comments": [
         {
           "avatar": "https://via.placeholder.com/40",
-          "author": "Anna Brown",
-          "date": "2025-05-06",
-          "content": "Color choices can really influence how we feel about a brand.",
-          "likes": 110
+          "author": "Noah",
+          "date": "2025-04-24",
+          "content": "Very insightful on how modern businesses adapt.",
+          "likes": 110,
+          "replies": [
+            {
+              "author": "Mow",
+              "content": "Thanks Noah! Staying ahead means staying flexible.",
+              "date": "2025-04-24",
+              "likes": 33
+            }
+          ]
+        },
+        {
+          "avatar": "https://via.placeholder.com/40",
+          "author": "Emily",
+          "date": "2025-04-25",
+          "content": "Loved the part about agility in leadership!",
+          "likes": 70
         }
       ]
     },
-        
-      {
-        "id": 21,
-        "title1": "Champions League Final",
-        "title2": "The Battle for Glory",
-        "title3": "Who Will Be Crowned Champions?",
-        "title4": "A Historic Final to Remember",
-        "content1": "The Champions League final is one of the most anticipated football matches of the year...",
-        "content2": "Teams from across Europe fight for supremacy in this thrilling competition...",
-        "content3": "With the best players in the world on display, this final promises to be unforgettable...",
-        "like": 2200,
-        "comment": 500,
-        "readtime": "5 min",
-        "author": "Mow",
-        "category": "Sports",
-        "views": 510,
-        "content": "The Champions League final is one of the most prestigious football events in the world...",
-        "date": "2025-05-16",
-        "thumbnail": "https://i.ibb.co/com/champions-league-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx789.mp4",
-        "image": "https://i.ibb.co/com/champions-league-thumbnail.jpg",
-        "slug": "champions-league-final",
-        "shares": "6.7k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "Emily Davis",
-            "date": "2025-05-03",
-            "content": "Great insights on how education is being transformed by technology!",
-            "likes": 120
-          }
-        ]
-      },
-      {
-        "id": 22,
-        "title1": "Olympic Games Preview",
-        "title2": "A Sneak Peek at the 2025 Summer Olympics",
-        "title3": "What to Expect in This Year’s Games",
-        "title4": "Athletes to Watch in the Olympics",
-        "content1": "The 2025 Summer Olympics will showcase the best athletes from around the world...",
-        "content2": "From athletics to gymnastics, the competition will be fierce in all categories...",
-        "content3": "Athletes from every corner of the globe will compete for glory and national pride...",
-        "like": 2100,
-        "comment": 400,
-        "readtime": "7 min",
-        "author": "Mow",
-        "category": "Sports",
-        "views": 480,
-        "content": "This summer’s Olympics will feature record-breaking performances and emotional moments...",
-        "date": "2025-05-17",
-        "thumbnail": "https://i.ibb.co/com/olympics-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx101.mp4",
-        "image": "https://i.ibb.co/com/olympics-thumbnail.jpg",
-        "slug": "olympic-games-preview",
-        "shares": "4.9k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "John Smith",
-            "date": "2025-05-02",
-            "content": "Looking forward to seeing new records broken this year!",
-            "likes": 85
-          }
-        ]
-      },
-      {
-        "id": 23,
-        "title1": "FIFA World Cup 2026",
-        "title2": "Teams Ready for the Ultimate Showdown",
-        "title3": "The Road to Victory in the 2026 FIFA World Cup",
-        "title4": "Top Contenders in the 2026 World Cup",
-        "content1": "The 2026 FIFA World Cup will feature the best national teams from across the world...",
-        "content2": "With intense competition, which teams will rise to the challenge and secure the victory?",
-        "content3": "Excitement builds as the tournament approaches, with teams gearing up for one of the world’s largest sporting events...",
-        "like": 2600,
-        "comment": 600,
-        "readtime": "8 min",
-        "author": "Mow",
-        "category": "Sports",
-        "views": 530,
-        "content": "The 2026 World Cup will be filled with legendary moments and incredible performances...",
-        "date": "2025-05-18",
-        "thumbnail": "https://i.ibb.co/com/fifa-world-cup-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx202.mp4",
-        "image": "https://i.ibb.co/com/fifa-world-cup-thumbnail.jpg",
-        "slug": "fifa-world-cup-2026",
-        "shares": "7.3k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "Liam Johnson",
-            "date": "2025-05-01",
-            "content": "Can't wait for the 2026 World Cup, it’s going to be epic!",
-            "likes": 95
-          }
-        ]
-      },
-      {
-        "id": 24,
-        "title1": "NBA Finals Preview",
-        "title2": "The Road to the Championship",
-        "title3": "Which Team Will Claim the Title?",
-        "title4": "Finalists Face-Off for Glory",
-        "content1": "The NBA Finals are just around the corner, and teams are getting ready for the ultimate showdown...",
-        "content2": "Top players are ready to showcase their talents as they fight for the NBA Championship...",
-        "content3": "Expect fast-paced action, high-flying dunks, and memorable moments in this year’s NBA Finals...",
-        "like": 1900,
-        "comment": 350,
-        "readtime": "6 min",
-        "author": "Mow",
-        "category": "Sports",
-        "views": 460,
-        "content": "With the NBA Finals fast approaching, which team will emerge as the champion of the 2025 season?",
-        "date": "2025-05-19",
-        "thumbnail": "https://i.ibb.co/com/nba-finals-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx303.mp4",
-        "image": "https://i.ibb.co/com/nba-finals-thumbnail.jpg",
-        "slug": "nba-finals-preview",
-        "shares": "5.2k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "Sophia Lee",
-            "date": "2025-05-02",
-            "content": "I’m rooting for the Lakers to win it all this year!",
-            "likes": 75
-          }
-        ]
-      },
-      {
-        "id": 25,
-        "title1": "The Rugby World Cup 2025",
-        "title2": "The Global Battle for Rugby Supremacy",
-        "title3": "Teams and Players to Watch at the 2025 Rugby World Cup",
-        "title4": "The Countdown to Rugby’s Biggest Event",
-        "content1": "The 2025 Rugby World Cup will bring together the best rugby teams in the world...",
-        "content2": "With top players competing for the coveted trophy, this year’s tournament promises thrilling action...",
-        "content3": "The world’s top rugby nations are gearing up for the most intense competition in the sport...",
-        "like": 2500,
-        "comment": 450,
-        "readtime": "7 min",
-        "author": "Mow",
-        "category": "Sports",
-        "views": 550,
-        "content": "The Rugby World Cup 2025 will feature unforgettable moments and fierce competition from the best teams around the world...",
-        "date": "2025-05-20",
-        "thumbnail": "https://i.ibb.co/com/rugby-world-cup-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx404.mp4",
-        "image": "https://i.ibb.co/com/rugby-world-cup-thumbnail.jpg",
-        "slug": "rugby-world-cup-2025",
-        "shares": "6.8k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "Chris Walker",
-            "date": "2025-05-04",
-            "content": "Rugby’s going to be insane this year, can’t wait!",
-            "likes": 102
-          }
-        ]
-      },    
-      {
-        "id": 31,
-        "title1": "The Importance of Mental Health",
-        "title2": "Why Taking Care of Your Mind Is Just as Important as Your Body",
-        "title3": "Mental Health in the Modern World",
-        "title4": "How to Prioritize Your Mental Well-Being",
-        "content1": "Mental health is a crucial aspect of overall health, yet it often gets overlooked...",
-        "content2": "Taking care of your mind can improve your quality of life and help you cope with daily stress...",
-        "content3": "Here’s why mental health should be a priority and tips for maintaining a healthy mind...",
-        "like": 2000,
-        "comment": 400,
-        "readtime": "6 min",
-        "author": "Mow",
-        "category": "Health",
-        "views": 520,
-        "content": "Mental health affects everything from relationships to productivity, so it's essential to take care of your mind...",
-        "date": "2025-05-26",
-        "thumbnail": "https://i.ibb.co.com/mental-health-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx1011.mp4",
-        "image": "https://i.ibb.co.com/mental-health-thumbnail.jpg",
-        "slug": "importance-of-mental-health",
-        "shares": "5.6k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "Emily Davis",
-            "date": "2025-05-03",
-            "content": "Great insights on how education is being transformed by technology!",
-            "likes": 120
-          }
-        ]
-      },
-      {
-        "id": 32,
-        "title1": "Healthy Eating Habits",
-        "title2": "How Nutrition Plays a Key Role in Your Health",
-        "title3": "The Benefits of Eating Well",
-        "title4": "How to Build a Healthy Diet",
-        "content1": "Eating a balanced diet is essential for maintaining a healthy lifestyle...",
-        "content2": "Proper nutrition provides the energy needed for daily activities and supports long-term well-being...",
-        "content3": "Here’s how you can build a healthy eating plan and avoid common dietary pitfalls...",
-        "like": 2500,
-        "comment": 500,
-        "readtime": "7 min",
-        "author": "Mow",
-        "category": "Health",
-        "views": 540,
-        "content": "Healthy eating is a foundation for overall wellness, including better energy, sleep, and mood...",
-        "date": "2025-05-27",
-        "thumbnail": "https://i.ibb.co.com/healthy-eating-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx1112.mp4",
-        "image": "https://i.ibb.co.com/healthy-eating-thumbnail.jpg",
-        "slug": "healthy-eating-habits",
-        "shares": "6.3k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "John Smith",
-            "date": "2025-05-28",
-            "content": "I never realized how important nutrition was for overall well-being. Great post!",
-            "likes": 90
-          }
-        ]
-      },
-      {
-        "id": 33,
-        "title1": "Exercise and Physical Health",
-        "title2": "The Connection Between Fitness and Longevity",
-        "title3": "Why Exercise Is Essential for Your Well-Being",
-        "title4": "Tips for Staying Active at Any Age",
-        "content1": "Exercise is one of the most effective ways to improve your health and longevity...",
-        "content2": "From boosting your heart health to strengthening muscles, regular exercise has numerous benefits...",
-        "content3": "Here’s how you can incorporate exercise into your daily routine and stay fit at any age...",
-        "like": 2300,
-        "comment": 400,
-        "readtime": "6 min",
-        "author": "Mow",
-        "category": "Health",
-        "views": 510,
-        "content": "Physical activity is crucial for maintaining a healthy body and mind, and it’s never too late to start...",
-        "date": "2025-05-28",
-        "thumbnail": "https://i.ibb.co.com/exercise-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx1213.mp4",
-        "image": "https://i.ibb.co.com/exercise-thumbnail.jpg",
-        "slug": "exercise-and-physical-health",
-        "shares": "6.7k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "Michael Lee",
-            "date": "2025-05-29",
-            "content": "I started exercising after reading this! Thanks for the motivation.",
-            "likes": 150
-          }
-        ]
-      },
-      {
-        "id": 34,
-        "title1": "The Benefits of Sleep",
-        "title2": "How Getting Enough Rest Improves Your Health",
-        "title3": "Why Sleep Is Essential for Overall Well-Being",
-        "title4": "Tips for Better Sleep Hygiene",
-        "content1": "Sleep is essential for both physical and mental health, yet many people struggle with getting enough rest...",
-        "content2": "From improving memory and concentration to supporting immune function, sleep plays a crucial role in your overall health...",
-        "content3": "Here are some tips on how to improve your sleep hygiene and get the best rest possible...",
-        "like": 1800,
-        "comment": 350,
-        "readtime": "7 min",
-        "author": "Mow",
-        "category": "Health",
-        "views": 480,
-        "content": "Getting enough quality sleep is vital for your well-being. It affects every aspect of your health, including mood, energy, and cognitive function...",
-        "date": "2025-05-29",
-        "thumbnail": "https://i.ibb.co/com/sleep-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx1314.mp4",
-        "image": "https://i.ibb.co/com/sleep-thumbnail.jpg",
-        "slug": "benefits-of-sleep",
-        "shares": "7.0k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "Sophia Harris",
-            "date": "2025-05-30",
-            "content": "I’ve been struggling with sleep lately. This post has given me some great tips to try!",
-            "likes": 110
-          }
-        ]
-      },
-      {
-        "id": 35,
-        "title1": "Managing Stress Effectively",
-        "title2": "How to Cope with Stress in a Healthy Way",
-        "title3": "The Impact of Stress on Your Health",
-        "title4": "Stress Management Techniques for a Balanced Life",
-        "content1": "Stress is a common part of life, but how we manage it can make all the difference...",
-        "content2": "Chronic stress can lead to a variety of health issues, but there are ways to reduce and manage it effectively...",
-        "content3": "In this post, we explore practical stress management strategies that promote a healthier and more balanced life...",
-        "like": 2200,
-        "comment": 450,
-        "readtime": "6 min",
-        "author": "Mow",
-        "category": "Health",
-        "views": 550,
-        "content": "Stress management is essential for maintaining mental and physical health. Learn how to identify stress triggers and apply coping strategies that promote well-being...",
-        "date": "2025-05-30",
-        "thumbnail": "https://i.ibb.co/com/stress-management-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx1415.mp4",
-        "image": "https://i.ibb.co/com/stress-management-thumbnail.jpg",
-        "slug": "managing-stress-effectively",
-        "shares": "6.5k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "Lucas Brown",
-            "date": "2025-05-31",
-            "content": "These stress management techniques really work! I’ve been using some of them, and I feel so much better.",
-            "likes": 200
-          }
-        ]
-      },      
     
-      {
-        "id": 36,
-        "title1": "The Wonders of Space Exploration",
-        "title2": "How Space Travel is Shaping the Future of Humanity",
-        "title3": "The Importance of Space Research",
-        "title4": "What We Can Learn from Exploring Space",
-        "content1": "Space exploration has led to incredible discoveries, but its importance goes beyond just scientific knowledge...",
-        "content2": "From technology advancements to understanding the universe, space exploration plays a vital role in shaping humanity’s future...",
-        "content3": "Here’s why investing in space exploration is crucial and what it means for our progress as a species...",
-        "like": 2800,
-        "comment": 600,
-        "readtime": "8 min",
-        "author": "Mow",
-        "category": "Science",
-        "views": 650,
-        "content": "Space exploration offers more than just the thrill of discovery. It has profound impacts on technology, communication, and our understanding of life itself...",
-        "date": "2025-06-01",
-        "thumbnail": "https://i.ibb.co/com/space-exploration-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx1516.mp4",
-        "image": "https://i.ibb.co/com/space-exploration-thumbnail.jpg",
-        "slug": "wonders-of-space-exploration",
-        "shares": "7.5k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "John Doe",
-            "date": "2025-06-02",
-            "content": "This is amazing! I never realized how much space exploration impacts our everyday life.",
-            "likes": 120
-          }
-        ]
-      },
-      {
-        "id": 37,
-        "title1": "The Human Genome Project",
-        "title2": "Unlocking the Secrets of Our DNA",
-        "title3": "How Genetic Research is Changing Medicine",
-        "title4": "The Future of Genetic Engineering",
-        "content1": "The Human Genome Project is one of the most groundbreaking scientific endeavors, aiming to map all human genes...",
-        "content2": "By understanding our genetic makeup, scientists can develop better treatments for diseases and even prevent genetic disorders...",
-        "content3": "Here’s a look at how genetic research is revolutionizing the medical field and what’s to come in the future...",
-        "like": 2900,
-        "comment": 700,
-        "readtime": "9 min",
-        "author": "Mow",
-        "category": "Science",
-        "views": 700,
-        "content": "The mapping of the human genome has the potential to revolutionize medicine, making treatments more personalized and effective...",
-        "date": "2025-06-02",
-        "thumbnail": "https://i.ibb.co/com/genome-project-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx1617.mp4",
-        "image": "https://i.ibb.co/com/genome-project-thumbnail.jpg",
-        "slug": "human-genome-project",
-        "shares": "8.0k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "Jane Smith",
-            "date": "2025-06-03",
-            "content": "Incredible advancements in genetics! This will change everything in medicine.",
-            "likes": 180
-          }
-        ]
-      },
-      {
-        "id": 38,
-        "title1": "Artificial Intelligence: The Future of Technology",
-        "title2": "How AI is Revolutionizing the Way We Live",
-        "title3": "The Impact of AI on Industries and Society",
-        "title4": "What We Can Expect from AI in the Next Decade",
-        "content1": "Artificial intelligence is rapidly advancing and has the potential to change almost every aspect of our lives...",
-        "content2": "From self-driving cars to healthcare diagnostics, AI is already having a profound effect on industries and society as a whole...",
-        "content3": "Here’s what you need to know about the future of AI and how it will continue to shape our world...",
-        "like": 3000,
-        "comment": 750,
-        "readtime": "8 min",
-        "author": "Mow",
-        "category": "Science",
-        "views": 730,
-        "content": "AI is poised to impact everything from jobs to ethics. As the technology continues to evolve, it’s essential to understand its potential and risks...",
-        "date": "2025-06-03",
-        "thumbnail": "https://i.ibb.co/com/ai-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx1718.mp4",
-        "image": "https://i.ibb.co/com/ai-thumbnail.jpg",
-        "slug": "artificial-intelligence-future",
-        "shares": "8.5k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "Carlos Ruiz",
-            "date": "2025-06-04",
-            "content": "The impact of AI is unbelievable. We’re only scratching the surface of what’s possible!",
-            "likes": 220
-          }
-        ]
-      },
-      {
-        "id": 39,
-        "title1": "Renewable Energy and the Future",
-        "title2": "How Renewable Resources are Shaping the World’s Energy Landscape",
-        "title3": "The Transition to Clean Energy",
-        "title4": "Why Renewable Energy is the Key to a Sustainable Future",
-        "content1": "Renewable energy is the future of sustainable energy production, offering a clean alternative to traditional fossil fuels...",
-        "content2": "From solar to wind power, renewable energy sources are helping reduce our carbon footprint and fight climate change...",
-        "content3": "Here’s how renewable energy is changing the global energy market and what it means for the future...",
-        "like": 2700,
-        "comment": 500,
-        "readtime": "7 min",
-        "author": "Mow",
-        "category": "Science",
-        "views": 670,
-        "content": "As the world faces the growing challenge of climate change, renewable energy plays a critical role in ensuring a sustainable and green future...",
-        "date": "2025-06-04",
-        "thumbnail": "https://i.ibb.co/com/renewable-energy-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx1819.mp4",
-        "image": "https://i.ibb.co/com/renewable-energy-thumbnail.jpg",
-        "slug": "renewable-energy-future",
-        "shares": "7.8k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "Olivia Green",
-            "date": "2025-06-05",
-            "content": "We need to transition to renewable energy now! This is the key to fighting climate change.",
-            "likes": 150
-          }
-        ]
-      },
-      {
-        "id": 40,
-        "title1": "Quantum Computing: The Next Frontier",
-        "title2": "How Quantum Computers Will Change the World",
-        "title3": "The Potential of Quantum Computing for Advancing Technology",
-        "title4": "What Quantum Computing Means for the Future",
-        "content1": "Quantum computing is poised to revolutionize technology, offering unprecedented processing power that could change everything from cryptography to medicine...",
-        "content2": "Though still in its early stages, quantum computing holds incredible promise for solving problems that classical computers cannot handle...",
-        "content3": "In this post, we explore the potential applications of quantum computing and what it could mean for the future...",
-        "like": 3200,
-        "comment": 800,
-        "readtime": "9 min",
-        "author": "Mow",
-        "category": "Science",
-        "views": 780,
-        "content": "Quantum computing is expected to drastically impact fields like artificial intelligence, drug discovery, and even cybersecurity. The possibilities are limitless...",
-        "date": "2025-06-05",
-        "thumbnail": "https://i.ibb.co/com/quantum-computing-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx1920.mp4",
-        "image": "https://i.ibb.co/com/quantum-computing-thumbnail.jpg",
-        "slug": "quantum-computing-future",
-        "shares": "8.2k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "Ethan Taylor",
-            "date": "2025-06-06",
-            "content": "Quantum computing is the future! It will change so many industries in ways we can't even imagine.",
-            "likes": 250
-          }
-        ]
-      },
-      
-        {
-          "id": 41,
-          "title1": "The Rise of 5G Technology",
-          "title2": "How 5G Will Change the Internet of Things",
-          "title3": "The Future of Connectivity: 5G and Beyond",
-          "title4": "Why 5G is a Game-Changer for Tech Industry",
-          "content1": "5G is expected to transform industries with faster internet speeds, lower latency, and the ability to connect billions of devices...",
-          "content2": "As the next generation of mobile technology, 5G will enable advancements in IoT, smart cities, and autonomous vehicles...",
-          "content3": "In this article, we dive deep into the impact of 5G on various sectors and how it will reshape the future of communication...",
-          "like": 4200,
-          "comment": 1120,
-          "readtime": "8 min",
-          "author": "Mow",
-          "category": "Technology",
-          "views": 1000,
-          "content": "5G technology offers lightning-fast internet speeds and low latency, revolutionizing industries like telecommunications, healthcare, and logistics...",
-          "date": "2025-06-07",
-          "thumbnail": "https://i.ibb.co/com/5g-thumbnail.jpg",
-          "videoUrl": "https://files.catbox.moe/5g-demo.mp4",
-          "image": "https://i.ibb.co/com/5g-thumbnail.jpg",
-          "slug": "5g-technology-future",
-          "shares": "12.3k",
-          "level": "headline",
-          "comments": [
-            {
-              "avatar": "https://via.placeholder.com/40",
-              "author": "Sophia Green",
-              "date": "2025-06-08",
-              "content": "5G will bring revolutionary changes to the internet, especially with IoT and autonomous systems!",
-              "likes": 320
-            }
-          ]
-        },
-        {
-          "id": 42,
-          "title1": "The Potential of Artificial Intelligence in Healthcare",
-          "title2": "How AI is Revolutionizing Healthcare",
-          "title3": "The Future of Medicine: AI in Healthcare",
-          "title4": "How AI is Saving Lives and Improving Outcomes",
-          "content1": "Artificial Intelligence is poised to transform healthcare, from diagnostics to treatment plans, making healthcare more accessible and efficient...",
-          "content2": "AI applications in healthcare range from predictive analytics to robotic surgery, promising faster diagnoses and more accurate treatments...",
-          "content3": "In this post, we explore the incredible advancements AI is making in healthcare and how it is reshaping the industry...",
-          "like": 3900,
-          "comment": 980,
-          "readtime": "10 min",
-          "author": "Mow",
-          "category": "Technology",
-          "views": 850,
-          "content": "AI is helping doctors make more accurate decisions, predicting health risks, and even enabling remote surgeries with precision...",
-          "date": "2025-06-10",
-          "thumbnail": "https://i.ibb.co/com/ai-healthcare-thumbnail.jpg",
-          "videoUrl": "https://files.catbox.moe/ai-healthcare-demo.mp4",
-          "image": "https://i.ibb.co/com/ai-healthcare-thumbnail.jpg",
-          "slug": "ai-in-healthcare-revolution",
-          "shares": "9.5k",
-          "level": "headline",
-          "comments": [
-            {
-              "avatar": "https://via.placeholder.com/40",
-              "author": "Liam Davis",
-              "date": "2025-06-11",
-              "content": "AI is making healthcare faster, safer, and more personalized. The future is bright for medical professionals!",
-              "likes": 200
-            }
-          ]
-        },
-        {
-          "id": 43,
-          "title1": "Blockchain: The Future of Secure Transactions",
-          "title2": "How Blockchain is Transforming Finance and Security",
-          "title3": "Understanding Blockchain and Its Impact on Various Sectors",
-          "title4": "Blockchain Technology: Securing the Future",
-          "content1": "Blockchain technology is providing a new way to conduct secure transactions, and it is being integrated into industries beyond cryptocurrency...",
-          "content2": "From banking to supply chains, blockchain is offering enhanced security, transparency, and efficiency in ways traditional systems cannot match...",
-          "content3": "In this article, we delve into the fundamentals of blockchain and its wide-ranging applications across industries...",
-          "like": 3500,
-          "comment": 800,
-          "readtime": "9 min",
-          "author": "Mow",
-          "category": "Technology",
-          "views": 900,
-          "content": "Blockchain ensures that data is immutable, providing security for digital transactions and transparency for both users and providers...",
-          "date": "2025-06-12",
-          "thumbnail": "https://i.ibb.co/com/blockchain-thumbnail.jpg",
-          "videoUrl": "https://files.catbox.moe/blockchain-demo.mp4",
-          "image": "https://i.ibb.co/com/blockchain-thumbnail.jpg",
-          "slug": "blockchain-technology-future",
-          "shares": "7.2k",
-          "level": "headline",
-          "comments": [
-            {
-              "avatar": "https://via.placeholder.com/40",
-              "author": "Olivia Smith",
-              "date": "2025-06-13",
-              "content": "Blockchain is the most secure and transparent technology we have today. It will completely change finance and other industries.",
-              "likes": 310
-            }
-          ]
-        },
-        {
-          "id": 44,
-          "title1": "The Impact of Virtual Reality on Education",
-          "title2": "How Virtual Reality is Revolutionizing the Learning Experience",
-          "title3": "The Future of Education: VR and Beyond",
-          "title4": "Virtual Reality in the Classroom: Transforming Education",
-          "content1": "Virtual Reality (VR) is taking education to new heights by creating immersive learning environments that engage students like never before...",
-          "content2": "With VR, students can experience history, science, and literature in ways that make learning more interactive and impactful...",
-          "content3": "In this article, we discuss the role of virtual reality in education and how it is changing the way we teach and learn...",
-          "like": 4600,
-          "comment": 1100,
-          "readtime": "7 min",
-          "author": "Mow",
-          "category": "Technology",
-          "views": 950,
-          "content": "VR makes learning more engaging and interactive by bringing subjects to life and giving students hands-on experiences they can't get in a traditional classroom...",
-          "date": "2025-06-14",
-          "thumbnail": "https://i.ibb.co/com/vr-education-thumbnail.jpg",
-          "videoUrl": "https://files.catbox.moe/vr-education-demo.mp4",
-          "image": "https://i.ibb.co/com/vr-education-thumbnail.jpg",
-          "slug": "vr-education-future",
-          "shares": "14.1k",
-          "level": "headline",
-          "comments": [
-            {
-              "avatar": "https://via.placeholder.com/40",
-              "author": "Lucas Brown",
-              "date": "2025-06-15",
-              "content": "Virtual reality is changing the way we approach education. It makes learning so much more engaging!",
-              "likes": 400
-            }
-          ]
-        },
-        {
-          "id": 45,
-          "title1": "Exploring the World of Internet of Things (IoT)",
-          "title2": "How IoT is Connecting the World and Changing Industries",
-          "title3": "The Future of IoT: Smart Devices and Connectivity",
-          "title4": "IoT: Building a Smarter World with Connected Devices",
-          "content1": "The Internet of Things (IoT) is reshaping how we interact with the world, with smart devices that communicate and share data to improve our lives...",
-          "content2": "IoT is becoming an integral part of industries, from healthcare to agriculture, providing real-time data and automating processes...",
-          "content3": "In this post, we explore how IoT is transforming everyday life and making industries smarter and more efficient...",
-          "like": 3700,
-          "comment": 940,
-          "readtime": "8 min",
-          "author": "Mow",
-          "category": "Technology",
-          "views": 780,
-          "content": "IoT allows devices to connect and communicate seamlessly, making everything from home appliances to factory machines smarter and more efficient...",
-          "date": "2025-06-16",
-          "thumbnail": "https://i.ibb.co/com/iot-thumbnail.jpg",
-          "videoUrl": "https://files.catbox.moe/iot-demo.mp4",
-          "image": "https://i.ibb.co/com/iot-thumbnail.jpg",
-          "slug": "iot-smart-world",
-          "shares": "10.8k",
-          "level": "headline",
-          "comments": [
-            {
-              "avatar": "https://via.placeholder.com/40",
-              "author": "Emma Johnson",
-              "date": "2025-06-17",
-              "content": "IoT is the backbone of smart cities and homes. It's going to revolutionize how we live and work!",
-              "likes": 280
-            }
-          ]
-        },
-        {
-          "id": 46,
-          "title1": "The Evolution of Cloud Computing",
-          "title2": "How Cloud Computing is Changing the Way We Work and Store Data",
-          "title3": "The Future of Cloud: Scalability and Flexibility",
-          "title4": "Cloud Computing: The Backbone of Modern Business",
-          "content1": "Cloud computing is revolutionizing businesses by providing scalable and flexible solutions for data storage, computing, and networking...",
-          "content2": "With cloud services, companies can access data and applications from anywhere in the world, increasing productivity and collaboration...",
-          "content3": "In this article, we explore the rise of cloud computing and how it is shaping the future of business and technology...",
-          "like": 4000,
-          "comment": 1050,
-          "readtime": "9 min",
-          "author": "Mow",
-          "category": "Technology",
-          "views": 900,
-          "content": "Cloud computing allows businesses to scale quickly, offering flexibility in how data is stored and accessed, and reducing costs associated with hardware...",
-          "date": "2025-06-18",
-          "thumbnail": "https://i.ibb.co/com/cloud-computing-thumbnail.jpg",
-          "videoUrl": "https://files.catbox.moe/cloud-computing-demo.mp4",
-          "image": "https://i.ibb.co/com/cloud-computing-thumbnail.jpg",
-          "slug": "cloud-computing-evolution",
-          "shares": "13.4k",
-          "level": "headline",
-          "comments": [
-            {
-              "avatar": "https://via.placeholder.com/40",
-              "author": "Ava White",
-              "date": "2025-06-19",
-              "content": "The cloud is the future. It makes business operations faster, more flexible, and cost-efficient.",
-              "likes": 330
-            }
-          ]
-        },
-        {
-          "id": 47,
-          "title1": "The Role of Artificial Intelligence in Cybersecurity",
-          "title2": "How AI is Enhancing Security and Protecting Data",
-          "title3": "The Future of Cybersecurity: AI and Automation",
-          "title4": "AI in Cybersecurity: Keeping Data Safe in a Digital World",
-          "content1": "Artificial intelligence is playing an increasing role in cybersecurity, identifying threats faster and more accurately than human experts...",
-          "content2": "AI-powered security tools are automating threat detection, improving responses, and preventing cyberattacks in real-time...",
-          "content3": "In this post, we look at the growing impact of AI on cybersecurity and how it is transforming the fight against digital threats...",
-          "like": 4900,
-          "comment": 1200,
-          "readtime": "8 min",
-          "author": "Mow",
-          "category": "Technology",
-          "views": 1100,
-          "content": "AI helps cybersecurity systems analyze vast amounts of data, identifying vulnerabilities and threats before they can cause harm...",
-          "date": "2025-06-20",
-          "thumbnail": "https://i.ibb.co/com/ai-cybersecurity-thumbnail.jpg",
-          "videoUrl": "https://files.catbox.moe/ai-cybersecurity-demo.mp4",
-          "image": "https://i.ibb.co/com/ai-cybersecurity-thumbnail.jpg",
-          "slug": "ai-cybersecurity-advances",
-          "shares": "11.5k",
-          "level": "headline",
-          "comments": [
-            {
-              "avatar": "https://via.placeholder.com/40",
-              "author": "Mason King",
-              "date": "2025-06-21",
-              "content": "AI is the future of cybersecurity. It's the best tool we have to keep our data safe.",
-              "likes": 270
-            }
-          ]
-        },
-        {
-          "id": 48,
-          "title1": "The Impact of Robotics on Manufacturing",
-          "title2": "How Robotics is Transforming the Industrial Landscape",
-          "title3": "The Future of Manufacturing: Automation and Robotics",
-          "title4": "Robotics: Revolutionizing the Factory Floor",
-          "content1": "Robotics is taking over many tasks traditionally performed by humans in manufacturing, increasing speed, precision, and safety on the factory floor...",
-          "content2": "Robots are being used for everything from assembly to quality control, allowing manufacturers to produce goods more efficiently and cost-effectively...",
-          "content3": "In this post, we discuss the growing role of robotics in manufacturing and how it is driving industrial innovation...",
-          "like": 4200,
-          "comment": 1150,
-          "readtime": "8 min",
-          "author": "Mow",
-          "category": "Technology",
-          "views": 920,
-          "content": "Robots are enabling manufacturers to meet rising demand while improving product quality, reducing costs, and enhancing worker safety...",
-          "date": "2025-06-22",
-          "thumbnail": "https://i.ibb.co/com/robotics-manufacturing-thumbnail.jpg",
-          "videoUrl": "https://files.catbox.moe/robotics-manufacturing-demo.mp4",
-          "image": "https://i.ibb.co/com/robotics-manufacturing-thumbnail.jpg",
-          "slug": "robotics-manufacturing-future",
-          "shares": "8.7k",
-          "level": "headline",
-          "comments": [
-            {
-              "avatar": "https://via.placeholder.com/40",
-              "author": "James Martin",
-              "date": "2025-06-23",
-              "content": "Robots are making manufacturing faster and more efficient. The future is automated!",
-              "likes": 350
-            }
-          ]
-        },
-        {
-          "id": 49,
-          "title1": "The Future of Autonomous Vehicles",
-          "title2": "How Self-Driving Cars Will Transform Transportation",
-          "title3": "Autonomous Vehicles: A New Era in Mobility",
-          "title4": "The Impact of Autonomous Cars on Society",
-          "content1": "Self-driving cars are poised to revolutionize transportation, from improving road safety to reducing traffic congestion and carbon emissions...",
-          "content2": "Autonomous vehicles will change how we think about travel and mobility, offering new levels of convenience, efficiency, and safety...",
-          "content3": "In this post, we explore how autonomous vehicles will change the future of transportation and the broader impact on society...",
-          "like": 5100,
-          "comment": 1300,
-          "readtime": "8 min",
-          "author": "Mow",
-          "category": "Technology",
-          "views": 1100,
-          "content": "Autonomous vehicles promise to make transportation safer, reduce the need for parking, and provide greater accessibility for people with disabilities...",
-          "date": "2025-06-24",
-          "thumbnail": "https://i.ibb.co/com/autonomous-vehicles-thumbnail.jpg",
-          "videoUrl": "https://files.catbox.moe/autonomous-vehicles-demo.mp4",
-          "image": "https://i.ibb.co/com/autonomous-vehicles-thumbnail.jpg",
-          "slug": "autonomous-vehicles-future",
-          "shares": "15.8k",
-          "level": "headline",
-          "comments": [
-            {
-              "avatar": "https://via.placeholder.com/40",
-              "author": "Ella Wright",
-              "date": "2025-06-25",
-              "content": "Self-driving cars will change everything. It will make travel so much safer and efficient!",
-              "likes": 450
-            }
-          ]
-        },
-        {
-          "id": 50,
-          "title1": "Quantum Computing: A Glimpse Into the Future",
-          "title2": "What Quantum Computing Means for the Future of Technology",
-          "title3": "The Power of Quantum Computing and Its Impact on Science and Industry",
-          "title4": "Exploring Quantum Computing: A New Frontier in Technology",
-          "content1": "Quantum computing harnesses the principles of quantum mechanics to solve complex problems that are impossible for classical computers to handle...",
-          "content2": "With quantum computing, we may soon be able to break encryption, optimize supply chains, and simulate molecular processes for drug development...",
-          "content3": "In this post, we discuss the fundamental concepts of quantum computing and its potential applications in fields like cryptography, AI, and material science...",
-          "like": 5200,
-          "comment": 1300,
-          "readtime": "12 min",
-          "author": "Mow",
-          "category": "Technology",
-          "views": 1350,
-          "content": "Quantum computing is the next frontier in computing power. By exploiting the behavior of quantum bits (qubits), it can solve problems beyond the reach of classical systems...",
-          "date": "2025-06-26",
-          "thumbnail": "https://i.ibb.co/com/quantum-computing-thumbnail.jpg",
-          "videoUrl": "https://files.catbox.moe/quantum-computing-demo.mp4",
-          "image": "https://i.ibb.co/com/quantum-computing-thumbnail.jpg",
-          "slug": "quantum-computing-future",
-          "shares": "18.3k",
-          "level": "headline",
-          "comments": [
-            {
-              "avatar": "https://via.placeholder.com/40",
-              "author": "Isabella Martinez",
-              "date": "2025-06-27",
-              "content": "Quantum computing is fascinating! It's incredible to think that we are on the verge of a new era of computing power.",
-              "likes": 450
-            }
-          ]
-        },
     {
-      "id": 1,
-      "title1": "The Future of Renewable Energy",
-      "title2": "Clean Energy Breakthroughs",
-      "title3": "Solar and Wind Integration",
-      "title4": "Policy and Innovation Ahead",
-      "content1": "Renewable energy sources are rapidly gaining ground...",
-      "content2": "Governments are pushing for cleaner alternatives...",
-      "content3": "Solar panels and wind farms are increasingly common...",
-      "like": 1250,
-      "comment": 243,
-      "readtime": "6 min",
+      "id": 5,
+      "title1": "The Evolution of Modern Sports",
+      "title2": "Tech Integration in Athletics",
+      "title3": "Training Smarter, Not Harder",
+      "title4": "Fans in the Digital Era",
+      "content1": "Sports have transformed with data analytics and wearable tech...",
+      "content2": "Coaches use AI-driven insights to fine-tune performance...",
+      "content3": "Social media and streaming are redefining fan engagement...",
+      "like": 980,
+      "comment": 175,
+      "readtime": "5 min",
       "author": "Mow",
-      "category": "Environment",
-      "views": 180,
-      "content": "Renewable energy is key to a sustainable future...",
-      "date": "2025-04-20",
-      "thumbnail": "https://i.ibb.co.com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "videoUrl": "https://files.catbox.moe/aupwi9.mp4",
-      "image": "https://i.ibb.co.com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "slug": "the-future-of-renewable-energy",
-      "shares": "4.8k",
+      "category": "Sports",
+      "views": 305,
+      "content": "Modern sports blend tradition with technology—from VR training to live stat tracking—making games more dynamic than ever before.",
+      "date": "2025-04-24",
+      "thumbnail": "https://i.postimg.cc/2ScrN9mK/premium-photo-1684581214880-2043e5bc8b8b.avif",
+      "videoUrl": "https://streamable.com/zehmd7",
+      "image": "https://i.imgur.com/kkOWkb5.jpg",
+      "slug": "evolution-of-modern-sports",
+      "shares": "5.3k",
       "level": "headline",
       "comments": [
         {
           "avatar": "https://via.placeholder.com/40",
-          "author": "Ovi",
-          "date": "2025-04-21",
-          "content": "This article gives an in-depth view of the renewable energy future. Very insightful!",
-          "likes": 120,
+          "author": "Sophia",
+          "date": "2025-04-25",
+          "content": "Interesting how tech is changing how we play and watch sports!",
+          "likes": 95,
           "replies": [
             {
               "author": "Mow",
-              "content": "Thanks for the feedback, Ovi! More content coming soon!",
-              "date": "2025-04-21",
-              "likes": 45
+              "content": "Absolutely! It's a whole new ball game now.",
+              "date": "2025-04-25",
+              "likes": 28
             }
           ]
         },
         {
           "avatar": "https://via.placeholder.com/40",
-          "author": "John Doe",
-          "date": "2025-04-22",
-          "content": "I disagree with some points, but great read overall.",
-          "likes": 80
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "title1": "Climate Change and Its Impact on Nature",
-      "title2": "The Role of Carbon Footprint Reduction",
-      "title3": "Fighting Global Warming Through Action",
-      "title4": "What You Can Do to Help the Planet",
-      "content1": "Climate change is one of the greatest challenges of our time...",
-      "content2": "Reducing carbon emissions is critical for a sustainable future...",
-      "content3": "There are many actions we can take to lower our carbon footprint...",
-      "like": 1023,
-      "comment": 210,
-      "readtime": "5 min",
-      "author": "Mow",
-      "category": "Environment",
-      "views": 320,
-      "content": "It's essential to focus on reducing global warming and taking immediate steps...",
-      "date": "2025-04-22",
-      "thumbnail": "https://i.ibb.co/com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "videoUrl": "https://files.catbox.moe/b7wdz7.mp4",
-      "image": "https://i.ibb.co/com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "slug": "climate-change-and-its-impact-on-nature",
-      "shares": "3.4k",
-      "level": "headline",
-      "comments": [
-        {
-          "avatar": "https://via.placeholder.com/40",
-          "author": "Ovi",
-          "date": "2025-04-21",
-          "content": "This article gives an in-depth view of the renewable energy future. Very insightful!",
-          "likes": 120,
-          "replies": [
-            {
-              "author": "Mow",
-              "content": "Thanks for the feedback, Ovi! More content coming soon!",
-              "date": "2025-04-21",
-              "likes": 45
-            }
-          ]
-        },
-        {
-          "avatar": "https://via.placeholder.com/40",
-          "author": "John Doe",
-          "date": "2025-04-22",
-          "content": "I disagree with some points, but great read overall.",
-          "likes": 80
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "title1": "Sustainable Practices in Agriculture",
-      "title2": "The Future of Organic Farming",
-      "title3": "Agricultural Innovations for a Greener World",
-      "title4": "How Sustainable Farming Can Save the Planet",
-      "content1": "Sustainable farming is not just a trend, it's a necessity...",
-      "content2": "Innovations in agriculture are paving the way for more sustainable methods...",
-      "content3": "Organic farming techniques are becoming more popular due to their environmental benefits...",
-      "like": 920,
-      "comment": 180,
-      "readtime": "5 min",
-      "author": "Mow",
-      "category": "Environment",
-      "views": 250,
-      "content": "Sustainable agriculture is vital for maintaining a healthy ecosystem and food security...",
-      "date": "2025-04-23",
-      "thumbnail": "https://i.ibb.co/com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "videoUrl": "https://files.catbox.moe/fbhdn6.mp4",
-      "image": "https://i.ibb.co/com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "slug": "sustainable-practices-in-agriculture",
-      "shares": "2.1k",
-      "level": "headline",
-      "comments": [
-        {
-          "avatar": "https://via.placeholder.com/40",
-          "author": "Jane Smith",
-          "date": "2025-04-23",
-          "content": "Great article! Loved the focus on organic farming techniques.",
-          "likes": 45
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "title1": "Renewable Energy and Its Impact on the Economy",
-      "title2": "Green Jobs and Economic Growth",
-      "title3": "How Renewable Energy Will Shape the Future",
-      "title4": "Economic Benefits of Sustainable Energy Sources",
-      "content1": "The shift to renewable energy will have far-reaching impacts on the economy...",
-      "content2": "Renewable energy jobs are growing, offering new opportunities for economic growth...",
-      "content3": "Solar, wind, and other renewable energy sources are creating new industries...",
-      "like": 850,
-      "comment": 120,
-      "readtime": "5 min",
-      "author": "Mow",
-      "category": "Environment",
-      "views": 200,
-      "content": "Renewable energy is not only key for the environment, but it is also economically viable...",
-      "date": "2025-04-25",
-      "thumbnail": "https://i.ibb.co/com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "videoUrl": "https://files.catbox.moe/38wxyh.mp4",
-      "image": "https://i.ibb.co/com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "slug": "renewable-energy-and-its-impact-on-the-economy",
-      "shares": "1.7k",
-      "level": "headline",
-      "comments": [
-        {
-          "avatar": "https://via.placeholder.com/40",
-          "author": "Alex Johnson",
+          "author": "Liam",
           "date": "2025-04-26",
-          "content": "I completely agree, renewable energy is a great driver for economic development.",
-          "likes": 100
+          "content": "Sports tech is leveling the playing field. Great read!",
+          "likes": 65
         }
       ]
     },
     {
-      "id": 1,
-      "title1": "The Future of Renewable Energy",
-      "title2": "Clean Energy Breakthroughs",
-      "title3": "Solar and Wind Integration",
-      "title4": "Policy and Innovation Ahead",
-      "content1": "Renewable energy sources are rapidly gaining ground...",
-      "content2": "Governments are pushing for cleaner alternatives...",
-      "content3": "Solar panels and wind farms are increasingly common...",
-      "like": 1250,
-      "comment": 243,
-      "readtime": "6 min",
-      "author": "Mow",
-      "category": "Environment",
-      "views": 180,
-      "content": "Renewable energy is key to a sustainable future...",
-      "date": "2025-04-20",
-      "thumbnail": "https://i.ibb.co.com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "videoUrl": "https://files.catbox.moe/aupwi9.mp4",
-      "image": "https://i.ibb.co.com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "slug": "the-future-of-renewable-energy",
-      "shares": "4.8k",
-      "level": "headline",
-      "comments": [
-        {
-          "avatar": "https://via.placeholder.com/40",
-          "author": "Ovi",
-          "date": "2025-04-21",
-          "content": "This article gives an in-depth view of the renewable energy future. Very insightful!",
-          "likes": 120,
-          "replies": [
-            {
-              "author": "Mow",
-              "content": "Thanks for the feedback, Ovi! More content coming soon!",
-              "date": "2025-04-21",
-              "likes": 45
-            }
-          ]
-        },
-        {
-          "avatar": "https://via.placeholder.com/40",
-          "author": "John Doe",
-          "date": "2025-04-22",
-          "content": "I disagree with some points, but great read overall.",
-          "likes": 80
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "title1": "Climate Change and Its Impact on Nature",
-      "title2": "The Role of Carbon Footprint Reduction",
-      "title3": "Fighting Global Warming Through Action",
-      "title4": "What You Can Do to Help the Planet",
-      "content1": "Climate change is one of the greatest challenges of our time...",
-      "content2": "Reducing carbon emissions is critical for a sustainable future...",
-      "content3": "There are many actions we can take to lower our carbon footprint...",
-      "like": 1023,
-      "comment": 210,
-      "readtime": "5 min",
-      "author": "Mow",
-      "category": "Environment",
-      "views": 320,
-      "content": "It's essential to focus on reducing global warming and taking immediate steps...",
-      "date": "2025-04-22",
-      "thumbnail": "https://i.ibb.co/com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "videoUrl": "https://files.catbox.moe/b7wdz7.mp4",
-      "image": "https://i.ibb.co/com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "slug": "climate-change-and-its-impact-on-nature",
-      "shares": "3.4k",
-      "level": "headline",
-      "comments": [
-        {
-          "avatar": "https://via.placeholder.com/40",
-          "author": "Ovi",
-          "date": "2025-04-21",
-          "content": "This article gives an in-depth view of the renewable energy future. Very insightful!",
-          "likes": 120,
-          "replies": [
-            {
-              "author": "Mow",
-              "content": "Thanks for the feedback, Ovi! More content coming soon!",
-              "date": "2025-04-21",
-              "likes": 45
-            }
-          ]
-        },
-        {
-          "avatar": "https://via.placeholder.com/40",
-          "author": "John Doe",
-          "date": "2025-04-22",
-          "content": "I disagree with some points, but great read overall.",
-          "likes": 80
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "title1": "Sustainable Practices in Agriculture",
-      "title2": "The Future of Organic Farming",
-      "title3": "Agricultural Innovations for a Greener World",
-      "title4": "How Sustainable Farming Can Save the Planet",
-      "content1": "Sustainable farming is not just a trend, it's a necessity...",
-      "content2": "Innovations in agriculture are paving the way for more sustainable methods...",
-      "content3": "Organic farming techniques are becoming more popular due to their environmental benefits...",
-      "like": 920,
-      "comment": 180,
-      "readtime": "5 min",
-      "author": "Mow",
-      "category": "Environment",
-      "views": 250,
-      "content": "Sustainable agriculture is vital for maintaining a healthy ecosystem and food security...",
-      "date": "2025-04-23",
-      "thumbnail": "https://i.ibb.co/com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "videoUrl": "https://files.catbox.moe/fbhdn6.mp4",
-      "image": "https://i.ibb.co/com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "slug": "sustainable-practices-in-agriculture",
-      "shares": "2.1k",
-      "level": "headline",
-      "comments": [
-        {
-          "avatar": "https://via.placeholder.com/40",
-          "author": "Jane Smith",
-          "date": "2025-04-23",
-          "content": "Great article! Loved the focus on organic farming techniques.",
-          "likes": 45
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "title1": "Renewable Energy and Its Impact on the Economy",
-      "title2": "Green Jobs and Economic Growth",
-      "title3": "How Renewable Energy Will Shape the Future",
-      "title4": "Economic Benefits of Sustainable Energy Sources",
-      "content1": "The shift to renewable energy will have far-reaching impacts on the economy...",
-      "content2": "Renewable energy jobs are growing, offering new opportunities for economic growth...",
-      "content3": "Solar, wind, and other renewable energy sources are creating new industries...",
-      "like": 850,
-      "comment": 120,
-      "readtime": "5 min",
-      "author": "Mow",
-      "category": "Environment",
-      "views": 200,
-      "content": "Renewable energy is not only key for the environment, but it is also economically viable...",
-      "date": "2025-04-25",
-      "thumbnail": "https://i.ibb.co/com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "videoUrl": "https://files.catbox.moe/38wxyh.mp4",
-      "image": "https://i.ibb.co/com/WpjMyBRT/premium-photo-1720744786849-a7412d24ffbf.jpg",
-      "slug": "renewable-energy-and-its-impact-on-the-economy",
-      "shares": "1.7k",
-      "level": "headline",
-      "comments": [
-        {
-          "avatar": "https://via.placeholder.com/40",
-          "author": "Alex Johnson",
-          "date": "2025-04-26",
-          "content": "I completely agree, renewable energy is a great driver for economic development.",
-          "likes": 100
-        }
-      ]
-    },
-  
-    {
-      "id": 11,
-      "title1": "The Evolution of Graphic Design",
-      "title2": "From Print to Digital",
-      "title3": "How Graphic Design Shapes Our World",
-      "title4": "Trends in Modern Graphic Design",
-      "content1": "Graphic design has evolved over the decades, from traditional print media to digital platforms...",
-      "content2": "Designers are now using advanced tools and technology to create stunning visuals...",
-      "content3": "With the rise of digital platforms, graphic design has become a key element of branding...",
-      "like": 1500,
-      "comment": 350,
+      "id": 6,
+      "title1": "The New Age of Entertainment",
+      "title2": "Streaming Wars and Beyond",
+      "title3": "AI in Film & Music",
+      "title4": "Virtual Reality Experiences",
+      "content1": "Entertainment is being redefined by on-demand streaming...",
+      "content2": "AI is now writing scripts, composing music, and editing films...",
+      "content3": "Immersive VR events are creating new audience experiences...",
+      "like": 1340,
+      "comment": 192,
       "readtime": "7 min",
       "author": "Mow",
-      "category": "Design",
-      "views": 600,
-      "content": "The field of graphic design is constantly evolving, with new tools and techniques emerging...",
-      "date": "2025-05-06",
-      "thumbnail": "https://i.ibb.co.com/graphic-design-thumbnail.jpg",
-      "videoUrl": "https://files.catbox.moe/xyz123.mp4",
-      "image": "https://i.ibb.co.com/graphic-design-thumbnail.jpg",
-      "slug": "the-evolution-of-graphic-design",
-      "shares": "5.2k",
+      "category": "Entertainment",
+      "views": 330,
+      "content": "From AI-generated content to VR concerts and metaverse cinemas, the entertainment world is shifting toward more personalized and immersive experiences.",
+      "date": "2025-04-25",
+      "thumbnail": "https://i.postimg.cc/2ScrN9mK/premium-photo-1684581214880-2043e5bc8b8b.avif",
+      "videoUrl": "https://streamable.com/zehmd7",
+      "image": "https://i.imgur.com/wBDZhZu.jpg",
+      "slug": "new-age-of-entertainment",
+      "shares": "7.4k",
       "level": "headline",
       "comments": [
         {
           "avatar": "https://via.placeholder.com/40",
-          "author": "Emily Davis",
-          "date": "2025-05-03",
-          "content": "Great insights on how education is being transformed by technology!",
-          "likes": 120
+          "author": "Ava",
+          "date": "2025-04-26",
+          "content": "This really highlights the future of how we consume entertainment!",
+          "likes": 120,
+          "replies": [
+            {
+              "author": "Mow",
+              "content": "Thank you, Ava! We're witnessing history unfold.",
+              "date": "2025-04-26",
+              "likes": 42
+            }
+          ]
+        },
+        {
+          "avatar": "https://via.placeholder.com/40",
+          "author": "James",
+          "date": "2025-04-27",
+          "content": "Can’t wait to see what AI does next in the creative space.",
+          "likes": 78
         }
       ]
     },
+    
     {
-      "id": 12,
-      "title1": "UX Design: Enhancing User Experience",
-      "title2": "Creating Seamless Digital Interactions",
-      "title3": "The Role of UX in Modern Web Design",
-      "title4": "How to Improve User Experience Through Design",
-      "content1": "User experience design focuses on creating digital interfaces that are intuitive and user-friendly...",
-      "content2": "Good UX design ensures users can navigate websites and apps effortlessly, leading to higher engagement...",
-      "content3": "UX design is crucial for keeping users happy and ensuring a positive digital interaction...",
-      "like": 1300,
-      "comment": 275,
+      "id": 7,
+      "title1": "Revolutionizing Healthcare with AI",
+      "title2": "Smart Diagnostics and Early Detection",
+      "title3": "Virtual Health Assistants Rise",
+      "title4": "Remote Care is the New Normal",
+      "content1": "Artificial intelligence is rapidly transforming healthcare systems worldwide...",
+      "content2": "From wearable sensors to predictive diagnostics, health monitoring is becoming proactive...",
+      "content3": "Virtual consultations and AI assistants are reducing pressure on hospitals...",
+      "like": 1215,
+      "comment": 210,
       "readtime": "6 min",
       "author": "Mow",
-      "category": "Design",
-      "views": 470,
-      "content": "UX design is at the heart of web development, ensuring that users have a smooth and enjoyable experience...",
-      "date": "2025-05-07",
-      "thumbnail": "https://i.ibb.co.com/ux-design-thumbnail.jpg",
-      "videoUrl": "https://files.catbox.moe/abc789.mp4",
-      "image": "https://i.ibb.co.com/ux-design-thumbnail.jpg",
-      "slug": "ux-design-enhancing-user-experience",
-      "shares": "4.1k",
+      "category": "Health",
+      "views": 290,
+      "content": "AI is enabling smarter, faster, and more accurate healthcare services. From disease prediction to remote patient monitoring, the future of medicine is digital and data-driven.",
+      "date": "2025-04-26",
+      "thumbnail": "https://i.postimg.cc/2ScrN9mK/premium-photo-1684581214880-2043e5bc8b8b.avif",
+      "videoUrl": "https://streamable.com/zehmd7",
+      "image": "https://i.imgur.com/CkF66Xj.jpg",
+      "slug": "ai-in-healthcare-revolution",
+      "shares": "6.1k",
       "level": "headline",
       "comments": [
         {
           "avatar": "https://via.placeholder.com/40",
-          "author": "John Smith",
-          "date": "2025-05-02",
-          "content": "UX design is an essential part of every modern web application.",
+          "author": "Emma",
+          "date": "2025-04-27",
+          "content": "Remote care has been a game-changer for my family. Love this!",
+          "likes": 110,
+          "replies": [
+            {
+              "author": "Mow",
+              "content": "Glad to hear it helped, Emma. It's only the beginning!",
+              "date": "2025-04-27",
+              "likes": 39
+            }
+          ]
+        },
+        {
+          "avatar": "https://via.placeholder.com/40",
+          "author": "Noah",
+          "date": "2025-04-28",
+          "content": "AI in health sounds promising, but privacy concerns remain.",
+          "likes": 73
+        }
+      ]
+    },
+    
+    {
+      "id": 8,
+      "title1": "Exploring the Quantum Realm",
+      "title2": "The Future of Quantum Computing",
+      "title3": "Breaking the Boundaries of Physics",
+      "title4": "The Quantum Revolution is Coming",
+      "content1": "Quantum computing is set to revolutionize industries by solving problems that classical computers can't...",
+      "content2": "From cryptography to complex simulations, quantum technologies promise to unlock new potential...",
+      "content3": "However, the road to quantum supremacy is filled with challenges, and it's a race against time...",
+      "like": 1500,
+      "comment": 300,
+      "readtime": "8 min",
+      "author": "Mow",
+      "category": "Science",
+      "views": 450,
+      "content": "Quantum computing is poised to solve previously intractable problems in science, technology, and medicine. We're standing on the precipice of a new technological era.",
+      "date": "2025-04-27",
+      "thumbnail": "https://i.postimg.cc/2ScrN9mK/premium-photo-1684581214880-2043e5bc8b8b.avif",
+      "videoUrl": "https://streamable.com/zehmd7",
+      "image": "https://i.imgur.com/kxgI8XN.jpg",
+      "slug": "quantum-computing-revolution",
+      "shares": "9.2k",
+      "level": "headline",
+      "comments": [
+        {
+          "avatar": "https://via.placeholder.com/40",
+          "author": "Lucas",
+          "date": "2025-04-28",
+          "content": "Quantum computing seems like it could change everything. Can't wait to see it in action.",
+          "likes": 150,
+          "replies": [
+            {
+              "author": "Mow",
+              "content": "It's a thrilling time, Lucas! We're getting closer to a breakthrough every day.",
+              "date": "2025-04-28",
+              "likes": 50
+            }
+          ]
+        },
+        {
+          "avatar": "https://via.placeholder.com/40",
+          "author": "Mia",
+          "date": "2025-04-29",
+          "content": "This technology is still in its infancy. Will it live up to the hype?",
           "likes": 90
+        }
+      ]
+    },
+    
+    {
+      "id": 9,
+      "title1": "The Future of Digital Marketing",
+      "title2": "AI-Driven Strategies and Personalization",
+      "title3": "The Impact of Data on Consumer Behavior",
+      "title4": "E-Commerce Innovations in 2025",
+      "content1": "Digital marketing is increasingly relying on AI to deliver more personalized and targeted campaigns...",
+      "content2": "The ability to analyze vast amounts of consumer data is transforming how businesses interact with customers...",
+      "content3": "From personalized ads to automated customer support, AI is creating new opportunities for digital businesses...",
+      "like": 1780,
+      "comment": 220,
+      "readtime": "7 min",
+      "author": "Mow",
+      "category": "Business",
+      "views": 350,
+      "content": "AI is enabling businesses to understand consumer behavior like never before. Digital marketing is becoming more intuitive, with companies using data-driven strategies to personalize user experiences and drive sales.",
+      "date": "2025-04-28",
+      "thumbnail": "https://i.postimg.cc/2ScrN9mK/premium-photo-1684581214880-2043e5bc8b8b.avif",
+      "videoUrl": "https://streamable.com/zehmd7",
+      "image": "https://i.imgur.com/sDlzG9P.jpg",
+      "slug": "future-of-digital-marketing",
+      "shares": "5.8k",
+      "level": "headline",
+      "comments": [
+        {
+          "avatar": "https://via.placeholder.com/40",
+          "author": "Sophia",
+          "date": "2025-04-29",
+          "content": "AI is definitely the future of marketing. The personalization is incredible!",
+          "likes": 140,
+          "replies": [
+            {
+              "author": "Mow",
+              "content": "Absolutely, Sophia! We're seeing the marketing world transform before our eyes.",
+              "date": "2025-04-29",
+              "likes": 60
+            }
+          ]
+        },
+        {
+          "avatar": "https://via.placeholder.com/40",
+          "author": "Liam",
+          "date": "2025-04-30",
+          "content": "The idea of AI-driven ads is amazing, but privacy concerns are real.",
+          "likes": 95
+        }
+      ]
+    },
+    
+    {
+      "id": 10,
+      "title1": "The Rise of Esports in 2025",
+      "title2": "How Esports is Changing the Gaming Industry",
+      "title3": "The Future of Competitive Gaming",
+      "title4": "Esports as a Career Path: A New Era",
+      "content1": "Esports is quickly becoming a mainstream sport, with millions of fans and players around the globe...",
+      "content2": "Professional gaming is now a viable career path, with sponsorships, team ownerships, and tournament prize money at an all-time high...",
+      "content3": "As technology advances, so does the intensity and popularity of competitive gaming, paving the way for its global recognition...",
+      "like": 1340,
+      "comment": 180,
+      "readtime": "7 min",
+      "author": "Mow",
+      "category": "Sports",
+      "views": 400,
+      "content": "Esports has evolved from niche events to global spectacles, drawing in viewers from all over the world. It’s not just a game anymore; it’s a multi-million-dollar industry with a massive fanbase.",
+      "date": "2025-04-30",
+      "thumbnail": "https://i.postimg.cc/2ScrN9mK/premium-photo-1684581214880-2043e5bc8b8b.avif",
+      "videoUrl": "https://streamable.com/zehmd7",
+      "image": "https://i.imgur.com/RZPugfX.jpg",
+      "slug": "rise-of-esports-2025",
+      "shares": "7.1k",
+      "level": "headline",
+      "comments": [
+        {
+          "avatar": "https://via.placeholder.com/40",
+          "author": "Daniel",
+          "date": "2025-05-01",
+          "content": "Esports is definitely becoming a bigger part of the sports world. The way it has grown is incredible.",
+          "likes": 120,
+          "replies": [
+            {
+              "author": "Mow",
+              "content": "It’s exciting, Daniel! The esports ecosystem is rapidly expanding with new opportunities.",
+              "date": "2025-05-01",
+              "likes": 50
+            }
+          ]
+        },
+        {
+          "avatar": "https://via.placeholder.com/40",
+          "author": "Olivia",
+          "date": "2025-05-02",
+          "content": "I’m curious to see how Esports will continue to grow as a career option in the future.",
+          "likes": 75
+        }
+      ]
+    },
+    
+    {
+      "id": 11,
+      "title1": "The Evolution of Streaming Services",
+      "title2": "How Streaming is Changing the Entertainment Landscape",
+      "title3": "The Future of On-Demand Content",
+      "title4": "What’s Next for Netflix, Hulu, and Amazon Prime?",
+      "content1": "Streaming services have revolutionized how we consume content, with platforms like Netflix and Hulu becoming household names...",
+      "content2": "With the rise of on-demand content, traditional television networks are facing serious competition...",
+      "content3": "As technology improves, so does the quality and accessibility of streaming services, making it easier than ever to watch content anywhere...",
+      "like": 2200,
+      "comment": 310,
+      "readtime": "8 min",
+      "author": "Mow",
+      "category": "Entertainment",
+      "views": 550,
+      "content": "Streaming services have completely transformed the entertainment industry. Today, it's all about choice and convenience. With millions of subscribers worldwide, platforms like Netflix, Hulu, and Amazon Prime are continuously innovating to stay on top.",
+      "date": "2025-05-02",
+      "thumbnail": "https://i.postimg.cc/2ScrN9mK/premium-photo-1684581214880-2043e5bc8b8b.avif",
+      "videoUrl": "https://streamable.com/zehmd7",
+      "image": "https://i.imgur.com/sDlzG9P.jpg",
+      "slug": "evolution-of-streaming-services",
+      "shares": "9.2k",
+      "level": "headline",
+      "comments": [
+        {
+          "avatar": "https://via.placeholder.com/40",
+          "author": "Lucas",
+          "date": "2025-05-03",
+          "content": "Streaming services have definitely changed the way we watch TV. The convenience is unmatched!",
+          "likes": 180,
+          "replies": [
+            {
+              "author": "Mow",
+              "content": "Exactly, Lucas! The ability to watch content on-demand is a game-changer.",
+              "date": "2025-05-03",
+              "likes": 70
+            }
+          ]
+        },
+        {
+          "avatar": "https://via.placeholder.com/40",
+          "author": "Emily",
+          "date": "2025-05-04",
+          "content": "The competition between streaming platforms is getting intense. Who do you think will lead in the next 5 years?",
+          "likes": 110
+        }
+      ]
+    },
+    
+    {
+      "id": 12,
+      "title1": "The Impact of Mental Health on Physical Health",
+      "title2": "Why Mental Well-Being Should Be a Priority",
+      "title3": "Understanding the Connection Between Mind and Body",
+      "title4": "Strategies for Improving Mental and Physical Health",
+      "content1": "Mental health is just as important as physical health, and they are often deeply interconnected...",
+      "content2": "Poor mental health can lead to physical problems, and conversely, physical illness can affect mental health...",
+      "content3": "By focusing on mental well-being, we can improve overall health and prevent chronic illnesses...",
+      "like": 950,
+      "comment": 130,
+      "readtime": "6 min",
+      "author": "Mow",
+      "category": "Health",
+      "views": 350,
+      "content": "The relationship between mental and physical health is undeniable. Maintaining mental health can significantly improve physical well-being, and the two should be treated as one unified system.",
+      "date": "2025-05-05",
+      "thumbnail": "https://i.postimg.cc/2ScrN9mK/premium-photo-1684581214880-2043e5bc8b8b.avif",
+      "videoUrl": "https://streamable.com/zehmd7",
+      "image": "https://i.imgur.com/Zrjs7cm.jpg",
+      "slug": "impact-of-mental-health",
+      "shares": "5.3k",
+      "level": "headline",
+      "comments": [
+        {
+          "avatar": "https://via.placeholder.com/40",
+          "author": "Sophia",
+          "date": "2025-05-06",
+          "content": "Mental health awareness is so important. I hope more people prioritize it in the future.",
+          "likes": 85,
+          "replies": [
+            {
+              "author": "Mow",
+              "content": "Absolutely, Sophia! Mental health should be prioritized just like physical health.",
+              "date": "2025-05-06",
+              "likes": 50
+            }
+          ]
+        },
+        {
+          "avatar": "https://via.placeholder.com/40",
+          "author": "Michael",
+          "date": "2025-05-07",
+          "content": "This article really opened my eyes to the connection between mental and physical health. Great read!",
+          "likes": 110
         }
       ]
     },
     {
       "id": 13,
-      "title1": "The Art of Logo Design",
-      "title2": "Crafting Memorable Brands",
-      "title3": "Designing Logos That Stand Out",
-      "title4": "The Science Behind Effective Logo Design",
-      "content1": "A logo is often the first impression of a brand, and it needs to communicate the right message...",
-      "content2": "Logo design is not just about aesthetics; it must reflect the core values and mission of the brand...",
-      "content3": "Effective logos are simple, memorable, and versatile, making them instantly recognizable...",
-      "like": 1100,
-      "comment": 220,
-      "readtime": "6 min",
-      "author": "Mow",
-      "category": "Design",
-      "views": 390,
-      "content": "A well-designed logo is the cornerstone of a strong brand identity, representing the company’s vision...",
-      "date": "2025-05-08",
-      "thumbnail": "https://i.ibb.co.com/logo-design-thumbnail.jpg",
-      "videoUrl": "https://files.catbox.moe/def456.mp4",
-      "image": "https://i.ibb.co.com/logo-design-thumbnail.jpg",
-      "slug": "the-art-of-logo-design",
-      "shares": "3.7k",
-      "level": "headline",
-      "comments": [
-        {
-          "avatar": "https://via.placeholder.com/40",
-          "author": "Sarah Johnson",
-          "date": "2025-05-04",
-          "content": "I agree! A logo is so crucial for branding.",
-          "likes": 80
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "title1": "Typography in Web Design",
-      "title2": "Choosing the Right Fonts for Your Website",
-      "title3": "The Importance of Typography in Design",
-      "title4": "How Typography Affects User Experience",
-      "content1": "Typography plays a crucial role in web design, influencing readability and overall aesthetics...",
-      "content2": "Choosing the right font for a website can improve user engagement and ensure clear communication...",
-      "content3": "From serif to sans-serif, different fonts convey different messages and feelings to the audience...",
-      "like": 1000,
+      "title1": "The Quest for Clean Water: Challenges and Solutions",
+      "title2": "Innovative Technologies in Water Purification",
+      "title3": "Global Water Scarcity and How to Combat It",
+      "title4": "Water Conservation Techniques You Can Adopt",
+      "content1": "Clean water is a basic necessity, yet millions around the world still lack access to it...",
+      "content2": "Advancements in water purification technologies are helping to address water scarcity in many regions...",
+      "content3": "Conserving water at a personal and global level can ensure future generations have access to this vital resource...",
+      "like": 1240,
       "comment": 180,
-      "readtime": "5 min",
+      "readtime": "7 min",
       "author": "Mow",
-      "category": "Design",
-      "views": 350,
-      "content": "Typography is more than just picking a pretty font; it’s about ensuring your message is easily readable...",
-      "date": "2025-05-09",
-      "thumbnail": "https://i.ibb.co.com/typography-thumbnail.jpg",
-      "videoUrl": "https://files.catbox.moe/ghi987.mp4",
-      "image": "https://i.ibb.co.com/typography-thumbnail.jpg",
-      "slug": "typography-in-web-design",
-      "shares": "3.4k",
+      "category": "Science",
+      "views": 420,
+      "content": "Water is essential for life, but many regions around the world face water scarcity. By investing in water purification and conservation technologies, we can help secure access to clean water for future generations.",
+      "date": "2025-05-07",
+      "thumbnail": "https://i.postimg.cc/2ScrN9mK/premium-photo-1684581214880-2043e5bc8b8b.avif",
+      "videoUrl": "https://streamable.com/zehmd7",
+      "image": "https://i.imgur.com/kz39hfn.jpg",
+      "slug": "quest-for-clean-water",
+      "shares": "8.1k",
       "level": "headline",
       "comments": [
         {
           "avatar": "https://via.placeholder.com/40",
-          "author": "Michael Lee",
-          "date": "2025-05-05",
-          "content": "Typography can make or break the readability of a website.",
+          "author": "David",
+          "date": "2025-05-08",
+          "content": "Water conservation is so critical. It’s great to see new technologies improving access to clean water.",
+          "likes": 130,
+          "replies": [
+            {
+              "author": "Mow",
+              "content": "Yes, David! Clean water access is becoming increasingly important, and technology can be a huge help.",
+              "date": "2025-05-08",
+              "likes": 70
+            }
+          ]
+        },
+        {
+          "avatar": "https://via.placeholder.com/40",
+          "author": "Emma",
+          "date": "2025-05-09",
+          "content": "I hope more initiatives like this spread globally. Clean water should be a basic right for everyone.",
           "likes": 95
         }
       ]
     },
+    
+    
     {
-      "id": 15,
-      "title1": "The Power of Color in Design",
-      "title2": "How Colors Influence User Perception",
-      "title3": "Color Psychology in Web and Graphic Design",
-      "title4": "Creating Effective Color Schemes",
-      "content1": "Colors evoke emotions and can influence how users perceive a brand or product...",
-      "content2": "The right color palette can enhance user experience and convey the correct brand message...",
-      "content3": "Using colors effectively is key to creating aesthetically pleasing and functional designs...",
-      "like": 1250,
-      "comment": 210,
-      "readtime": "6 min",
+      "id": 14,
+      "title1": "The Future of E-Commerce: Trends to Watch",
+      "title2": "How E-Commerce is Reshaping Retail",
+      "title3": "The Rise of Artificial Intelligence in Online Shopping",
+      "title4": "What’s Next for E-Commerce After 2025?",
+      "content1": "E-commerce has drastically changed how we shop, and it continues to evolve with technology...",
+      "content2": "AI and machine learning are now integral to the online shopping experience, improving personalization and customer service...",
+      "content3": "The future of e-commerce will likely involve even more immersive and automated experiences, such as virtual shopping and AI-driven recommendations...",
+      "like": 1800,
+      "comment": 250,
+      "readtime": "8 min",
       "author": "Mow",
-      "category": "Design",
-      "views": 430,
-      "content": "Color plays a vital role in how users perceive a website or brand, and understanding color psychology is crucial...",
+      "category": "Business",
+      "views": 600,
+      "content": "E-commerce is quickly becoming the dominant force in retail. With the rise of artificial intelligence and personalized shopping experiences, the online market is growing more innovative and competitive.",
       "date": "2025-05-10",
-      "thumbnail": "https://i.ibb.co.com/color-design-thumbnail.jpg",
-      "videoUrl": "https://files.catbox.moe/jkl456.mp4",
-      "image": "https://i.ibb.co.com/color-design-thumbnail.jpg",
-      "slug": "the-power-of-color-in-design",
-      "shares": "4.0k",
+      "thumbnail": "https://i.postimg.cc/2ScrN9mK/premium-photo-1684581214880-2043e5bc8b8b.avif",
+      "videoUrl": "https://streamable.com/zehmd7",
+      "image": "https://i.imgur.com/vVfgRaQ.jpg",
+      "slug": "future-of-ecommerce-trends",
+      "shares": "10.3k",
       "level": "headline",
       "comments": [
         {
           "avatar": "https://via.placeholder.com/40",
-          "author": "Anna Brown",
-          "date": "2025-05-06",
-          "content": "Color choices can really influence how we feel about a brand.",
+          "author": "Liam",
+          "date": "2025-05-11",
+          "content": "E-commerce has grown rapidly, and it’s amazing to think about how much it will change in the next few years.",
+          "likes": 150,
+          "replies": [
+            {
+              "author": "Mow",
+              "content": "It’s definitely exciting, Liam! We’re just scratching the surface of what’s possible in e-commerce.",
+              "date": "2025-05-11",
+              "likes": 80
+            }
+          ]
+        },
+        {
+          "avatar": "https://via.placeholder.com/40",
+          "author": "Charlotte",
+          "date": "2025-05-12",
+          "content": "AI is definitely making shopping easier. I can’t imagine how personalized my experience will be in a few years.",
           "likes": 110
         }
       ]
     },
-        
-      {
-        "id": 21,
-        "title1": "Champions League Final",
-        "title2": "The Battle for Glory",
-        "title3": "Who Will Be Crowned Champions?",
-        "title4": "A Historic Final to Remember",
-        "content1": "The Champions League final is one of the most anticipated football matches of the year...",
-        "content2": "Teams from across Europe fight for supremacy in this thrilling competition...",
-        "content3": "With the best players in the world on display, this final promises to be unforgettable...",
-        "like": 2200,
-        "comment": 500,
-        "readtime": "5 min",
-        "author": "Mow",
-        "category": "Sports",
-        "views": 510,
-        "content": "The Champions League final is one of the most prestigious football events in the world...",
-        "date": "2025-05-16",
-        "thumbnail": "https://i.ibb.co/com/champions-league-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx789.mp4",
-        "image": "https://i.ibb.co/com/champions-league-thumbnail.jpg",
-        "slug": "champions-league-final",
-        "shares": "6.7k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "Emily Davis",
-            "date": "2025-05-03",
-            "content": "Great insights on how education is being transformed by technology!",
-            "likes": 120
-          }
-        ]
-      },
-      {
-        "id": 22,
-        "title1": "Olympic Games Preview",
-        "title2": "A Sneak Peek at the 2025 Summer Olympics",
-        "title3": "What to Expect in This Year’s Games",
-        "title4": "Athletes to Watch in the Olympics",
-        "content1": "The 2025 Summer Olympics will showcase the best athletes from around the world...",
-        "content2": "From athletics to gymnastics, the competition will be fierce in all categories...",
-        "content3": "Athletes from every corner of the globe will compete for glory and national pride...",
-        "like": 2100,
-        "comment": 400,
-        "readtime": "7 min",
-        "author": "Mow",
-        "category": "Sports",
-        "views": 480,
-        "content": "This summer’s Olympics will feature record-breaking performances and emotional moments...",
-        "date": "2025-05-17",
-        "thumbnail": "https://i.ibb.co/com/olympics-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx101.mp4",
-        "image": "https://i.ibb.co/com/olympics-thumbnail.jpg",
-        "slug": "olympic-games-preview",
-        "shares": "4.9k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "John Smith",
-            "date": "2025-05-02",
-            "content": "Looking forward to seeing new records broken this year!",
-            "likes": 85
-          }
-        ]
-      },
-      {
-        "id": 23,
-        "title1": "FIFA World Cup 2026",
-        "title2": "Teams Ready for the Ultimate Showdown",
-        "title3": "The Road to Victory in the 2026 FIFA World Cup",
-        "title4": "Top Contenders in the 2026 World Cup",
-        "content1": "The 2026 FIFA World Cup will feature the best national teams from across the world...",
-        "content2": "With intense competition, which teams will rise to the challenge and secure the victory?",
-        "content3": "Excitement builds as the tournament approaches, with teams gearing up for one of the world’s largest sporting events...",
-        "like": 2600,
-        "comment": 600,
-        "readtime": "8 min",
-        "author": "Mow",
-        "category": "Sports",
-        "views": 530,
-        "content": "The 2026 World Cup will be filled with legendary moments and incredible performances...",
-        "date": "2025-05-18",
-        "thumbnail": "https://i.ibb.co/com/fifa-world-cup-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx202.mp4",
-        "image": "https://i.ibb.co/com/fifa-world-cup-thumbnail.jpg",
-        "slug": "fifa-world-cup-2026",
-        "shares": "7.3k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "Liam Johnson",
-            "date": "2025-05-01",
-            "content": "Can't wait for the 2026 World Cup, it’s going to be epic!",
-            "likes": 95
-          }
-        ]
-      },
-      {
-        "id": 24,
-        "title1": "NBA Finals Preview",
-        "title2": "The Road to the Championship",
-        "title3": "Which Team Will Claim the Title?",
-        "title4": "Finalists Face-Off for Glory",
-        "content1": "The NBA Finals are just around the corner, and teams are getting ready for the ultimate showdown...",
-        "content2": "Top players are ready to showcase their talents as they fight for the NBA Championship...",
-        "content3": "Expect fast-paced action, high-flying dunks, and memorable moments in this year’s NBA Finals...",
-        "like": 1900,
-        "comment": 350,
-        "readtime": "6 min",
-        "author": "Mow",
-        "category": "Sports",
-        "views": 460,
-        "content": "With the NBA Finals fast approaching, which team will emerge as the champion of the 2025 season?",
-        "date": "2025-05-19",
-        "thumbnail": "https://i.ibb.co/com/nba-finals-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx303.mp4",
-        "image": "https://i.ibb.co/com/nba-finals-thumbnail.jpg",
-        "slug": "nba-finals-preview",
-        "shares": "5.2k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "Sophia Lee",
-            "date": "2025-05-02",
-            "content": "I’m rooting for the Lakers to win it all this year!",
-            "likes": 75
-          }
-        ]
-      },
-      {
-        "id": 25,
-        "title1": "The Rugby World Cup 2025",
-        "title2": "The Global Battle for Rugby Supremacy",
-        "title3": "Teams and Players to Watch at the 2025 Rugby World Cup",
-        "title4": "The Countdown to Rugby’s Biggest Event",
-        "content1": "The 2025 Rugby World Cup will bring together the best rugby teams in the world...",
-        "content2": "With top players competing for the coveted trophy, this year’s tournament promises thrilling action...",
-        "content3": "The world’s top rugby nations are gearing up for the most intense competition in the sport...",
-        "like": 2500,
-        "comment": 450,
-        "readtime": "7 min",
-        "author": "Mow",
-        "category": "Sports",
-        "views": 550,
-        "content": "The Rugby World Cup 2025 will feature unforgettable moments and fierce competition from the best teams around the world...",
-        "date": "2025-05-20",
-        "thumbnail": "https://i.ibb.co/com/rugby-world-cup-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx404.mp4",
-        "image": "https://i.ibb.co/com/rugby-world-cup-thumbnail.jpg",
-        "slug": "rugby-world-cup-2025",
-        "shares": "6.8k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "Chris Walker",
-            "date": "2025-05-04",
-            "content": "Rugby’s going to be insane this year, can’t wait!",
-            "likes": 102
-          }
-        ]
-      },    
-      {
-        "id": 31,
-        "title1": "The Importance of Mental Health",
-        "title2": "Why Taking Care of Your Mind Is Just as Important as Your Body",
-        "title3": "Mental Health in the Modern World",
-        "title4": "How to Prioritize Your Mental Well-Being",
-        "content1": "Mental health is a crucial aspect of overall health, yet it often gets overlooked...",
-        "content2": "Taking care of your mind can improve your quality of life and help you cope with daily stress...",
-        "content3": "Here’s why mental health should be a priority and tips for maintaining a healthy mind...",
-        "like": 2000,
-        "comment": 400,
-        "readtime": "6 min",
-        "author": "Mow",
-        "category": "Health",
-        "views": 520,
-        "content": "Mental health affects everything from relationships to productivity, so it's essential to take care of your mind...",
-        "date": "2025-05-26",
-        "thumbnail": "https://i.ibb.co.com/mental-health-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx1011.mp4",
-        "image": "https://i.ibb.co.com/mental-health-thumbnail.jpg",
-        "slug": "importance-of-mental-health",
-        "shares": "5.6k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "Emily Davis",
-            "date": "2025-05-03",
-            "content": "Great insights on how education is being transformed by technology!",
-            "likes": 120
-          }
-        ]
-      },
-      {
-        "id": 32,
-        "title1": "Healthy Eating Habits",
-        "title2": "How Nutrition Plays a Key Role in Your Health",
-        "title3": "The Benefits of Eating Well",
-        "title4": "How to Build a Healthy Diet",
-        "content1": "Eating a balanced diet is essential for maintaining a healthy lifestyle...",
-        "content2": "Proper nutrition provides the energy needed for daily activities and supports long-term well-being...",
-        "content3": "Here’s how you can build a healthy eating plan and avoid common dietary pitfalls...",
-        "like": 2500,
-        "comment": 500,
-        "readtime": "7 min",
-        "author": "Mow",
-        "category": "Health",
-        "views": 540,
-        "content": "Healthy eating is a foundation for overall wellness, including better energy, sleep, and mood...",
-        "date": "2025-05-27",
-        "thumbnail": "https://i.ibb.co.com/healthy-eating-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx1112.mp4",
-        "image": "https://i.ibb.co.com/healthy-eating-thumbnail.jpg",
-        "slug": "healthy-eating-habits",
-        "shares": "6.3k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "John Smith",
-            "date": "2025-05-28",
-            "content": "I never realized how important nutrition was for overall well-being. Great post!",
-            "likes": 90
-          }
-        ]
-      },
-      {
-        "id": 33,
-        "title1": "Exercise and Physical Health",
-        "title2": "The Connection Between Fitness and Longevity",
-        "title3": "Why Exercise Is Essential for Your Well-Being",
-        "title4": "Tips for Staying Active at Any Age",
-        "content1": "Exercise is one of the most effective ways to improve your health and longevity...",
-        "content2": "From boosting your heart health to strengthening muscles, regular exercise has numerous benefits...",
-        "content3": "Here’s how you can incorporate exercise into your daily routine and stay fit at any age...",
-        "like": 2300,
-        "comment": 400,
-        "readtime": "6 min",
-        "author": "Mow",
-        "category": "Health",
-        "views": 510,
-        "content": "Physical activity is crucial for maintaining a healthy body and mind, and it’s never too late to start...",
-        "date": "2025-05-28",
-        "thumbnail": "https://i.ibb.co.com/exercise-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx1213.mp4",
-        "image": "https://i.ibb.co.com/exercise-thumbnail.jpg",
-        "slug": "exercise-and-physical-health",
-        "shares": "6.7k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "Michael Lee",
-            "date": "2025-05-29",
-            "content": "I started exercising after reading this! Thanks for the motivation.",
-            "likes": 150
-          }
-        ]
-      },
-      {
-        "id": 34,
-        "title1": "The Benefits of Sleep",
-        "title2": "How Getting Enough Rest Improves Your Health",
-        "title3": "Why Sleep Is Essential for Overall Well-Being",
-        "title4": "Tips for Better Sleep Hygiene",
-        "content1": "Sleep is essential for both physical and mental health, yet many people struggle with getting enough rest...",
-        "content2": "From improving memory and concentration to supporting immune function, sleep plays a crucial role in your overall health...",
-        "content3": "Here are some tips on how to improve your sleep hygiene and get the best rest possible...",
-        "like": 1800,
-        "comment": 350,
-        "readtime": "7 min",
-        "author": "Mow",
-        "category": "Health",
-        "views": 480,
-        "content": "Getting enough quality sleep is vital for your well-being. It affects every aspect of your health, including mood, energy, and cognitive function...",
-        "date": "2025-05-29",
-        "thumbnail": "https://i.ibb.co/com/sleep-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx1314.mp4",
-        "image": "https://i.ibb.co/com/sleep-thumbnail.jpg",
-        "slug": "benefits-of-sleep",
-        "shares": "7.0k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "Sophia Harris",
-            "date": "2025-05-30",
-            "content": "I’ve been struggling with sleep lately. This post has given me some great tips to try!",
-            "likes": 110
-          }
-        ]
-      },
-      {
-        "id": 35,
-        "title1": "Managing Stress Effectively",
-        "title2": "How to Cope with Stress in a Healthy Way",
-        "title3": "The Impact of Stress on Your Health",
-        "title4": "Stress Management Techniques for a Balanced Life",
-        "content1": "Stress is a common part of life, but how we manage it can make all the difference...",
-        "content2": "Chronic stress can lead to a variety of health issues, but there are ways to reduce and manage it effectively...",
-        "content3": "In this post, we explore practical stress management strategies that promote a healthier and more balanced life...",
-        "like": 2200,
-        "comment": 450,
-        "readtime": "6 min",
-        "author": "Mow",
-        "category": "Health",
-        "views": 550,
-        "content": "Stress management is essential for maintaining mental and physical health. Learn how to identify stress triggers and apply coping strategies that promote well-being...",
-        "date": "2025-05-30",
-        "thumbnail": "https://i.ibb.co/com/stress-management-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx1415.mp4",
-        "image": "https://i.ibb.co/com/stress-management-thumbnail.jpg",
-        "slug": "managing-stress-effectively",
-        "shares": "6.5k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "Lucas Brown",
-            "date": "2025-05-31",
-            "content": "These stress management techniques really work! I’ve been using some of them, and I feel so much better.",
-            "likes": 200
-          }
-        ]
-      },      
     
-      {
-        "id": 36,
-        "title1": "The Wonders of Space Exploration",
-        "title2": "How Space Travel is Shaping the Future of Humanity",
-        "title3": "The Importance of Space Research",
-        "title4": "What We Can Learn from Exploring Space",
-        "content1": "Space exploration has led to incredible discoveries, but its importance goes beyond just scientific knowledge...",
-        "content2": "From technology advancements to understanding the universe, space exploration plays a vital role in shaping humanity’s future...",
-        "content3": "Here’s why investing in space exploration is crucial and what it means for our progress as a species...",
-        "like": 2800,
-        "comment": 600,
-        "readtime": "8 min",
-        "author": "Mow",
-        "category": "Science",
-        "views": 650,
-        "content": "Space exploration offers more than just the thrill of discovery. It has profound impacts on technology, communication, and our understanding of life itself...",
-        "date": "2025-06-01",
-        "thumbnail": "https://i.ibb.co/com/space-exploration-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx1516.mp4",
-        "image": "https://i.ibb.co/com/space-exploration-thumbnail.jpg",
-        "slug": "wonders-of-space-exploration",
-        "shares": "7.5k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "John Doe",
-            "date": "2025-06-02",
-            "content": "This is amazing! I never realized how much space exploration impacts our everyday life.",
-            "likes": 120
-          }
-        ]
-      },
-      {
-        "id": 37,
-        "title1": "The Human Genome Project",
-        "title2": "Unlocking the Secrets of Our DNA",
-        "title3": "How Genetic Research is Changing Medicine",
-        "title4": "The Future of Genetic Engineering",
-        "content1": "The Human Genome Project is one of the most groundbreaking scientific endeavors, aiming to map all human genes...",
-        "content2": "By understanding our genetic makeup, scientists can develop better treatments for diseases and even prevent genetic disorders...",
-        "content3": "Here’s a look at how genetic research is revolutionizing the medical field and what’s to come in the future...",
-        "like": 2900,
-        "comment": 700,
-        "readtime": "9 min",
-        "author": "Mow",
-        "category": "Science",
-        "views": 700,
-        "content": "The mapping of the human genome has the potential to revolutionize medicine, making treatments more personalized and effective...",
-        "date": "2025-06-02",
-        "thumbnail": "https://i.ibb.co/com/genome-project-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx1617.mp4",
-        "image": "https://i.ibb.co/com/genome-project-thumbnail.jpg",
-        "slug": "human-genome-project",
-        "shares": "8.0k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "Jane Smith",
-            "date": "2025-06-03",
-            "content": "Incredible advancements in genetics! This will change everything in medicine.",
-            "likes": 180
-          }
-        ]
-      },
-      {
-        "id": 38,
-        "title1": "Artificial Intelligence: The Future of Technology",
-        "title2": "How AI is Revolutionizing the Way We Live",
-        "title3": "The Impact of AI on Industries and Society",
-        "title4": "What We Can Expect from AI in the Next Decade",
-        "content1": "Artificial intelligence is rapidly advancing and has the potential to change almost every aspect of our lives...",
-        "content2": "From self-driving cars to healthcare diagnostics, AI is already having a profound effect on industries and society as a whole...",
-        "content3": "Here’s what you need to know about the future of AI and how it will continue to shape our world...",
-        "like": 3000,
-        "comment": 750,
-        "readtime": "8 min",
-        "author": "Mow",
-        "category": "Science",
-        "views": 730,
-        "content": "AI is poised to impact everything from jobs to ethics. As the technology continues to evolve, it’s essential to understand its potential and risks...",
-        "date": "2025-06-03",
-        "thumbnail": "https://i.ibb.co/com/ai-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx1718.mp4",
-        "image": "https://i.ibb.co/com/ai-thumbnail.jpg",
-        "slug": "artificial-intelligence-future",
-        "shares": "8.5k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "Carlos Ruiz",
-            "date": "2025-06-04",
-            "content": "The impact of AI is unbelievable. We’re only scratching the surface of what’s possible!",
-            "likes": 220
-          }
-        ]
-      },
-      {
-        "id": 39,
-        "title1": "Renewable Energy and the Future",
-        "title2": "How Renewable Resources are Shaping the World’s Energy Landscape",
-        "title3": "The Transition to Clean Energy",
-        "title4": "Why Renewable Energy is the Key to a Sustainable Future",
-        "content1": "Renewable energy is the future of sustainable energy production, offering a clean alternative to traditional fossil fuels...",
-        "content2": "From solar to wind power, renewable energy sources are helping reduce our carbon footprint and fight climate change...",
-        "content3": "Here’s how renewable energy is changing the global energy market and what it means for the future...",
-        "like": 2700,
-        "comment": 500,
-        "readtime": "7 min",
-        "author": "Mow",
-        "category": "Science",
-        "views": 670,
-        "content": "As the world faces the growing challenge of climate change, renewable energy plays a critical role in ensuring a sustainable and green future...",
-        "date": "2025-06-04",
-        "thumbnail": "https://i.ibb.co/com/renewable-energy-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx1819.mp4",
-        "image": "https://i.ibb.co/com/renewable-energy-thumbnail.jpg",
-        "slug": "renewable-energy-future",
-        "shares": "7.8k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "Olivia Green",
-            "date": "2025-06-05",
-            "content": "We need to transition to renewable energy now! This is the key to fighting climate change.",
-            "likes": 150
-          }
-        ]
-      },
-      {
-        "id": 40,
-        "title1": "Quantum Computing: The Next Frontier",
-        "title2": "How Quantum Computers Will Change the World",
-        "title3": "The Potential of Quantum Computing for Advancing Technology",
-        "title4": "What Quantum Computing Means for the Future",
-        "content1": "Quantum computing is poised to revolutionize technology, offering unprecedented processing power that could change everything from cryptography to medicine...",
-        "content2": "Though still in its early stages, quantum computing holds incredible promise for solving problems that classical computers cannot handle...",
-        "content3": "In this post, we explore the potential applications of quantum computing and what it could mean for the future...",
-        "like": 3200,
-        "comment": 800,
-        "readtime": "9 min",
-        "author": "Mow",
-        "category": "Science",
-        "views": 780,
-        "content": "Quantum computing is expected to drastically impact fields like artificial intelligence, drug discovery, and even cybersecurity. The possibilities are limitless...",
-        "date": "2025-06-05",
-        "thumbnail": "https://i.ibb.co/com/quantum-computing-thumbnail.jpg",
-        "videoUrl": "https://files.catbox.moe/vwx1920.mp4",
-        "image": "https://i.ibb.co/com/quantum-computing-thumbnail.jpg",
-        "slug": "quantum-computing-future",
-        "shares": "8.2k",
-        "level": "headline",
-        "comments": [
-          {
-            "avatar": "https://via.placeholder.com/40",
-            "author": "Ethan Taylor",
-            "date": "2025-06-06",
-            "content": "Quantum computing is the future! It will change so many industries in ways we can't even imagine.",
-            "likes": 250
-          }
-        ]
-      },
-      
+    {
+      "id": 15,
+      "title1": "The Rise of Quantum Computing: A New Era in Technology",
+      "title2": "What is Quantum Computing and How Will It Change the World?",
+      "title3": "Understanding Quantum Computing: A Beginner's Guide",
+      "title4": "How Quantum Computers Will Revolutionize Industries",
+      "content1": "Quantum computing represents a fundamental shift in how we approach computing, moving beyond classical limitations...",
+      "content2": "By harnessing the principles of quantum mechanics, quantum computers can solve problems that are currently impossible for classical computers...",
+      "content3": "From cryptography to drug development, quantum computing will impact a wide range of industries, bringing new possibilities and challenges...",
+      "like": 2100,
+      "comment": 300,
+      "readtime": "9 min",
+      "author": "Mow",
+      "category": "Technology",
+      "views": 750,
+      "content": "Quantum computing is poised to revolutionize how we process information. Its potential to solve complex problems at unprecedented speeds could reshape industries and open new frontiers in science and technology.",
+      "date": "2025-05-12",
+      "thumbnail": "https://i.postimg.cc/2ScrN9mK/premium-photo-1684581214880-2043e5bc8b8b.avif",
+      "videoUrl": "https://streamable.com/zehmd7",
+      "image": "https://i.imgur.com/yC3wcyI.jpg",
+      "slug": "rise-of-quantum-computing",
+      "shares": "12.5k",
+      "level": "headline",
+      "comments": [
         {
-          "id": 41,
-          "title1": "The Rise of 5G Technology",
-          "title2": "How 5G Will Change the Internet of Things",
-          "title3": "The Future of Connectivity: 5G and Beyond",
-          "title4": "Why 5G is a Game-Changer for Tech Industry",
-          "content1": "5G is expected to transform industries with faster internet speeds, lower latency, and the ability to connect billions of devices...",
-          "content2": "As the next generation of mobile technology, 5G will enable advancements in IoT, smart cities, and autonomous vehicles...",
-          "content3": "In this article, we dive deep into the impact of 5G on various sectors and how it will reshape the future of communication...",
-          "like": 4200,
-          "comment": 1120,
-          "readtime": "8 min",
-          "author": "Mow",
-          "category": "Technology",
-          "views": 1000,
-          "content": "5G technology offers lightning-fast internet speeds and low latency, revolutionizing industries like telecommunications, healthcare, and logistics...",
-          "date": "2025-06-07",
-          "thumbnail": "https://i.ibb.co/com/5g-thumbnail.jpg",
-          "videoUrl": "https://files.catbox.moe/5g-demo.mp4",
-          "image": "https://i.ibb.co/com/5g-thumbnail.jpg",
-          "slug": "5g-technology-future",
-          "shares": "12.3k",
-          "level": "headline",
-          "comments": [
+          "avatar": "https://via.placeholder.com/40",
+          "author": "James",
+          "date": "2025-05-13",
+          "content": "Quantum computing sounds fascinating, but it's still hard to understand how it works. Great explanation!",
+          "likes": 190,
+          "replies": [
             {
-              "avatar": "https://via.placeholder.com/40",
-              "author": "Sophia Green",
-              "date": "2025-06-08",
-              "content": "5G will bring revolutionary changes to the internet, especially with IoT and autonomous systems!",
-              "likes": 320
+              "author": "Mow",
+              "content": "It’s a challenging concept, James, but it’s the future! If you want to dive deeper, I can share more resources.",
+              "date": "2025-05-13",
+              "likes": 120
             }
           ]
         },
         {
-          "id": 42,
-          "title1": "The Potential of Artificial Intelligence in Healthcare",
-          "title2": "How AI is Revolutionizing Healthcare",
-          "title3": "The Future of Medicine: AI in Healthcare",
-          "title4": "How AI is Saving Lives and Improving Outcomes",
-          "content1": "Artificial Intelligence is poised to transform healthcare, from diagnostics to treatment plans, making healthcare more accessible and efficient...",
-          "content2": "AI applications in healthcare range from predictive analytics to robotic surgery, promising faster diagnoses and more accurate treatments...",
-          "content3": "In this post, we explore the incredible advancements AI is making in healthcare and how it is reshaping the industry...",
-          "like": 3900,
-          "comment": 980,
-          "readtime": "10 min",
-          "author": "Mow",
-          "category": "Technology",
-          "views": 850,
-          "content": "AI is helping doctors make more accurate decisions, predicting health risks, and even enabling remote surgeries with precision...",
-          "date": "2025-06-10",
-          "thumbnail": "https://i.ibb.co/com/ai-healthcare-thumbnail.jpg",
-          "videoUrl": "https://files.catbox.moe/ai-healthcare-demo.mp4",
-          "image": "https://i.ibb.co/com/ai-healthcare-thumbnail.jpg",
-          "slug": "ai-in-healthcare-revolution",
-          "shares": "9.5k",
-          "level": "headline",
-          "comments": [
-            {
-              "avatar": "https://via.placeholder.com/40",
-              "author": "Liam Davis",
-              "date": "2025-06-11",
-              "content": "AI is making healthcare faster, safer, and more personalized. The future is bright for medical professionals!",
-              "likes": 200
-            }
-          ]
-        },
-        {
-          "id": 43,
-          "title1": "Blockchain: The Future of Secure Transactions",
-          "title2": "How Blockchain is Transforming Finance and Security",
-          "title3": "Understanding Blockchain and Its Impact on Various Sectors",
-          "title4": "Blockchain Technology: Securing the Future",
-          "content1": "Blockchain technology is providing a new way to conduct secure transactions, and it is being integrated into industries beyond cryptocurrency...",
-          "content2": "From banking to supply chains, blockchain is offering enhanced security, transparency, and efficiency in ways traditional systems cannot match...",
-          "content3": "In this article, we delve into the fundamentals of blockchain and its wide-ranging applications across industries...",
-          "like": 3500,
-          "comment": 800,
-          "readtime": "9 min",
-          "author": "Mow",
-          "category": "Technology",
-          "views": 900,
-          "content": "Blockchain ensures that data is immutable, providing security for digital transactions and transparency for both users and providers...",
-          "date": "2025-06-12",
-          "thumbnail": "https://i.ibb.co/com/blockchain-thumbnail.jpg",
-          "videoUrl": "https://files.catbox.moe/blockchain-demo.mp4",
-          "image": "https://i.ibb.co/com/blockchain-thumbnail.jpg",
-          "slug": "blockchain-technology-future",
-          "shares": "7.2k",
-          "level": "headline",
-          "comments": [
-            {
-              "avatar": "https://via.placeholder.com/40",
-              "author": "Olivia Smith",
-              "date": "2025-06-13",
-              "content": "Blockchain is the most secure and transparent technology we have today. It will completely change finance and other industries.",
-              "likes": 310
-            }
-          ]
-        },
-        {
-          "id": 44,
-          "title1": "The Impact of Virtual Reality on Education",
-          "title2": "How Virtual Reality is Revolutionizing the Learning Experience",
-          "title3": "The Future of Education: VR and Beyond",
-          "title4": "Virtual Reality in the Classroom: Transforming Education",
-          "content1": "Virtual Reality (VR) is taking education to new heights by creating immersive learning environments that engage students like never before...",
-          "content2": "With VR, students can experience history, science, and literature in ways that make learning more interactive and impactful...",
-          "content3": "In this article, we discuss the role of virtual reality in education and how it is changing the way we teach and learn...",
-          "like": 4600,
-          "comment": 1100,
-          "readtime": "7 min",
-          "author": "Mow",
-          "category": "Technology",
-          "views": 950,
-          "content": "VR makes learning more engaging and interactive by bringing subjects to life and giving students hands-on experiences they can't get in a traditional classroom...",
-          "date": "2025-06-14",
-          "thumbnail": "https://i.ibb.co/com/vr-education-thumbnail.jpg",
-          "videoUrl": "https://files.catbox.moe/vr-education-demo.mp4",
-          "image": "https://i.ibb.co/com/vr-education-thumbnail.jpg",
-          "slug": "vr-education-future",
-          "shares": "14.1k",
-          "level": "headline",
-          "comments": [
-            {
-              "avatar": "https://via.placeholder.com/40",
-              "author": "Lucas Brown",
-              "date": "2025-06-15",
-              "content": "Virtual reality is changing the way we approach education. It makes learning so much more engaging!",
-              "likes": 400
-            }
-          ]
-        },
-        {
-          "id": 45,
-          "title1": "Exploring the World of Internet of Things (IoT)",
-          "title2": "How IoT is Connecting the World and Changing Industries",
-          "title3": "The Future of IoT: Smart Devices and Connectivity",
-          "title4": "IoT: Building a Smarter World with Connected Devices",
-          "content1": "The Internet of Things (IoT) is reshaping how we interact with the world, with smart devices that communicate and share data to improve our lives...",
-          "content2": "IoT is becoming an integral part of industries, from healthcare to agriculture, providing real-time data and automating processes...",
-          "content3": "In this post, we explore how IoT is transforming everyday life and making industries smarter and more efficient...",
-          "like": 3700,
-          "comment": 940,
-          "readtime": "8 min",
-          "author": "Mow",
-          "category": "Technology",
-          "views": 780,
-          "content": "IoT allows devices to connect and communicate seamlessly, making everything from home appliances to factory machines smarter and more efficient...",
-          "date": "2025-06-16",
-          "thumbnail": "https://i.ibb.co/com/iot-thumbnail.jpg",
-          "videoUrl": "https://files.catbox.moe/iot-demo.mp4",
-          "image": "https://i.ibb.co/com/iot-thumbnail.jpg",
-          "slug": "iot-smart-world",
-          "shares": "10.8k",
-          "level": "headline",
-          "comments": [
-            {
-              "avatar": "https://via.placeholder.com/40",
-              "author": "Emma Johnson",
-              "date": "2025-06-17",
-              "content": "IoT is the backbone of smart cities and homes. It's going to revolutionize how we live and work!",
-              "likes": 280
-            }
-          ]
-        },
-        {
-          "id": 46,
-          "title1": "The Evolution of Cloud Computing",
-          "title2": "How Cloud Computing is Changing the Way We Work and Store Data",
-          "title3": "The Future of Cloud: Scalability and Flexibility",
-          "title4": "Cloud Computing: The Backbone of Modern Business",
-          "content1": "Cloud computing is revolutionizing businesses by providing scalable and flexible solutions for data storage, computing, and networking...",
-          "content2": "With cloud services, companies can access data and applications from anywhere in the world, increasing productivity and collaboration...",
-          "content3": "In this article, we explore the rise of cloud computing and how it is shaping the future of business and technology...",
-          "like": 4000,
-          "comment": 1050,
-          "readtime": "9 min",
-          "author": "Mow",
-          "category": "Technology",
-          "views": 900,
-          "content": "Cloud computing allows businesses to scale quickly, offering flexibility in how data is stored and accessed, and reducing costs associated with hardware...",
-          "date": "2025-06-18",
-          "thumbnail": "https://i.ibb.co/com/cloud-computing-thumbnail.jpg",
-          "videoUrl": "https://files.catbox.moe/cloud-computing-demo.mp4",
-          "image": "https://i.ibb.co/com/cloud-computing-thumbnail.jpg",
-          "slug": "cloud-computing-evolution",
-          "shares": "13.4k",
-          "level": "headline",
-          "comments": [
-            {
-              "avatar": "https://via.placeholder.com/40",
-              "author": "Ava White",
-              "date": "2025-06-19",
-              "content": "The cloud is the future. It makes business operations faster, more flexible, and cost-efficient.",
-              "likes": 330
-            }
-          ]
-        },
-        {
-          "id": 47,
-          "title1": "The Role of Artificial Intelligence in Cybersecurity",
-          "title2": "How AI is Enhancing Security and Protecting Data",
-          "title3": "The Future of Cybersecurity: AI and Automation",
-          "title4": "AI in Cybersecurity: Keeping Data Safe in a Digital World",
-          "content1": "Artificial intelligence is playing an increasing role in cybersecurity, identifying threats faster and more accurately than human experts...",
-          "content2": "AI-powered security tools are automating threat detection, improving responses, and preventing cyberattacks in real-time...",
-          "content3": "In this post, we look at the growing impact of AI on cybersecurity and how it is transforming the fight against digital threats...",
-          "like": 4900,
-          "comment": 1200,
-          "readtime": "8 min",
-          "author": "Mow",
-          "category": "Technology",
-          "views": 1100,
-          "content": "AI helps cybersecurity systems analyze vast amounts of data, identifying vulnerabilities and threats before they can cause harm...",
-          "date": "2025-06-20",
-          "thumbnail": "https://i.ibb.co/com/ai-cybersecurity-thumbnail.jpg",
-          "videoUrl": "https://files.catbox.moe/ai-cybersecurity-demo.mp4",
-          "image": "https://i.ibb.co/com/ai-cybersecurity-thumbnail.jpg",
-          "slug": "ai-cybersecurity-advances",
-          "shares": "11.5k",
-          "level": "headline",
-          "comments": [
-            {
-              "avatar": "https://via.placeholder.com/40",
-              "author": "Mason King",
-              "date": "2025-06-21",
-              "content": "AI is the future of cybersecurity. It's the best tool we have to keep our data safe.",
-              "likes": 270
-            }
-          ]
-        },
-        {
-          "id": 48,
-          "title1": "The Impact of Robotics on Manufacturing",
-          "title2": "How Robotics is Transforming the Industrial Landscape",
-          "title3": "The Future of Manufacturing: Automation and Robotics",
-          "title4": "Robotics: Revolutionizing the Factory Floor",
-          "content1": "Robotics is taking over many tasks traditionally performed by humans in manufacturing, increasing speed, precision, and safety on the factory floor...",
-          "content2": "Robots are being used for everything from assembly to quality control, allowing manufacturers to produce goods more efficiently and cost-effectively...",
-          "content3": "In this post, we discuss the growing role of robotics in manufacturing and how it is driving industrial innovation...",
-          "like": 4200,
-          "comment": 1150,
-          "readtime": "8 min",
-          "author": "Mow",
-          "category": "Technology",
-          "views": 920,
-          "content": "Robots are enabling manufacturers to meet rising demand while improving product quality, reducing costs, and enhancing worker safety...",
-          "date": "2025-06-22",
-          "thumbnail": "https://i.ibb.co/com/robotics-manufacturing-thumbnail.jpg",
-          "videoUrl": "https://files.catbox.moe/robotics-manufacturing-demo.mp4",
-          "image": "https://i.ibb.co/com/robotics-manufacturing-thumbnail.jpg",
-          "slug": "robotics-manufacturing-future",
-          "shares": "8.7k",
-          "level": "headline",
-          "comments": [
-            {
-              "avatar": "https://via.placeholder.com/40",
-              "author": "James Martin",
-              "date": "2025-06-23",
-              "content": "Robots are making manufacturing faster and more efficient. The future is automated!",
-              "likes": 350
-            }
-          ]
-        },
-        {
-          "id": 49,
-          "title1": "The Future of Autonomous Vehicles",
-          "title2": "How Self-Driving Cars Will Transform Transportation",
-          "title3": "Autonomous Vehicles: A New Era in Mobility",
-          "title4": "The Impact of Autonomous Cars on Society",
-          "content1": "Self-driving cars are poised to revolutionize transportation, from improving road safety to reducing traffic congestion and carbon emissions...",
-          "content2": "Autonomous vehicles will change how we think about travel and mobility, offering new levels of convenience, efficiency, and safety...",
-          "content3": "In this post, we explore how autonomous vehicles will change the future of transportation and the broader impact on society...",
-          "like": 5100,
-          "comment": 1300,
-          "readtime": "8 min",
-          "author": "Mow",
-          "category": "Technology",
-          "views": 1100,
-          "content": "Autonomous vehicles promise to make transportation safer, reduce the need for parking, and provide greater accessibility for people with disabilities...",
-          "date": "2025-06-24",
-          "thumbnail": "https://i.ibb.co/com/autonomous-vehicles-thumbnail.jpg",
-          "videoUrl": "https://files.catbox.moe/autonomous-vehicles-demo.mp4",
-          "image": "https://i.ibb.co/com/autonomous-vehicles-thumbnail.jpg",
-          "slug": "autonomous-vehicles-future",
-          "shares": "15.8k",
-          "level": "headline",
-          "comments": [
-            {
-              "avatar": "https://via.placeholder.com/40",
-              "author": "Ella Wright",
-              "date": "2025-06-25",
-              "content": "Self-driving cars will change everything. It will make travel so much safer and efficient!",
-              "likes": 450
-            }
-          ]
-        },
-        {
-          "id": 50,
-          "title1": "Quantum Computing: A Glimpse Into the Future",
-          "title2": "What Quantum Computing Means for the Future of Technology",
-          "title3": "The Power of Quantum Computing and Its Impact on Science and Industry",
-          "title4": "Exploring Quantum Computing: A New Frontier in Technology",
-          "content1": "Quantum computing harnesses the principles of quantum mechanics to solve complex problems that are impossible for classical computers to handle...",
-          "content2": "With quantum computing, we may soon be able to break encryption, optimize supply chains, and simulate molecular processes for drug development...",
-          "content3": "In this post, we discuss the fundamental concepts of quantum computing and its potential applications in fields like cryptography, AI, and material science...",
-          "like": 5200,
-          "comment": 1300,
-          "readtime": "12 min",
-          "author": "Mow",
-          "category": "Technology",
-          "views": 1350,
-          "content": "Quantum computing is the next frontier in computing power. By exploiting the behavior of quantum bits (qubits), it can solve problems beyond the reach of classical systems...",
-          "date": "2025-06-26",
-          "thumbnail": "https://i.ibb.co/com/quantum-computing-thumbnail.jpg",
-          "videoUrl": "https://files.catbox.moe/quantum-computing-demo.mp4",
-          "image": "https://i.ibb.co/com/quantum-computing-thumbnail.jpg",
-          "slug": "quantum-computing-future",
-          "shares": "18.3k",
-          "level": "headline",
-          "comments": [
-            {
-              "avatar": "https://via.placeholder.com/40",
-              "author": "Isabella Martinez",
-              "date": "2025-06-27",
-              "content": "Quantum computing is fascinating! It's incredible to think that we are on the verge of a new era of computing power.",
-              "likes": 450
-            }
-          ]
+          "avatar": "https://via.placeholder.com/40",
+          "author": "Olivia",
+          "date": "2025-05-14",
+          "content": "The implications of quantum computing on security and privacy are both exciting and scary. It’s a new frontier.",
+          "likes": 220
         }
-        
+      ]
+    }
+    
       
     
   ]

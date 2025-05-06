@@ -20,15 +20,11 @@ import BusinessNews from "../components/BusinessNews/BusinessNews";
 import ShabdoDhara from "../components/ShabdoDhara/ShabdoDhara";
 import UpcomingMatches from "../components/UpcomingMatches/UpcomingMatches";
 import NewsLetter from "../components/NewsLetter/NewsLetter";
-import { Link } from "react-router-dom";
 
 const Home = ({ posts, categories }) => {
   return (
     <div className=" lg:w-11/12 mx-auto  font-sans">
-      
-    <Link to={'/detail'}>
-    Detail
-    </Link>
+
       <section>
         <TopStories posts={posts} />
 
