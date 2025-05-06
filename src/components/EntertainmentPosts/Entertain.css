@@ -1,5 +1,4 @@
 .bg-paper-light {
-    background: #fdfcf7;
     background-image: linear-gradient(0deg, rgba(255,255,255,0.6), rgba(255,255,255,0.6)), 
       url("https://www.transparenttextures.com/patterns/paper-fibers.png");
     background-repeat: repeat;
@@ -11,3 +10,12 @@
                 0px 10px 30px rgba(0,0,0,0.08);
   }
   
+
+  /* src/EntertainmentPosts/Entertain.css */
+.scrollbar-hide {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE and Edge */
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Opera */
+}

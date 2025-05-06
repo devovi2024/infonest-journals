@@ -40,7 +40,7 @@ const NewsTabs = ({ posts }) => {
   };
 
   return (
-    <div className="p-4 font-ubuntu">
+    <div className=" font-ubuntu ">
       <div className="flex justify-between mb-4">
         <button
           className={`px-4 py-2 rounded-t-lg font-bold tracking-wide transition duration-400 transform ${
@@ -53,7 +53,7 @@ const NewsTabs = ({ posts }) => {
           RECENT
         </button>
         <button
-          className={`px-4 py-2 rounded-t-lg font-bold tracking-wide transition duration-700 transform ${
+          className={`px-4 py-2  font-bold tracking-wide transition duration-700 transform ${
             activeTab === 'RELATED' 
               ? 'bg-[#a34d2d] text-white scale-105' 
               : 'text-[#5b341b] hover:text-[#a34d2d]'
@@ -63,7 +63,7 @@ const NewsTabs = ({ posts }) => {
           RELATED
         </button>
         <button
-          className={`px-4 py-2 rounded-t-lg font-bold tracking-wide transition duration 500 transform ${
+          className={`px-2 rounded-t-lg font-bold tracking-wide transition duration 500 transform ${
             activeTab === 'POPULAR' 
               ? 'bg-[#a34d2d] text-white scale-105' 
               : 'text-[#5b341b] hover:text-[#a34d2d]'
@@ -74,7 +74,8 @@ const NewsTabs = ({ posts }) => {
         </button>
       </div>
 
-      {/* Conditional rendering with inline fade-in animation */}
+          <div className=''>
+                  {/* Conditional rendering with inline fade-in animation */}
       {activeTab === 'RECENT' && (
         <div style={fadeInStyle}>
           <RecentPosts posts={limitedPosts} />
@@ -90,6 +91,7 @@ const NewsTabs = ({ posts }) => {
           <PopularPosts posts={limitedPosts} />
         </div>
       )}
+          </div>
     </div>
   );
 };

@@ -46,7 +46,7 @@ const TechnologyPosts = ({ posts }) => {
           <div key={news.id} className="relative group overflow-hidden rounded-md shadow-md bg-white">
             <img
               src={news.image}
-              alt={news.title}
+              alt={news.title1}
               className="w-full h-64 object-cover transition-transform duration-300 group-hover:scale-105"
             />
             <div className="absolute bottom-0 left-0 right-0 p-5 bg-gradient-to-t from-black/90 via-black/60 to-transparent text-white">
@@ -54,7 +54,7 @@ const TechnologyPosts = ({ posts }) => {
                 {news.category} &mdash; {news.date}
               </div>
               <Link to={`/post/${news.slug}`} className="hover:underline">
-                <h3 className="text-xl font-bold leading-snug">{news.title}</h3>
+                <h3 className="text-xl font-bold leading-snug">{news.title1}</h3>
               </Link>
             </div>
           </div>

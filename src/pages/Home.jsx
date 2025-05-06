@@ -1,6 +1,5 @@
 
-import CategoryList from "../components/CategoryList";
-import BusinessPosts from "../components/BusinessPosts/BusinessPosts";
+import CategoryList from "./CategoryList";
 import TopStories from "../components/TopStories/TopStories";
 import Opinion from "../components/Opinion/Opinion";
 // import FeaturedSection from "../components/FeaturedSection";
@@ -104,9 +103,11 @@ const Home = ({ posts, categories }) => {
             <div>
               <NewsparkBanner />
             </div>
+
             <div>
-              <BusinessNews posts={posts} />
+              <BusinessNews posts={posts}/>
             </div>
+
           </div>
 
           <div className="p-7">

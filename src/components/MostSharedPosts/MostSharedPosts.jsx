@@ -83,7 +83,7 @@ const MostSharedPosts = ({ posts }) => {
 
             <Link to={`/post/${item.slug}`} className="text-blue-500 hover:underline">
                   <h3 className="text-xl font-serif text-gray-800 mt-1 mb-3 leading-snug">
-                    {item.title}
+                    {item.title1}
                   </h3>
                 </Link>
             <div className="flex items-center space-x-3 mt-1">

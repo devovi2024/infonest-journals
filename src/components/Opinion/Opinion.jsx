@@ -43,7 +43,7 @@ const Opinion = ({ posts = [] }) => {
           <span className="ml-2">{activePost?.category}</span>
         </div>
         <h2 className="text-xl md:text-2xl font-bold text-gray-800 mb-2">
-          {activePost?.title || 'No Title Available'}
+          {activePost?.title1 || 'No Title Available'}
         </h2>
         <p className="text-sm text-gray-700 md:text-base">
           {activePost?.description || 'No description available.'}

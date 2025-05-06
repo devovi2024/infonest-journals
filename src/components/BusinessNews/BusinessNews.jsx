@@ -1,13 +1,15 @@
 import React, { useState } from 'react';
 import { FaChevronRight } from 'react-icons/fa';
+import { Link } from 'react-router-dom';
 
 const BusinessNews = ({ posts }) => {
   const [currentPage, setCurrentPage] = useState(1);
   const postsPerPage = 4;
 
-  const businessPosts = posts.filter((post) => post.category.toLowerCase() === 'business');
+  const businessPosts = posts.filter(
+    (post) => post.category?.toLowerCase() === 'business'
+  );
 
-  // Pagination logic
   const indexOfLastPost = currentPage * postsPerPage;
   const indexOfFirstPost = indexOfLastPost - postsPerPage;
   const currentPosts = businessPosts.slice(indexOfFirstPost, indexOfLastPost);
@@ -16,13 +18,18 @@ const BusinessNews = ({ posts }) => {
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-8">
+      {/* Section Header */}
       <div className="flex items-center justify-between mb-6">
         <h2 className="text-3xl font-serif font-bold text-gray-900">Business News</h2>
-        <a href="#" className="text-xs font-semibold text-gray-600 hover:text-blue-600">
+        <Link
+          to={`/category/business`}
+          className="text-xs font-semibold text-gray-600 hover:text-blue-600"
+        >
           SEE ALL
-        </a>
+        </Link>
       </div>
 
+      {/* News Cards */}
       <div className="space-y-6">
         {currentPosts.map((item) => (
           <div
@@ -31,16 +38,17 @@ const BusinessNews = ({ posts }) => {
           >
             <img
               src={item.image}
-              alt={item.title}
+              alt={item.title1}
               className="w-full md:w-1/3 h-48 object-cover rounded-lg shadow-md transition-all duration-300 transform hover:scale-110"
             />
             <div className="flex flex-col justify-between">
               <div>
                 <div className="text-xs text-gray-600 font-semibold mb-2">
-                  <span className="text-blue-600">{item.author}</span> <span className="mx-1">/</span> {item.date}
+                  <span className="text-blue-600">{item.author}</span>
+                  <span className="mx-1">/</span> {item.date}
                 </div>
                 <h3 className="text-xl font-serif font-bold text-gray-900 hover:text-blue-600 transition-all duration-300">
-                  {item.title}
+                  {item.title1}
                 </h3>
                 <p className="mt-2 text-gray-700 text-sm">{item.description}</p>
               </div>

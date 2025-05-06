@@ -1,9 +1,7 @@
 import React from 'react';
 import { FaCalendarAlt } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
-import '../RecentPosts/Recent.css'; // Importing the CSS file for styles
 
-// Mock data for recent posts
 const posts = [
   {
     title: "How to Build a React App",
@@ -35,37 +33,42 @@ const posts = [
   },
 ];
 
+const formatDate = (dateString) => {
+  const options = { day: 'numeric', month: 'short', year: '2-digit' };
+  return new Date(dateString).toLocaleDateString('en-US', options);
+};
+
 const RecentPosts = ({ posts }) => {
-  // Sorting posts by date in descending order
   const sortedPosts = [...posts].sort((a, b) => new Date(b.date) - new Date(a.date));
 
-  // Return a message if no posts are available
+  // If no posts are available, show a message
   if (sortedPosts.length === 0) {
     return <p>No recent posts available.</p>;
   }
 
   return (
-    <div className="recent-posts-container"> {/* Add the background class here */}
-      {sortedPosts.map((article) => (
+    <div className="p-2 popular-posts-wrapper sm:px-6 md:px-8 lg:px-10 mx-auto text-[#3b2c23] font-serif text-sm leading-relaxed tracking-wide">
+      {sortedPosts.map((article, index) => (
         <div
-          key={article.title}
-          className="flex items-center border-b border-[#d4c4b0] border-dashed py-4 last:border-b-0"
+          key={index}
+          className="flex items-center py-4"
         >
           <img
             src={article.image}
             alt={article.title}
-            className="w-20 h-20 object-cover rounded-md shadow-sm mr-4"
+            className="w-23 h-25 object-cover rounded-md shadow-sm mr-4"
           />
           <div className="flex-1">
-            <div className="flex items-center text-sm text-[#5b341b] mb-1">
+            <div className="flex items-center text-xs sm:text-sm text-[#5b341b] mb-1 flex-wrap gap-1">
               <span className="uppercase font-semibold tracking-widest">{article.category}</span>
-              <span className="mx-2">/</span>
-              <FaCalendarAlt className="mr-1 text-[#a34d2d]" />
-              <span>{new Date(article.date).toLocaleDateString()}</span>
+              <div className="flex items-center gap-1 text-nowrap">
+                <FaCalendarAlt className="mr-1 text-[#a34d2d]" />
+                <span>{formatDate(article.date)}</span>
+              </div>
             </div>
             <Link to={`/post/${article.slug}`} className="text-blue-500 hover:underline">
-              <h3 className="text-base font-bold text-[#2f1c11] hover:text-[#a34d2d] cursor-pointer">
-                {article.title}
+            <h3 className="text-[#2f1c11] hover:text-[#a34d2d] text-sm sm:text-base font-bold leading-snug tracking-wide cursor-pointer transition duration-200">
+                {article.title1}
               </h3>
             </Link>
           </div>

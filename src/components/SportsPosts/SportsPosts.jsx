@@ -60,7 +60,7 @@ const SportsPosts = ({ posts }) => {
                   {item.category} <span className="text-gray-400">| {item.date}</span>
                 </div>
                 <h3 className="text-xl font-semibold text-[#2f2f2f] mt-2 mb-4 hover:text-[#0056b3] cursor-pointer transition-colors duration-200">
-                  {item.title}
+                  {item.title1}
                 </h3>
                 <p className="text-sm text-gray-500 mb-4">{item.description}</p>
                 <button className="px-4 py-1.5 border border-[#ddd] text-[#555] text-xs font-medium rounded hover:bg-gray-100 transition-all duration-300">

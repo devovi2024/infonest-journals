@@ -39,7 +39,7 @@ const Slide = ({ slide, onPlayVideo }) => (
     <div className="relative">
       <img
         src={slide.image}
-        alt={slide.title}
+        alt={slide.title1}
         className="w-full h-80 object-cover rounded-lg"
       />
       <div className="absolute top-0 left-0 w-full h-full flex flex-col justify-end p-4 bg-gradient-to-t from-black via-transparent to-transparent rounded-lg">
@@ -59,7 +59,7 @@ const Slide = ({ slide, onPlayVideo }) => (
           <p className="text-xs uppercase">
             {slide.category} / {slide.date}
           </p>
-          <h2 className="text-lg font-bold mt-1">{slide.title}</h2>
+          <h2 className="text-lg font-bold mt-1">{slide.title1}</h2>
         </div>
       </div>
     </div>

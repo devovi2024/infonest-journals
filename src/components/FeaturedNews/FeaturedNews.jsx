@@ -60,7 +60,7 @@ const FeaturedNews = ({ posts }) => {
         transition={{ duration: 0.4 }}
         className={`grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-${itemsPerPage > 2 ? 4 : itemsPerPage} gap-6`}
       >
-        <AnimatePresence mode="wait">
+        <AnimatePresence mode="sync">
           {displayedPosts.map((article, index) => (
             <motion.div
               key={`${index}-${article.category}`}
@@ -83,7 +83,7 @@ const FeaturedNews = ({ posts }) => {
                 {/* Title */}
                 <Link to={`/post/${article.slug}`}>
                   <h3 className="text-lg font-bold text-white leading-snug hover:underline">
-                    {article.title}
+                    {article.title1}
                   </h3>
                 </Link>
               </div>

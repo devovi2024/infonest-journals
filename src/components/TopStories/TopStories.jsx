@@ -5,7 +5,7 @@ const TopStories = ({ posts = [] }) => {
   const [fadeIn, setFadeIn] = useState(false);
 
   const topStories = posts.filter(
-    post => post.level === 'headline' || post.level === 'breaking news'
+    post => post.level === 'headline'
   );
 
   useEffect(() => {
@@ -86,13 +86,13 @@ const TopStories = ({ posts = [] }) => {
               >
                 <img
                   src={item.image}
-                  alt={item.title}
+                  alt={item.title1}
                   className="w-32 h-32 object-cover rounded-lg transform transition-transform duration-300 hover:scale-110"
                   onError={(e) => (e.target.src = '/path/to/fallback-image.jpg')}
                 />
                 <div className="pl-4 pr-2 py-4 flex flex-col justify-between">
                   <Link to={`/post/${item.slug}`} className="hover:underline">
-                    <h3 className="text-lg leading-snug mb-2">{item.title}</h3>
+                    <h3 className="text-lg leading-snug mb-2">{item.title1}</h3>
                   </Link>
                   <p className="text-xs tracking-wide">{item.level}</p>
                 </div>

@@ -7,3 +7,18 @@
     padding: 20px; 
   }
   
+
+  .popular-posts-wrapper {
+    font-family: Georgia, 'Times New Roman', serif;
+    color: #3b2c23;
+    font-size: 0.875rem; /* 14px for mobile */
+    line-height: 1.6;
+    letter-spacing: 0.02em;
+  }
+  
+  @media (min-width: 640px) {
+    .popular-posts-wrapper {
+      font-size: 1rem; /* 16px on sm+ */
+    }
+  }
+  

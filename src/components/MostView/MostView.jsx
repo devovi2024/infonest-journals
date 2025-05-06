@@ -53,14 +53,14 @@ export default function MostView({ posts }) {
           >
             <img
               src={post.img}
-              alt={post.title}
+              alt={post.title1}
               className="w-full h-32 sm:h-36 md:h-40 object-cover rounded-md mb-4"
             />
             <div className="text-xs text-blue-500 font-semibold mb-1 flex justify-between">
               <span>{post.category}</span>
               <span className="text-gray-400">{post.date}</span>
             </div>
-            <h3 className="text-sm font-semibold text-gray-800">{post.title}</h3>
+            <h3 className="text-sm font-semibold text-gray-800">{post.title1}</h3>
             <div className="flex justify-end text-lg text-gray-500 opacity-50 mt-2">
               <span>{index + 1}</span>
             </div>

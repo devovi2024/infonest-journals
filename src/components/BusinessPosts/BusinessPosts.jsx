@@ -34,12 +34,12 @@ const BusinessPosts = ({ posts }) => {
             >
               <img
                 src={post.imageUrl}
-                alt={post.title}
+                alt={post.title1}
                 className="w-full h-48 object-cover transition-all duration-300 transform hover:scale-110"
               />
               <div className="p-6">
                 <h3 className="text-xl font-semibold text-gray-800 mb-2 hover:text-blue-600 transition-all duration-300">
-                  {post.title}
+                  {post.title1}
                 </h3>
                 <p className="text-gray-600 text-sm mb-4">
                   By {post.author} | {post.date}

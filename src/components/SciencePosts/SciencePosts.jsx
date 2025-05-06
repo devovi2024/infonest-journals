@@ -86,7 +86,7 @@ const SciencePosts = ({ posts }) => {
                   {item.category} <span className="text-gray-400">| {item.date}</span>
                 </div>
                 <h3 className="text-base font-medium text-gray-700 mt-1 hover:text-[#0056b3] cursor-pointer transition-colors duration-200">
-                  {item.title}
+                  {item.title1}
                 </h3>
                 <p className="text-sm text-gray-600 mb-4">{item.description}</p>
                 <button className="px-3 py-1.5 border border-[#ddd] text-[#555] text-xs font-medium rounded hover:bg-gray-100 transition-all duration-300">
