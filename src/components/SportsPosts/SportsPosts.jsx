@@ -1,16 +1,9 @@
 import React from 'react'; 
-import { useSpring, animated } from 'react-spring'; // React Spring for animations
+import { motion } from 'framer-motion'; 
 
 const SportsPosts = ({ posts }) => {
   // Filter only sports category posts
   const sportsPosts = posts.filter(post => post.category.toLowerCase() === 'sports');
-
-  // Animation for each post's hover effect
-  const hoverSpring = useSpring({
-    transform: 'scale(1)',
-    from: { transform: 'scale(0.98)' },
-    config: { tension: 300, friction: 20 },
-  });
 
   return (
     <div className="bg-white p-4 font-serif">
@@ -23,10 +16,13 @@ const SportsPosts = ({ posts }) => {
       <div className="max-h-[500px] overflow-y-auto scrollbar-thin scrollbar-thumb-gray-300 scrollbar-track-gray-100 pr-2">
         {sportsPosts.length > 0 ? (
           sportsPosts.map((item, index) => (
-            <animated.div
+            <motion.div
               key={index}
-              style={hoverSpring}
-              className="flex flex-col bg-white border border-gray-200 rounded-lg shadow-sm mb-6 hover:shadow-md transition duration-300 ease-in-out transform hover:scale-105"
+              whileHover={{ scale: 1.05 }} // ✅ Animation with framer-motion
+              initial={{ scale: 0.98 }} // Initial scale
+              animate={{ scale: 1 }} // Animation scale
+              transition={{ duration: 0.3 }}
+              className="flex flex-col bg-white border border-gray-200 rounded-lg shadow-sm mb-6 hover:shadow-md transition duration-300 ease-in-out"
             >
               {/* Image */}
               <div className="relative">
@@ -67,7 +63,7 @@ const SportsPosts = ({ posts }) => {
                   READ MORE
                 </button>
               </div>
-            </animated.div>
+            </motion.div>
           ))
         ) : (
           <p className="text-gray-400 font-serif text-sm">No sports news available.</p>

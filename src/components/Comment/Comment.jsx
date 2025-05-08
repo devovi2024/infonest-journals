@@ -12,7 +12,7 @@ const Comment = () => {
       likes: 25,
       dislikes: 3,
       replies: [],
-      timestamp: Date.now() - 10000000, // Timestamp for sorting
+      timestamp: Date.now() - 10000000, 
     },
     {
       id: 2,
@@ -23,7 +23,7 @@ const Comment = () => {
       likes: 2,
       dislikes: 0,
       replies: [],
-      timestamp: Date.now() - 5000000, // Timestamp for sorting
+      timestamp: Date.now() - 5000000, 
       isHighlighted: true,
     },
     {
@@ -51,7 +51,7 @@ const Comment = () => {
         {
           id: comments.length + 1,
           user: 'Current User',
-          avatar: 'https://via.placeholder.com/40',
+          avatar: 'https://i.ibb.co.com/yBgzS4z1/smiling-young-man-illustration-1308-174669.jpg',
           time: 'Just now',
           content: newComment,
           likes: 0,

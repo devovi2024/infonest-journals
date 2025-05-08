@@ -2,7 +2,6 @@
 import CategoryList from "./CategoryList";
 import TopStories from "../components/TopStories/TopStories";
 import Opinion from "../components/Opinion/Opinion";
-// import FeaturedSection from "../components/FeaturedSection";
 import NewsTabs from "../components/NewsTabs/NewsTabs"; 
 import FeaturedNews from "../components/FeaturedNews/FeaturedNews";
 import TechnologyPosts from "../components/TechnologyPosts/TechnologyPosts";
@@ -10,8 +9,6 @@ import RecentTechnologyPosts from "../components/RecentTechnologyPosts/RecentTec
 import SocialMediaWidget from "../components/SocialMediaWidget/SocialMediaWidget";
 import MostSharePosts from '../components/MostSharedPosts/MostSharedPosts';
 import Carousel from "../components/Carousel/Carousel";
-// import Workspace from "../components/Workdpace/Workdpace";
-// import MostView from "../components/MostView/MostView";
 import EntertainmentPosts from "../components/EntertainmentPosts/EntertainmentPosts";
 import SportsPosts from "../components/SportsPosts/SportsPosts";
 import SciencePosts from "../components/SciencePosts/SciencePosts";

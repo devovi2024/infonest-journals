@@ -1,18 +1,12 @@
 import React, { useState } from 'react';
-import { useSpring, animated } from 'react-spring'; 
+import { motion } from 'framer-motion'; 
+import '../SciencePosts/SciencePosts.css';
 
 const SciencePosts = ({ posts }) => {
   // Filter posts to only include science category
   const sciencePosts = posts.filter(
     (post) => post.category.toLowerCase() === 'science'
   );
-
-  // Animation for hover effect
-  const hoverSpring = useSpring({
-    transform: 'scale(1)',
-    from: { transform: 'scale(0.98)' },
-    config: { tension: 300, friction: 20 },
-  });
 
   // Pagination state
   const [currentPage, setCurrentPage] = useState(1);
@@ -50,9 +44,11 @@ const SciencePosts = ({ posts }) => {
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-4">
         {currentPosts.length > 0 ? (
           currentPosts.map((item, index) => (
-            <animated.div
+            <motion.div
               key={index}
-              style={hoverSpring}
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              transition={{ duration: 0.6, ease: "easeOut", delay: index * 0.2 }} // Adding staggered effect
               className="flex items-start bg-white p-4 shadow-md rounded-lg hover:shadow-lg transition duration-300 ease-in-out transform hover:scale-105"
             >
               {/* Image with Red Circle and Lightning Bolt */}
@@ -93,7 +89,7 @@ const SciencePosts = ({ posts }) => {
                   READ MORE
                 </button>
               </div>
-            </animated.div>
+            </motion.div>
           ))
         ) : (
           <p className="text-gray-500 font-serif text-sm">No science news available.</p>
