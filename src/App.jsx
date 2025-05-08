@@ -4,14 +4,12 @@ import Home from "./pages/Home";
 import MainLayout from "./layouts/MainLayout";
 import CategoryPage from "./pages/CategoryPage";
 import BlogDetails from "./components/BlogDetails/BlogDetails";
-import Loader from "./components/Loader"; // ✅ Add loader import
-
+import Loader from "./components/Loader"; 
 const App = () => {
   const [posts, setPosts] = useState([]);
   const [categories, setCategories] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
 
-  // ✅ Always call all hooks first
   useEffect(() => {
     const fetchData = async () => {
       try {
@@ -30,12 +28,11 @@ const App = () => {
   useEffect(() => {
     const timer = setTimeout(() => {
       setIsLoading(false);
-    }, 2000); // loader duration
+    }, 2000); 
 
     return () => clearTimeout(timer);
   }, []);
 
-  // ✅ Then conditionally return JSX
   if (isLoading) {
     return <Loader />;
   }
